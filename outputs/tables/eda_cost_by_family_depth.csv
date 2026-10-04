@@ -1,0 +1,41 @@
+shade_family,depth_class,jobs,mean_total_cost_usd,mean_cpq_usd,mean_corrective_trials
+Beige,Medium,196,876.42,438.6,4.11
+Beige,Pastel/Light,434,706.46,318.86,3.75
+Black,Dark,13,967.91,450.35,4.08
+Black,Extra Dark,252,1170.76,570.18,4.36
+Blue,Dark,359,1108.57,548.65,4.28
+Blue,Extra Dark,56,1340.4,630.47,4.82
+Blue,Medium,422,813.08,364.17,3.78
+Blue,Pastel/Light,209,677.63,287.76,3.35
+Brown,Dark,242,1098.45,565.33,4.56
+Brown,Extra Dark,27,1465.58,784.26,4.81
+Brown,Medium,141,853.43,414.79,4.13
+Green,Dark,560,1108.07,562.66,4.58
+Green,Extra Dark,16,1721.79,1011.74,4.88
+Green,Medium,700,827.45,382.75,3.86
+Green,Pastel/Light,223,663.15,283.18,3.57
+Grey,Dark,274,1024.78,521.25,4.64
+Grey,Medium,259,825.59,395.91,4.1
+Grey,Pastel/Light,158,629.99,244.08,3.08
+Orange,Dark,183,945.87,419.26,3.8
+Orange,Medium,319,755.63,318.38,3.19
+Orange,Pastel/Light,62,596.35,221.82,2.85
+Pink,Dark,15,1094.34,516.32,3.67
+Pink,Medium,303,734.62,289.89,3.08
+Pink,Pastel/Light,184,647.42,254.05,2.9
+Purple,Dark,148,1037.4,506.42,4.26
+Purple,Extra Dark,33,1140.65,490.35,4.3
+Purple,Medium,159,794.06,353.23,3.55
+Purple,Pastel/Light,89,657.65,277.12,3.11
+Red,Dark,379,991.56,453.99,3.95
+Red,Extra Dark,52,1300.5,619.43,3.98
+Red,Medium,340,751.18,312.5,3.31
+Teal,Dark,67,1138.13,561.9,4.0
+Teal,Medium,104,876.0,422.03,3.92
+Turquoise,Dark,19,1114.92,507.9,4.26
+Turquoise,Medium,72,780.74,328.36,3.46
+Turquoise,Pastel/Light,11,723.42,328.62,3.18
+White,Pastel/Light,115,588.63,207.52,2.32
+Yellow,Dark,349,963.07,443.85,3.75
+Yellow,Medium,327,731.22,291.3,3.0
+Yellow,Pastel/Light,129,575.59,194.2,2.59

@@ -1,0 +1,18 @@
+# Theme tokens match src/viz_theme.py, so the app and the printed figures in
+# the thesis read as one piece of work.
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#f9f9f7"
+secondaryBackgroundColor = "#fcfcfb"
+textColor = "#0b0b0b"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false

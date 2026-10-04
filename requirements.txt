@@ -1,0 +1,22 @@
+# Dependencies for the DEPLOYED APP only (Streamlit Community Cloud, Hugging
+# Face Spaces, Render, ...). Keep this lean: every extra package is install
+# time on a cold start and another chance for the build to fail.
+#
+# To reproduce the full research pipeline (run_all.py) install
+# requirements-research.txt instead - it adds LightGBM, CatBoost and SHAP,
+# which the benchmark uses but the app does not.
+#
+# Versions are RANGES, not pins, on purpose. The app trains its own models at
+# startup rather than unpickling stored ones, so it does not need to match the
+# exact library versions used during development - which is what usually
+# breaks a cloud deploy.
+
+streamlit>=1.37,<1.42
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+scipy>=1.11
+joblib>=1.3
+xgboost>=2.0
+plotly>=5.18
+matplotlib>=3.8

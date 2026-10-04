@@ -1,0 +1,500 @@
+shade_no,shade_code,shade_name,shade_family,depth_label,depth_class,colour_direction,n_dyes_typical,criticality
+1,SH-0001-MES,Mesculen Green,Green,Medium,Medium,Green / slightly blue,4,0.68
+2,SH-0002-DES,Desert Sky,Blue,Light-Medium,Medium,Soft blue / slightly grey,3,0.58
+3,SH-0003-JET,Jet Black,Black,Deep,Extra Dark,Neutral black,4,0.5
+4,SH-0004-DEE,Deep Black,Black,Deep,Extra Dark,Dense neutral black,4,0.5
+5,SH-0005-CAR,Carbon Black,Black,Deep,Extra Dark,Black / slightly cool,4,0.5
+6,SH-0006-MID,Midnight Black,Black,Deep,Extra Dark,Black / blue,4,0.5
+7,SH-0007-CHA,Charcoal,Grey,Dark,Dark,Grey / black,4,0.85
+8,SH-0008-GRA,Graphite,Grey,Dark,Dark,Cool grey,4,0.85
+9,SH-0009-ANT,Anthracite,Grey,Dark,Dark,Dark grey / black,4,0.85
+10,SH-0010-BLA,Black Olive,Green,Dark,Dark,Black / olive green,3,0.68
+11,SH-0011-RAV,Raven Black,Black,Deep,Extra Dark,Cool black,4,0.5
+12,SH-0012-EBO,Ebony,Black,Deep,Extra Dark,Warm black / brown,4,0.5
+13,SH-0013-ONY,Onyx,Black,Deep,Extra Dark,Neutral black,4,0.5
+14,SH-0014-COA,Coal Black,Black,Deep,Extra Dark,Dense black / grey,4,0.5
+15,SH-0015-PIT,Pitch Black,Black,Deep,Extra Dark,Very deep neutral black,4,0.5
+16,SH-0016-SOF,Soft Black,Black,Medium-Deep,Extra Dark,Soft neutral black,4,0.5
+17,SH-0017-BLU,Blue Black,Black,Deep,Extra Dark,Black / blue,4,0.5
+18,SH-0018-BRO,Brown Black,Black,Deep,Extra Dark,Black / brown,4,0.5
+19,SH-0019-GRE,Green Black,Black,Deep,Extra Dark,Black / green,4,0.5
+20,SH-0020-WAR,Warm Black,Black,Deep,Extra Dark,Black / warm brown,3,0.5
+21,SH-0021-COO,Cool Black,Black,Deep,Extra Dark,Black / blue-grey,4,0.5
+22,SH-0022-JET,Jet Charcoal,Grey,Dark,Dark,Charcoal / black,3,0.85
+23,SH-0023-DAR,Dark Graphite,Grey,Dark,Dark,Dark cool grey,4,0.85
+24,SH-0024-SMO,Smoke Black,Black,Dark,Dark,Black / smoky grey,3,0.5
+25,SH-0025-INK,Ink Black,Black,Deep,Extra Dark,Blue-black,4,0.5
+26,SH-0026-MID,Midnight Blue,Blue,Deep,Extra Dark,Blue / black,3,0.58
+27,SH-0027-NAV,Navy Blue,Blue,Dark,Dark,Deep blue,4,0.58
+28,SH-0028-DEE,Deep Navy,Blue,Deep,Extra Dark,Very dark blue,4,0.58
+29,SH-0029-MAR,Marine Navy,Blue,Dark,Dark,Navy / marine blue,4,0.58
+30,SH-0030-ROY,Royal Navy,Blue,Dark,Dark,Strong blue / navy,4,0.58
+31,SH-0031-FRE,French Navy,Blue,Dark,Dark,Navy / slightly grey,4,0.58
+32,SH-0032-CLA,Classic Navy,Blue,Dark,Dark,Standard deep navy,4,0.58
+33,SH-0033-DAR,Dark Navy,Blue,Deep,Extra Dark,Very dark blue,4,0.58
+34,SH-0034-INK,Ink Blue,Blue,Dark,Dark,Blue / black,4,0.58
+35,SH-0035-OXF,Oxford Blue,Blue,Dark,Dark,Deep blue / slightly grey,4,0.58
+36,SH-0036-PRU,Prussian Blue,Blue,Dark,Dark,Deep blue / green,4,0.58
+37,SH-0037-COB,Cobalt Blue,Blue,Medium-Dark,Dark,Strong blue,4,0.58
+38,SH-0038-ROY,Royal Blue,Blue,Medium-Dark,Dark,Brilliant blue,3,0.58
+39,SH-0039-SAP,Sapphire Blue,Blue,Medium-Dark,Dark,Rich blue,4,0.58
+40,SH-0040-ULT,Ultramarine,Blue,Medium-Dark,Dark,Strong violet-blue,3,0.58
+41,SH-0041-MAR,Marine Blue,Blue,Medium-Dark,Dark,Deep marine blue,4,0.58
+42,SH-0042-OCE,Ocean Blue,Blue,Medium,Medium,Blue / slightly green,3,0.58
+43,SH-0043-DEE,Deep Ocean,Blue,Dark,Dark,Deep blue / teal,3,0.58
+44,SH-0044-OCE,Oceanic Blue,Blue,Medium,Medium,Blue / green,3,0.58
+45,SH-0045-ATL,Atlantic Blue,Blue,Medium-Dark,Dark,Deep ocean blue,3,0.58
+46,SH-0046-PAC,Pacific Blue,Blue,Medium,Medium,Blue / slightly green,4,0.58
+47,SH-0047-STE,Steel Blue,Blue,Medium,Medium,Blue / grey,4,0.58
+48,SH-0048-SLA,Slate Blue,Blue,Medium-Dark,Dark,Blue / grey,3,0.58
+49,SH-0049-DUS,Dusty Blue,Blue,Light-Medium,Medium,Muted blue / grey,3,0.58
+50,SH-0050-DEN,Denim Blue,Blue,Medium-Dark,Dark,Blue / slightly grey,4,0.58
+51,SH-0051-DAR,Dark Denim,Blue,Dark,Dark,Deep denim blue,4,0.58
+52,SH-0052-LIG,Light Denim,Blue,Light-Medium,Medium,Soft denim blue,3,0.58
+53,SH-0053-IND,Indigo,Blue,Dark,Dark,Blue / violet,4,0.58
+54,SH-0054-DEE,Deep Indigo,Blue,Deep,Extra Dark,Dark blue / violet,3,0.58
+55,SH-0055-IND,Indigo Blue,Blue,Dark,Dark,Blue / violet,4,0.58
+56,SH-0056-WED,Wedgewood Blue,Blue,Light-Medium,Medium,Soft muted blue,3,0.58
+57,SH-0057-COR,Cornflower Blue,Blue,Light-Medium,Medium,Blue / slightly violet,4,0.58
+58,SH-0058-PER,Periwinkle Blue,Blue,Light,Pastel/Light,Pale blue / violet,4,0.58
+59,SH-0059-POW,Powder Blue,Blue,Light,Pastel/Light,Soft pale blue,4,0.58
+60,SH-0060-BAB,Baby Blue,Blue,Light,Pastel/Light,Very pale blue,4,0.58
+61,SH-0061-SKY,Sky Blue,Blue,Light-Medium,Medium,Clear light blue,4,0.58
+62,SH-0062-CLE,Clear Sky Blue,Blue,Light,Pastel/Light,Bright light blue,4,0.58
+63,SH-0063-DES,Desert Sky,Blue,Light-Medium,Medium,Soft blue / grey,4,0.58
+64,SH-0064-AZU,Azure Blue,Blue,Medium,Medium,Bright blue,4,0.58
+65,SH-0065-CER,Cerulean Blue,Blue,Medium,Medium,Bright sky blue,3,0.58
+66,SH-0066-CAP,Capri Blue,Blue,Medium,Medium,Bright blue / cyan,3,0.58
+67,SH-0067-TUR,Turquoise Blue,Blue,Medium,Medium,Blue / green,4,0.58
+68,SH-0068-AQU,Aqua Blue,Blue,Light-Medium,Medium,Blue / cyan,3,0.58
+69,SH-0069-ICE,Ice Blue,Blue,Very Light,Pastel/Light,Pale icy blue,4,0.58
+70,SH-0070-ARC,Arctic Blue,Blue,Light,Pastel/Light,Cool pale blue,4,0.58
+71,SH-0071-GLA,Glacier Blue,Blue,Light,Pastel/Light,Pale cool blue,4,0.58
+72,SH-0072-CRY,Crystal Blue,Blue,Light,Pastel/Light,Clear pale blue,3,0.58
+73,SH-0073-MIS,Mist Blue,Blue,Light,Pastel/Light,Blue / grey,4,0.58
+74,SH-0074-CLO,Cloud Blue,Blue,Light,Pastel/Light,Soft muted blue,4,0.58
+75,SH-0075-PAL,Pale Blue,Blue,Light,Pastel/Light,Very light blue,3,0.58
+76,SH-0076-LIG,Light Blue,Blue,Light,Pastel/Light,Clear light blue,3,0.58
+77,SH-0077-MED,Medium Blue,Blue,Medium,Medium,Standard blue,3,0.58
+78,SH-0078-BRI,Bright Blue,Blue,Medium,Medium,High-chroma blue,4,0.58
+79,SH-0079-ELE,Electric Blue,Blue,Bright,Medium,Brilliant blue,3,0.58
+80,SH-0080-NEO,Neon Blue,Blue,Bright,Medium,Very bright blue,4,0.58
+81,SH-0081-CYA,Cyan Blue,Blue,Medium,Medium,Blue / cyan,3,0.58
+82,SH-0082-CYA,Cyan,Blue,Medium,Medium,Strong cyan,4,0.58
+83,SH-0083-DEE,Deep Cyan,Blue,Dark,Dark,Deep cyan,4,0.58
+84,SH-0084-TEA,Teal Blue,Teal,Medium,Medium,Blue / green,3,0.82
+85,SH-0085-PEA,Peacock Blue,Blue,Medium-Dark,Dark,Blue / green,3,0.58
+86,SH-0086-PEA,Peacock,Teal,Medium-Dark,Dark,Deep blue-green,3,0.82
+87,SH-0087-PET,Petrol Blue,Blue,Dark,Dark,Blue / green-grey,4,0.58
+88,SH-0088-PET,Petrol,Teal,Dark,Dark,Deep blue-green,3,0.82
+89,SH-0089-MAR,Marine Teal,Teal,Medium-Dark,Dark,Blue-green,4,0.82
+90,SH-0090-DAR,Dark Teal,Teal,Dark,Dark,Deep blue-green,4,0.82
+91,SH-0091-TEA,Teal,Teal,Medium,Medium,Blue-green,3,0.82
+92,SH-0092-DEE,Deep Teal,Teal,Dark,Dark,Deep blue-green,4,0.82
+93,SH-0093-BLU,Blue Teal,Teal,Medium,Medium,Blue-dominant teal,2,0.82
+94,SH-0094-GRE,Green Teal,Teal,Medium,Medium,Green-dominant teal,2,0.82
+95,SH-0095-AQU,Aqua Teal,Teal,Light-Medium,Medium,Aqua / green,2,0.82
+96,SH-0096-TUR,Turquoise,Turquoise,Medium,Medium,Blue-green,2,0.66
+97,SH-0097-DEE,Deep Turquoise,Turquoise,Dark,Dark,Deep blue-green,4,0.66
+98,SH-0098-BRI,Bright Turquoise,Turquoise,Bright,Medium,Strong blue-green,3,0.66
+99,SH-0099-LIG,Light Turquoise,Turquoise,Light,Pastel/Light,Pale blue-green,4,0.66
+100,SH-0100-AQU,Aqua,Turquoise,Light-Medium,Medium,Blue-green / cyan,4,0.66
+101,SH-0101-SEA,Sea Blue,Blue,Medium,Medium,Blue / green,4,0.58
+102,SH-0102-SEA,Sea Green,Green,Medium,Medium,Green / blue,4,0.68
+103,SH-0103-SEA,Seafoam Blue,Blue,Light,Pastel/Light,Pale blue-green,4,0.58
+104,SH-0104-OCE,Ocean Teal,Teal,Medium,Medium,Blue-green,4,0.82
+105,SH-0105-LAG,Lagoon Blue,Blue,Medium,Medium,Blue / turquoise,4,0.58
+106,SH-0106-LAG,Lagoon Green,Green,Medium,Medium,Green / turquoise,3,0.68
+107,SH-0107-TRO,Tropical Blue,Blue,Medium,Medium,Bright blue,4,0.58
+108,SH-0108-CAR,Caribbean Blue,Blue,Medium,Medium,Bright turquoise-blue,4,0.58
+109,SH-0109-MAR,Marine Aqua,Turquoise,Medium,Medium,Aqua / blue,3,0.66
+110,SH-0110-BLU,Blue Lagoon,Turquoise,Medium,Medium,Blue-green,2,0.66
+111,SH-0111-GRE,Green,Green,Medium,Medium,Balanced green,4,0.68
+112,SH-0112-FOR,Forest Green,Green,Dark,Dark,Deep natural green,4,0.68
+113,SH-0113-DEE,Deep Forest,Green,Deep,Extra Dark,Very dark green,4,0.68
+114,SH-0114-DAR,Dark Forest,Green,Dark,Dark,Deep green,4,0.68
+115,SH-0115-PIN,Pine Green,Green,Dark,Dark,Green / blue,4,0.68
+116,SH-0116-PIN,Pine,Green,Dark,Dark,Deep cool green,4,0.68
+117,SH-0117-EVE,Evergreen,Green,Dark,Dark,Deep green,3,0.68
+118,SH-0118-HUN,Hunter Green,Green,Dark,Dark,Deep green / blue,3,0.68
+119,SH-0119-DAR,Dark Hunter,Green,Dark,Dark,Very deep green,4,0.68
+120,SH-0120-BOT,Bottle Green,Green,Dark,Dark,Deep blue-green,4,0.68
+121,SH-0121-BRI,British Green,Green,Dark,Dark,Deep traditional green,4,0.68
+122,SH-0122-RAC,Racing Green,Green,Dark,Dark,Deep green / blue,4,0.68
+123,SH-0123-KEL,Kelly Green,Green,Medium-Bright,Medium,Strong yellow-green,3,0.68
+124,SH-0124-EME,Emerald Green,Green,Medium-Dark,Dark,Rich green / blue,4,0.68
+125,SH-0125-DEE,Deep Emerald,Green,Dark,Dark,Deep emerald green,4,0.68
+126,SH-0126-EME,Emerald,Green,Medium-Dark,Dark,Rich green,3,0.68
+127,SH-0127-JAD,Jade Green,Green,Medium,Medium,Green / blue,3,0.68
+128,SH-0128-JAD,Jade,Green,Medium,Medium,Blue-green,4,0.68
+129,SH-0129-MAL,Malachite Green,Green,Medium-Dark,Dark,Rich blue-green,4,0.68
+130,SH-0130-VIR,Viridian Green,Green,Medium,Medium,Blue-green,4,0.68
+131,SH-0131-LEA,Leaf Green,Green,Medium,Medium,Natural green,3,0.68
+132,SH-0132-FRE,Fresh Leaf,Green,Medium,Medium,Bright natural green,4,0.68
+133,SH-0133-GRA,Grass Green,Green,Medium-Bright,Medium,Yellow-green,3,0.68
+134,SH-0134-LAW,Lawn Green,Green,Bright,Medium,Bright yellow-green,4,0.68
+135,SH-0135-SPR,Spring Green,Green,Bright,Medium,Yellow-green,4,0.68
+136,SH-0136-APP,Apple Green,Green,Medium-Bright,Medium,Yellow-green,4,0.68
+137,SH-0137-LIM,Lime Green,Green,Bright,Medium,Strong yellow-green,4,0.68
+138,SH-0138-BRI,Bright Lime,Green,Bright,Medium,Brilliant yellow-green,4,0.68
+139,SH-0139-NEO,Neon Green,Green,Bright,Medium,Fluorescent green,3,0.68
+140,SH-0140-ACI,Acid Green,Green,Bright,Medium,Yellow-green,4,0.68
+141,SH-0141-CHA,Chartreuse,Green,Bright,Medium,Yellow-green,4,0.68
+142,SH-0142-YEL,Yellow Green,Green,Medium-Bright,Medium,Yellow-dominant green,4,0.68
+143,SH-0143-OLI,Olive Green,Green,Medium-Dark,Dark,Green / yellow-brown,4,0.68
+144,SH-0144-DAR,Dark Olive,Green,Dark,Dark,Deep olive,4,0.68
+145,SH-0145-LIG,Light Olive,Green,Light-Medium,Medium,Pale olive,3,0.68
+146,SH-0146-OLI,Olive Drab,Green,Dark,Dark,Muted olive,4,0.68
+147,SH-0147-MOS,Moss Green,Green,Medium-Dark,Dark,Muted natural green,4,0.68
+148,SH-0148-MOS,Moss,Green,Medium-Dark,Dark,Green / yellow-grey,4,0.68
+149,SH-0149-SAG,Sage Green,Green,Light-Medium,Medium,Muted grey-green,4,0.68
+150,SH-0150-SOF,Soft Sage,Green,Light,Pastel/Light,Soft grey-green,4,0.68
+151,SH-0151-DUS,Dusty Sage,Green,Light-Medium,Medium,Grey-green,4,0.68
+152,SH-0152-EUC,Eucalyptus Green,Green,Medium,Medium,Blue-green / grey,3,0.68
+153,SH-0153-MIN,Mint Green,Green,Light,Pastel/Light,Pale green,4,0.68
+154,SH-0154-FRE,Fresh Mint,Green,Light,Pastel/Light,Bright pale green,4,0.68
+155,SH-0155-SOF,Soft Mint,Green,Light,Pastel/Light,Soft green,4,0.68
+156,SH-0156-PAL,Pale Mint,Green,Very Light,Pastel/Light,Very pale green,4,0.68
+157,SH-0157-ICE,Ice Mint,Green,Very Light,Pastel/Light,Cool pale green,3,0.68
+158,SH-0158-SEA,Seafoam Green,Green,Light,Pastel/Light,Pale blue-green,4,0.68
+159,SH-0159-SEA,Seafoam,Green,Light,Pastel/Light,Soft blue-green,3,0.68
+160,SH-0160-PIS,Pistachio Green,Green,Light-Medium,Medium,Yellow-green,4,0.68
+161,SH-0161-PIS,Pistachio,Green,Light,Pastel/Light,Soft yellow-green,4,0.68
+162,SH-0162-AVO,Avocado Green,Green,Medium,Medium,Yellow-green / brown,4,0.68
+163,SH-0163-AVO,Avocado,Green,Medium,Medium,Muted yellow-green,3,0.68
+164,SH-0164-FER,Fern Green,Green,Medium,Medium,Natural green,3,0.68
+165,SH-0165-FER,Fern,Green,Medium,Medium,Muted green,4,0.68
+166,SH-0166-CEL,Celery Green,Green,Light,Pastel/Light,Pale yellow-green,4,0.68
+167,SH-0167-CAC,Cactus Green,Green,Medium-Dark,Dark,Muted green,4,0.68
+168,SH-0168-CAC,Cactus,Green,Medium,Medium,Dusty green,3,0.68
+169,SH-0169-ARM,Army Green,Green,Dark,Dark,Olive green,3,0.68
+170,SH-0170-MIL,Military Green,Green,Dark,Dark,Olive / green,3,0.68
+171,SH-0171-KHA,Khaki Green,Green,Medium,Medium,Green / beige,4,0.68
+172,SH-0172-KHA,Khaki,Green,Medium,Medium,Yellow-green / brown,4,0.68
+173,SH-0173-DAR,Dark Khaki,Green,Dark,Dark,Dark olive,4,0.68
+174,SH-0174-LIG,Light Khaki,Green,Light-Medium,Medium,Pale olive,4,0.68
+175,SH-0175-STO,Stone Green,Green,Light-Medium,Medium,Grey-green,3,0.68
+176,SH-0176-LAU,Laurel Green,Green,Light,Pastel/Light,Pale muted green,4,0.68
+177,SH-0177-CEL,Celadon Green,Green,Light,Pastel/Light,Pale blue-green,3,0.68
+178,SH-0178-DEE,Deep Sea Green,Green,Dark,Dark,Deep blue-green,4,0.68
+179,SH-0179-PAR,Parrot Green,Green,Bright,Medium,Yellow-green,4,0.68
+180,SH-0180-JUN,Jungle Green,Green,Dark,Dark,Deep natural green,3,0.68
+181,SH-0181-RAI,Rainforest Green,Green,Dark,Dark,Deep green,4,0.68
+182,SH-0182-AMA,Amazon Green,Green,Dark,Dark,Rich green,4,0.68
+183,SH-0183-TRO,Tropical Green,Green,Medium-Bright,Medium,Bright natural green,3,0.68
+184,SH-0184-BAM,Bamboo Green,Green,Medium,Medium,Yellow-green,3,0.68
+185,SH-0185-BAM,Bamboo,Green,Light-Medium,Medium,Yellow-green / beige,4,0.68
+186,SH-0186-MAT,Matcha Green,Green,Medium,Medium,Muted yellow-green,4,0.68
+187,SH-0187-MAT,Matcha,Green,Medium,Medium,Soft olive-green,4,0.68
+188,SH-0188-TEA,Tea Green,Green,Light,Pastel/Light,Pale green,3,0.68
+189,SH-0189-TEA,Tea Leaf Green,Green,Medium,Medium,Muted green,4,0.68
+190,SH-0190-WAS,Wasabi Green,Green,Bright,Medium,Yellow-green,4,0.68
+191,SH-0191-WAS,Wasabi,Green,Medium-Bright,Medium,Yellow-green,4,0.68
+192,SH-0192-FER,Fern Olive,Green,Medium-Dark,Dark,Olive green,4,0.68
+193,SH-0193-ARM,Army Olive,Green,Dark,Dark,Dark olive,4,0.68
+194,SH-0194-DAR,Dark Moss,Green,Dark,Dark,Deep muted green,4,0.68
+195,SH-0195-DEE,Deep Moss,Green,Dark,Dark,Deep olive-green,4,0.68
+196,SH-0196-WOO,Woodland Green,Green,Dark,Dark,Natural deep green,3,0.68
+197,SH-0197-WOO,Woodland,Green,Dark,Dark,Green / brown,3,0.68
+198,SH-0198-CYP,Cypress Green,Green,Dark,Dark,Deep green,3,0.68
+199,SH-0199-YEL,Yellow,Yellow,Light-Medium,Medium,Pure yellow,2,0.32
+200,SH-0200-LEM,Lemon Yellow,Yellow,Light,Pastel/Light,Bright cool yellow,1,0.32
+201,SH-0201-BRI,Bright Yellow,Yellow,Bright,Medium,High-chroma yellow,2,0.32
+202,SH-0202-PAL,Pale Yellow,Yellow,Light,Pastel/Light,Soft pale yellow,3,0.32
+203,SH-0203-SOF,Soft Yellow,Yellow,Light,Pastel/Light,Muted yellow,1,0.32
+204,SH-0204-BUT,Butter Yellow,Yellow,Light,Pastel/Light,Warm pale yellow,3,0.32
+205,SH-0205-BUT,Buttercream Yellow,Yellow,Light,Pastel/Light,Creamy yellow,1,0.32
+206,SH-0206-CRE,Cream Yellow,Yellow,Light,Pastel/Light,Pale warm yellow,2,0.32
+207,SH-0207-GOL,Golden Yellow,Yellow,Medium,Medium,Warm golden yellow,3,0.32
+208,SH-0208-SUN,Sun Yellow,Yellow,Bright,Medium,Bright warm yellow,1,0.32
+209,SH-0209-SUN,Sunshine Yellow,Yellow,Bright,Medium,Vivid yellow,1,0.32
+210,SH-0210-CAN,Canary Yellow,Yellow,Bright,Medium,Clear bright yellow,3,0.32
+211,SH-0211-DAF,Daffodil Yellow,Yellow,Bright,Medium,Warm bright yellow,3,0.32
+212,SH-0212-COR,Corn Yellow,Yellow,Medium,Medium,Warm yellow,3,0.32
+213,SH-0213-MAI,Maize Yellow,Yellow,Medium,Medium,Warm yellow,3,0.32
+214,SH-0214-MUS,Mustard Yellow,Yellow,Medium-Dark,Dark,Yellow / brown,4,0.32
+215,SH-0215-HON,Honey Yellow,Yellow,Medium,Medium,Golden yellow,3,0.32
+216,SH-0216-AMB,Amber Yellow,Yellow,Medium-Dark,Dark,Yellow / orange,2,0.32
+217,SH-0217-AMB,Amber,Orange,Medium-Dark,Dark,Orange-yellow,4,0.38
+218,SH-0218-GOL,Gold Yellow,Yellow,Medium,Medium,Rich golden yellow,3,0.32
+219,SH-0219-GOL,Golden,Yellow,Medium,Medium,Warm yellow,2,0.32
+220,SH-0220-ANT,Antique Gold,Yellow,Medium-Dark,Dark,Muted gold,2,0.32
+221,SH-0221-OLD,Old Gold,Yellow,Dark,Dark,Gold / brown,4,0.32
+222,SH-0222-MET,Metallic Gold,Yellow,Medium-Dark,Dark,Golden / metallic,2,0.32
+223,SH-0223-BRO,Bronze Gold,Brown,Dark,Dark,Gold / brown,3,0.8
+224,SH-0224-CHA,Champagne Gold,Yellow,Light,Pastel/Light,Pale golden beige,3,0.32
+225,SH-0225-OCH,Ochre Yellow,Yellow,Medium-Dark,Dark,Yellow / brown,3,0.32
+226,SH-0226-DEE,Deep Ochre,Yellow,Dark,Dark,Deep yellow-brown,4,0.32
+227,SH-0227-CUR,Curry Yellow,Yellow,Medium-Dark,Dark,Yellow / orange-brown,3,0.32
+228,SH-0228-CUR,Curry,Yellow,Medium-Dark,Dark,Warm yellow-brown,3,0.32
+229,SH-0229-TUR,Turmeric Yellow,Yellow,Medium,Medium,Bright warm yellow,2,0.32
+230,SH-0230-TUR,Turmeric,Yellow,Medium-Dark,Dark,Yellow / orange,2,0.32
+231,SH-0231-LEM,Lemon Lime,Yellow,Bright,Medium,Yellow-green,3,0.32
+232,SH-0232-LIM,Lime Yellow,Yellow,Bright,Medium,Yellow / green,1,0.32
+233,SH-0233-GRE,Green Yellow,Yellow,Bright,Medium,Yellow-green,2,0.32
+234,SH-0234-CHA,Chartreuse Yellow,Yellow,Bright,Medium,Yellow / green,2,0.32
+235,SH-0235-SUN,Sunflower Yellow,Yellow,Medium-Bright,Medium,Warm yellow,1,0.32
+236,SH-0236-MAR,Marigold Yellow,Yellow,Medium-Dark,Dark,Yellow / orange,2,0.32
+237,SH-0237-MAR,Marigold,Orange,Medium,Medium,Orange-yellow,3,0.38
+238,SH-0238-SAF,Saffron Yellow,Yellow,Medium-Dark,Dark,Golden yellow / orange,3,0.32
+239,SH-0239-SAF,Saffron,Yellow,Medium-Dark,Dark,Yellow-orange,4,0.32
+240,SH-0240-BUR,Burnt Yellow,Yellow,Dark,Dark,Yellow / brown,4,0.32
+241,SH-0241-BRO,Brown Yellow,Yellow,Dark,Dark,Yellow-brown,4,0.32
+242,SH-0242-GOL,Golden Brown,Brown,Medium-Dark,Dark,Brown / gold,4,0.8
+243,SH-0243-KHA,Khaki Yellow,Yellow,Medium,Medium,Yellow / olive,3,0.32
+244,SH-0244-RED,Red,Red,Medium,Medium,Pure red,4,0.45
+245,SH-0245-BRI,Bright Red,Red,Bright,Medium,Vivid red,2,0.45
+246,SH-0246-DAR,Dark Red,Red,Dark,Dark,Deep red,4,0.45
+247,SH-0247-DEE,Deep Red,Red,Deep,Extra Dark,Strong dark red,4,0.45
+248,SH-0248-RUB,Ruby Red,Red,Medium-Dark,Dark,Red / slight blue,3,0.45
+249,SH-0249-RUB,Ruby,Red,Medium-Dark,Dark,Rich red,4,0.45
+250,SH-0250-CRI,Crimson,Red,Medium-Dark,Dark,Red / blue,3,0.45
+251,SH-0251-DEE,Deep Crimson,Red,Dark,Dark,Deep blue-red,4,0.45
+252,SH-0252-SCA,Scarlet,Red,Bright,Medium,Bright orange-red,4,0.45
+253,SH-0253-SCA,Scarlet Red,Red,Bright,Medium,Strong warm red,3,0.45
+254,SH-0254-CHE,Cherry Red,Red,Bright,Medium,Bright red,3,0.45
+255,SH-0255-CHE,Cherry,Red,Medium-Bright,Medium,Red / slight blue,4,0.45
+256,SH-0256-APP,Apple Red,Red,Bright,Medium,Fresh bright red,4,0.45
+257,SH-0257-TOM,Tomato Red,Red,Medium-Bright,Medium,Orange-red,3,0.45
+258,SH-0258-POP,Poppy Red,Red,Bright,Medium,Vivid warm red,4,0.45
+259,SH-0259-FIR,Fire Red,Red,Bright,Medium,Strong warm red,3,0.45
+260,SH-0260-FLA,Flame Red,Red,Bright,Medium,Orange-red,4,0.45
+261,SH-0261-SIG,Signal Red,Red,Bright,Medium,Strong standard red,4,0.45
+262,SH-0262-TRU,True Red,Red,Medium,Medium,Balanced red,2,0.45
+263,SH-0263-CLA,Classic Red,Red,Medium,Medium,Standard red,2,0.45
+264,SH-0264-WAR,Warm Red,Red,Medium,Medium,Yellow-red,3,0.45
+265,SH-0265-COO,Cool Red,Red,Medium,Medium,Blue-red,3,0.45
+266,SH-0266-ORA,Orange Red,Red,Bright,Medium,Red / orange,4,0.45
+267,SH-0267-VER,Vermilion,Orange,Bright,Medium,Strong orange-red,3,0.38
+268,SH-0268-COR,Coral Red,Red,Medium-Bright,Medium,Red / orange,4,0.45
+269,SH-0269-SAL,Salmon Red,Red,Light-Medium,Medium,Soft orange-red,3,0.45
+270,SH-0270-WAT,Watermelon Red,Red,Medium,Medium,Pink-red,2,0.45
+271,SH-0271-ROS,Rose Red,Red,Medium,Medium,Red / pink,2,0.45
+272,SH-0272-RAS,Raspberry Red,Red,Medium-Dark,Dark,Red / purple,3,0.45
+273,SH-0273-WIN,Wine Red,Red,Dark,Dark,Deep red / purple,3,0.45
+274,SH-0274-BRO,Brown Red,Red,Dark,Dark,Red / brown,4,0.45
+275,SH-0275-MAH,Mahogany,Brown,Dark,Dark,Red-brown,4,0.8
+276,SH-0276-DAR,Dark Mahogany,Brown,Deep,Extra Dark,Deep red-brown,3,0.8
+277,SH-0277-CHE,Chestnut Red,Brown,Dark,Dark,Red / brown,3,0.8
+278,SH-0278-CIN,Cinnamon Red,Red,Medium-Dark,Dark,Warm red-brown,4,0.45
+279,SH-0279-SIE,Sienna Red,Brown,Medium-Dark,Dark,Red / earthy brown,3,0.8
+280,SH-0280-BRI,Brick Red,Red,Medium-Dark,Dark,Red / brown,4,0.45
+281,SH-0281-TER,Terracotta,Orange,Medium-Dark,Dark,Orange / red-brown,3,0.38
+282,SH-0282-BUR,Burnt Red,Red,Dark,Dark,Deep red-brown,4,0.45
+283,SH-0283-RUS,Rust Red,Orange,Dark,Dark,Red / orange-brown,4,0.38
+284,SH-0284-COP,Copper Red,Orange,Medium-Dark,Dark,Copper / red,4,0.38
+285,SH-0285-RED,Red Clay,Red,Medium-Dark,Dark,Earthy red,3,0.45
+286,SH-0286-COR,Coral,Orange,Medium,Medium,Pink-orange,4,0.38
+287,SH-0287-DEE,Deep Coral,Orange,Medium-Dark,Dark,Strong coral,4,0.38
+288,SH-0288-SAL,Salmon,Orange,Light-Medium,Medium,Soft orange-pink,3,0.38
+289,SH-0289-SAL,Salmon Pink,Pink,Light-Medium,Medium,Pink / orange,3,0.42
+290,SH-0290-PEA,Peach,Orange,Light,Pastel/Light,Pale orange-pink,3,0.38
+291,SH-0291-PEA,Peach Pink,Pink,Light,Pastel/Light,Soft pink-orange,3,0.42
+292,SH-0292-PEA,Peach Beige,Beige,Light,Pastel/Light,Beige / peach,4,0.78
+293,SH-0293-NUD,Nude Pink,Pink,Light,Pastel/Light,Soft skin pink,3,0.42
+294,SH-0294-NUD,Nude,Beige,Light,Pastel/Light,Beige / pink,3,0.78
+295,SH-0295-BLU,Blush,Pink,Light,Pastel/Light,Soft pink,2,0.42
+296,SH-0296-SOF,Soft Peach,Orange,Light,Pastel/Light,Pale peach,3,0.38
+297,SH-0297-COR,Coral Peach,Orange,Light-Medium,Medium,Peach / coral,4,0.38
+298,SH-0298-APR,Apricot,Orange,Light-Medium,Medium,Soft orange,2,0.38
+299,SH-0299-APR,Apricot Orange,Orange,Medium,Medium,Orange / yellow,2,0.38
+300,SH-0300-PEA,Peach Orange,Orange,Medium,Medium,Peach / orange,2,0.38
+301,SH-0301-BRI,Bright Orange,Orange,Bright,Medium,Strong orange,4,0.38
+302,SH-0302-ORA,Orange,Orange,Medium,Medium,Pure orange,3,0.38
+303,SH-0303-TAN,Tangerine,Orange,Bright,Medium,Bright orange,2,0.38
+304,SH-0304-MAN,Mandarin,Orange,Bright,Medium,Orange / yellow,4,0.38
+305,SH-0305-PUM,Pumpkin Orange,Orange,Medium-Dark,Dark,Orange / brown,3,0.38
+306,SH-0306-BUR,Burnt Orange,Orange,Dark,Dark,Orange / brown,4,0.38
+307,SH-0307-RUS,Rust Orange,Orange,Dark,Dark,Orange / red-brown,4,0.38
+308,SH-0308-COP,Copper Orange,Orange,Medium-Dark,Dark,Orange / copper,4,0.38
+309,SH-0309-TER,Terracotta Orange,Orange,Medium-Dark,Dark,Orange / red-brown,3,0.38
+310,SH-0310-AMB,Amber Orange,Orange,Medium,Medium,Orange / yellow,2,0.38
+311,SH-0311-GOL,Golden Orange,Orange,Medium,Medium,Orange / gold,2,0.38
+312,SH-0312-YEL,Yellow Orange,Orange,Bright,Medium,Yellow-orange,3,0.38
+313,SH-0313-SAF,Saffron Orange,Orange,Medium-Dark,Dark,Orange / yellow,4,0.38
+314,SH-0314-MAN,Mango,Orange,Medium,Medium,Yellow-orange,2,0.38
+315,SH-0315-MAN,Mango Orange,Orange,Medium,Medium,Orange / yellow,4,0.38
+316,SH-0316-PAP,Papaya,Orange,Medium,Medium,Orange / peach,2,0.38
+317,SH-0317-PAP,Papaya Orange,Orange,Medium,Medium,Bright orange,3,0.38
+318,SH-0318-MEL,Melon,Orange,Light,Pastel/Light,Pale orange,4,0.38
+319,SH-0319-CAN,Cantaloupe,Orange,Light,Pastel/Light,Soft peach-orange,2,0.38
+320,SH-0320-PUM,Pumpkin,Orange,Medium-Dark,Dark,Deep orange,4,0.38
+321,SH-0321-MUS,Mustard,Yellow,Medium-Dark,Dark,Yellow / brown,4,0.32
+322,SH-0322-DAR,Dark Mustard,Yellow,Dark,Dark,Deep yellow-brown,2,0.32
+323,SH-0323-GOL,Golden Mustard,Yellow,Medium-Dark,Dark,Golden yellow-brown,2,0.32
+324,SH-0324-YEL,Yellow Ochre,Yellow,Medium-Dark,Dark,Yellow / brown,2,0.32
+325,SH-0325-DAR,Dark Ochre,Yellow,Dark,Dark,Deep ochre,4,0.32
+326,SH-0326-RAW,Raw Sienna,Brown,Medium,Medium,Yellow-brown,4,0.8
+327,SH-0327-BUR,Burnt Sienna,Brown,Dark,Dark,Red-brown,4,0.8
+328,SH-0328-HON,Honey,Yellow,Medium,Medium,Warm golden,1,0.32
+329,SH-0329-HON,Honey Gold,Yellow,Medium-Dark,Dark,Golden yellow,3,0.32
+330,SH-0330-CAR,Caramel,Brown,Medium,Medium,Golden brown,4,0.8
+331,SH-0331-CAR,Caramel Brown,Brown,Medium-Dark,Dark,Brown / gold,4,0.8
+332,SH-0332-TOF,Toffee,Brown,Medium-Dark,Dark,Warm brown,4,0.8
+333,SH-0333-BUT,Butterscotch,Brown,Medium,Medium,Yellow-brown,4,0.8
+334,SH-0334-CAM,Camel,Brown,Medium,Medium,Beige / brown,4,0.8
+335,SH-0335-CAM,Camel Brown,Brown,Medium-Dark,Dark,Warm brown,4,0.8
+336,SH-0336-TAN,Tan,Beige,Light-Medium,Medium,Beige / brown,4,0.78
+337,SH-0337-DAR,Dark Tan,Brown,Medium-Dark,Dark,Brown / beige,4,0.8
+338,SH-0338-LIG,Light Tan,Beige,Light,Pastel/Light,Pale brown-beige,3,0.78
+339,SH-0339-SAN,Sand,Beige,Light,Pastel/Light,Pale beige,4,0.78
+340,SH-0340-SAN,Sand Beige,Beige,Light,Pastel/Light,Beige / yellow,4,0.78
+341,SH-0341-DES,Desert Sand,Beige,Light-Medium,Medium,Warm beige,4,0.78
+342,SH-0342-DES,Desert Beige,Beige,Light-Medium,Medium,Beige / yellow,4,0.78
+343,SH-0343-DES,Desert Brown,Brown,Medium-Dark,Dark,Brown / beige,3,0.8
+344,SH-0344-DES,Desert Clay,Brown,Medium-Dark,Dark,Earthy brown-red,3,0.8
+345,SH-0345-DES,Desert Khaki,Beige,Medium,Medium,Beige / olive,4,0.78
+346,SH-0346-DES,Desert Gold,Yellow,Medium,Medium,Gold / beige,2,0.32
+347,SH-0347-BEI,Beige,Beige,Light,Pastel/Light,Neutral beige,4,0.78
+348,SH-0348-LIG,Light Beige,Beige,Light,Pastel/Light,Pale beige,3,0.78
+349,SH-0349-DAR,Dark Beige,Beige,Medium,Medium,Deep beige,4,0.78
+350,SH-0350-WAR,Warm Beige,Beige,Light-Medium,Medium,Yellow-beige,4,0.78
+351,SH-0351-COO,Cool Beige,Beige,Light-Medium,Medium,Grey-beige,4,0.78
+352,SH-0352-NAT,Natural Beige,Beige,Light-Medium,Medium,Natural beige,3,0.78
+353,SH-0353-OAT,Oat Beige,Beige,Light,Pastel/Light,Soft beige,4,0.78
+354,SH-0354-CRE,Cream Beige,Beige,Light,Pastel/Light,Cream / beige,4,0.78
+355,SH-0355-IVO,Ivory Beige,Beige,Light,Pastel/Light,Ivory / beige,3,0.78
+356,SH-0356-IVO,Ivory,White,Very Light,Pastel/Light,Warm off-white,1,0.25
+357,SH-0357-OFF,Off White,White,Very Light,Pastel/Light,Neutral off-white,3,0.25
+358,SH-0358-NAT,Natural White,White,Very Light,Pastel/Light,Natural white,2,0.25
+359,SH-0359-PEA,Pearl White,White,Very Light,Pastel/Light,White / slight grey,3,0.25
+360,SH-0360-SNO,Snow White,White,Very Light,Pastel/Light,Cool white,2,0.25
+361,SH-0361-OPT,Optical White,White,Very Light,Pastel/Light,Bright white,3,0.25
+362,SH-0362-SOF,Soft White,White,Very Light,Pastel/Light,Warm soft white,3,0.25
+363,SH-0363-CRE,Cream,Beige,Very Light,Pastel/Light,Warm white,4,0.78
+364,SH-0364-IVO,Ivory Cream,Beige,Very Light,Pastel/Light,Creamy white,4,0.78
+365,SH-0365-VAN,Vanilla,Beige,Very Light,Pastel/Light,Pale warm cream,4,0.78
+366,SH-0366-VAN,Vanilla Cream,Beige,Very Light,Pastel/Light,Cream / yellow,3,0.78
+367,SH-0367-EGG,Eggshell,Beige,Very Light,Pastel/Light,Warm off-white,4,0.78
+368,SH-0368-CHA,Champagne,Beige,Very Light,Pastel/Light,Pale beige / gold,4,0.78
+369,SH-0369-CHA,Champagne Beige,Beige,Light,Pastel/Light,Beige / gold,4,0.78
+370,SH-0370-ECR,Ecru,Beige,Light,Pastel/Light,Natural beige,4,0.78
+371,SH-0371-ECR,Ecru Beige,Beige,Light,Pastel/Light,Beige / natural,4,0.78
+372,SH-0372-LIN,Linen,Beige,Light,Pastel/Light,Natural beige,3,0.78
+373,SH-0373-NAT,Natural Linen,Beige,Light,Pastel/Light,Warm beige,4,0.78
+374,SH-0374-BIS,Biscuit,Beige,Light-Medium,Medium,Warm beige,4,0.78
+375,SH-0375-BIS,Biscuit Beige,Beige,Light-Medium,Medium,Beige / brown,3,0.78
+376,SH-0376-ALM,Almond,Beige,Light,Pastel/Light,Cream / beige,4,0.78
+377,SH-0377-ALM,Almond Beige,Beige,Light,Pastel/Light,Warm beige,4,0.78
+378,SH-0378-ALM,Almond Cream,Beige,Very Light,Pastel/Light,Cream / beige,4,0.78
+379,SH-0379-SAN,Sandstone,Brown,Light-Medium,Medium,Beige / brown,3,0.8
+380,SH-0380-STO,Stone,Grey,Light-Medium,Medium,Grey / beige,4,0.85
+381,SH-0381-LIG,Light Stone,Grey,Light,Pastel/Light,Pale grey-beige,2,0.85
+382,SH-0382-DAR,Dark Stone,Grey,Medium-Dark,Dark,Dark grey-brown,3,0.85
+383,SH-0383-STO,Stone Grey,Grey,Medium,Medium,Grey / beige,4,0.85
+384,SH-0384-WAR,Warm Stone,Grey,Medium,Medium,Warm grey,2,0.85
+385,SH-0385-TAU,Taupe,Brown,Medium,Medium,Grey / brown,4,0.8
+386,SH-0386-DAR,Dark Taupe,Brown,Dark,Dark,Deep grey-brown,3,0.8
+387,SH-0387-LIG,Light Taupe,Beige,Light-Medium,Medium,Pale grey-brown,4,0.78
+388,SH-0388-MUS,Mushroom,Brown,Medium,Medium,Grey / brown,4,0.8
+389,SH-0389-MUS,Mushroom Beige,Beige,Light-Medium,Medium,Beige / grey,4,0.78
+390,SH-0390-GRE,Greige,Grey,Light-Medium,Medium,Grey / beige,3,0.85
+391,SH-0391-WAR,Warm Greige,Grey,Light-Medium,Medium,Warm grey-beige,2,0.85
+392,SH-0392-COO,Cool Greige,Grey,Light-Medium,Medium,Cool grey-beige,3,0.85
+393,SH-0393-ASH,Ash Grey,Grey,Medium,Medium,Cool grey,4,0.85
+394,SH-0394-LIG,Light Ash,Grey,Light,Pastel/Light,Pale grey,3,0.85
+395,SH-0395-DAR,Dark Ash,Grey,Dark,Dark,Deep grey,4,0.85
+396,SH-0396-SIL,Silver Grey,Grey,Light-Medium,Medium,Cool grey,3,0.85
+397,SH-0397-LIG,Light Grey,Grey,Light,Pastel/Light,Pale neutral grey,3,0.85
+398,SH-0398-MED,Medium Grey,Grey,Medium,Medium,Neutral grey,3,0.85
+399,SH-0399-DAR,Dark Grey,Grey,Dark,Dark,Deep grey,4,0.85
+400,SH-0400-COO,Cool Grey,Grey,Light-Dark,Dark,Blue-grey,4,0.85
+401,SH-0401-WAR,Warm Grey,Grey,Light-Dark,Dark,Brown-grey,3,0.85
+402,SH-0402-BLU,Blue Grey,Grey,Medium,Medium,Grey / blue,4,0.85
+403,SH-0403-GRE,Green Grey,Grey,Medium,Medium,Grey / green,4,0.85
+404,SH-0404-BRO,Brown Grey,Grey,Medium,Medium,Grey / brown,4,0.85
+405,SH-0405-SLA,Slate Grey,Grey,Dark,Dark,Blue-grey,4,0.85
+406,SH-0406-CHA,Charcoal Grey,Grey,Dark,Dark,Deep grey,4,0.85
+407,SH-0407-GRA,Graphite Grey,Grey,Dark,Dark,Cool dark grey,3,0.85
+408,SH-0408-CEM,Cement Grey,Grey,Medium,Medium,Neutral grey,3,0.85
+409,SH-0409-CON,Concrete Grey,Grey,Medium,Medium,Cool grey,4,0.85
+410,SH-0410-SMO,Smoke Grey,Grey,Medium,Medium,Grey / black,3,0.85
+411,SH-0411-MIS,Mist Grey,Grey,Light,Pastel/Light,Pale grey,2,0.85
+412,SH-0412-CLO,Cloud Grey,Grey,Light,Pastel/Light,Soft pale grey,3,0.85
+413,SH-0413-PEA,Pearl Grey,Grey,Light,Pastel/Light,Soft cool grey,3,0.85
+414,SH-0414-PLA,Platinum,Grey,Light,Pastel/Light,Silver-grey,4,0.85
+415,SH-0415-MET,Metallic Grey,Grey,Medium,Medium,Silver / grey,4,0.85
+416,SH-0416-PEW,Pewter,Grey,Medium-Dark,Dark,Grey / brown,4,0.85
+417,SH-0417-GUN,Gunmetal,Grey,Dark,Dark,Blue-grey / black,4,0.85
+418,SH-0418-IRO,Iron Grey,Grey,Dark,Dark,Cool dark grey,4,0.85
+419,SH-0419-STE,Steel Grey,Grey,Medium-Dark,Dark,Blue-grey,3,0.85
+420,SH-0420-SIL,Silver,Grey,Light,Pastel/Light,Metallic light grey,4,0.85
+421,SH-0421-PLA,Platinum Grey,Grey,Light,Pastel/Light,Cool silver-grey,3,0.85
+422,SH-0422-LAV,Lavender,Purple,Light,Pastel/Light,Blue-purple,3,0.74
+423,SH-0423-PAL,Pale Lavender,Purple,Very Light,Pastel/Light,Pale purple,3,0.74
+424,SH-0424-SOF,Soft Lavender,Purple,Light,Pastel/Light,Soft purple,4,0.74
+425,SH-0425-DUS,Dusty Lavender,Purple,Light-Medium,Medium,Muted purple-grey,2,0.74
+426,SH-0426-PUR,Purple Lavender,Purple,Medium,Medium,Purple / blue,4,0.74
+427,SH-0427-LIL,Lilac,Purple,Light,Pastel/Light,Pale purple,2,0.74
+428,SH-0428-PAL,Pale Lilac,Purple,Very Light,Pastel/Light,Very pale purple,4,0.74
+429,SH-0429-SOF,Soft Lilac,Purple,Light,Pastel/Light,Soft purple,2,0.74
+430,SH-0430-LIL,Lilac Grey,Purple,Light-Medium,Medium,Purple / grey,2,0.74
+431,SH-0431-VIO,Violet,Purple,Medium,Medium,Blue-purple,2,0.74
+432,SH-0432-DEE,Deep Violet,Purple,Dark,Dark,Deep blue-purple,4,0.74
+433,SH-0433-BRI,Bright Violet,Purple,Bright,Medium,Vivid purple,2,0.74
+434,SH-0434-PUR,Purple,Purple,Medium,Medium,Balanced purple,3,0.74
+435,SH-0435-ROY,Royal Purple,Purple,Dark,Dark,Rich purple,4,0.74
+436,SH-0436-DEE,Deep Purple,Purple,Deep,Extra Dark,Very dark purple,3,0.74
+437,SH-0437-EGG,Eggplant,Purple,Dark,Dark,Purple / brown,4,0.74
+438,SH-0438-AUB,Aubergine,Purple,Dark,Dark,Deep purple / brown,4,0.74
+439,SH-0439-PLU,Plum,Purple,Dark,Dark,Purple / red,3,0.74
+440,SH-0440-DEE,Deep Plum,Purple,Deep,Extra Dark,Dark red-purple,4,0.74
+441,SH-0441-MUL,Mulberry,Purple,Dark,Dark,Red-purple,4,0.74
+442,SH-0442-BER,Berry Purple,Purple,Medium-Dark,Dark,Purple / red,4,0.74
+443,SH-0443-MAG,Magenta Purple,Purple,Bright,Medium,Red-purple,2,0.74
+444,SH-0444-ORC,Orchid,Purple,Light-Medium,Medium,Pink-purple,4,0.74
+445,SH-0445-DEE,Deep Orchid,Purple,Medium-Dark,Dark,Deep pink-purple,4,0.74
+446,SH-0446-PIN,Pink,Pink,Light,Pastel/Light,Balanced pink,2,0.42
+447,SH-0447-ROS,Rose Pink,Pink,Light-Medium,Medium,Pink / red,1,0.42
+448,SH-0448-BLU,Blush Pink,Pink,Light,Pastel/Light,Soft pink,3,0.42
+449,SH-0449-BAB,Baby Pink,Pink,Very Light,Pastel/Light,Pale pink,1,0.42
+450,SH-0450-POW,Powder Pink,Pink,Very Light,Pastel/Light,Soft pale pink,2,0.42
+451,SH-0451-BAL,Ballet Pink,Pink,Very Light,Pastel/Light,Pale warm pink,1,0.42
+452,SH-0452-SHE,Shell Pink,Pink,Light,Pastel/Light,Pink / beige,2,0.42
+453,SH-0453-PET,Petal Pink,Pink,Light,Pastel/Light,Soft floral pink,2,0.42
+454,SH-0454-FLA,Flamingo Pink,Pink,Medium,Medium,Bright pink / coral,1,0.42
+455,SH-0455-COR,Coral Pink,Pink,Medium,Medium,Pink / orange,2,0.42
+456,SH-0456-HOT,Hot Pink,Pink,Bright,Medium,Vivid pink,1,0.42
+457,SH-0457-NEO,Neon Pink,Pink,Bright,Medium,Fluorescent pink,3,0.42
+458,SH-0458-FUC,Fuchsia,Pink,Bright,Medium,Strong pink / purple,3,0.42
+459,SH-0459-MAG,Magenta,Pink,Bright,Medium,Strong red-purple,1,0.42
+460,SH-0460-CER,Cerise,Pink,Medium-Bright,Medium,Red-pink,3,0.42
+461,SH-0461-RAS,Raspberry,Pink,Medium-Dark,Dark,Pink / red,3,0.42
+462,SH-0462-BER,Berry Pink,Pink,Medium,Medium,Pink / purple,1,0.42
+463,SH-0463-STR,Strawberry,Pink,Medium,Medium,Red-pink,3,0.42
+464,SH-0464-CAN,Candy Pink,Pink,Light-Medium,Medium,Bright soft pink,2,0.42
+465,SH-0465-BUB,Bubblegum Pink,Pink,Light-Medium,Medium,Bright pale pink,1,0.42
+466,SH-0466-ORC,Orchid Pink,Pink,Light-Medium,Medium,Pink / purple,2,0.42
+467,SH-0467-DUS,Dusty Mauve,Purple,Light-Medium,Medium,Muted pink-purple,2,0.74
+468,SH-0468-MAU,Mauve,Purple,Medium,Medium,Pink / purple,4,0.74
+469,SH-0469-SOF,Soft Mauve,Purple,Light-Medium,Medium,Soft muted purple,2,0.74
+470,SH-0470-DAR,Dark Mauve,Purple,Medium-Dark,Dark,Deep muted purple,3,0.74
+471,SH-0471-PLU,Plum Rose,Purple,Medium-Dark,Dark,Rose / purple,3,0.74
+472,SH-0472-ROS,Rosewood,Brown,Medium-Dark,Dark,Red / brown,4,0.8
+473,SH-0473-ROS,Rose Brown,Brown,Medium,Medium,Pink / brown,4,0.8
+474,SH-0474-WIN,Wine Rose,Red,Dark,Dark,Red / purple,3,0.45
+475,SH-0475-CRA,Cranberry,Red,Medium-Dark,Dark,Red / purple,4,0.45
+476,SH-0476-DEE,Deep Cranberry,Red,Dark,Dark,Deep red-purple,4,0.45
+477,SH-0477-BUR,Burgundy,Red,Dark,Dark,Deep red / purple,4,0.45
+478,SH-0478-DEE,Deep Burgundy,Red,Deep,Extra Dark,Very deep red-purple,3,0.45
+479,SH-0479-WIN,Wine,Red,Dark,Dark,Deep red / purple,3,0.45
+480,SH-0480-RED,Red Wine,Red,Dark,Dark,Red / purple,4,0.45
+481,SH-0481-MER,Merlot,Red,Dark,Dark,Deep wine red,4,0.45
+482,SH-0482-MAR,Maroon,Red,Dark,Dark,Red / brown,4,0.45
+483,SH-0483-DEE,Deep Maroon,Red,Deep,Extra Dark,Very dark red-brown,4,0.45
+484,SH-0484-OXB,Oxblood,Red,Deep,Extra Dark,Deep red / brown,3,0.45
+485,SH-0485-DES,Desert Rose,Pink,Medium,Medium,Pink / dusty red,3,0.42
+486,SH-0486-DUS,Dusty Rose,Pink,Light-Medium,Medium,Muted pink,1,0.42
+487,SH-0487-ANT,Antique Rose,Pink,Light-Medium,Medium,Muted dusty pink,2,0.42
+488,SH-0488-OLD,Old Rose,Pink,Medium,Medium,Dusty pink / red,2,0.42
+489,SH-0489-TEA,Tea Rose,Pink,Light,Pastel/Light,Soft pink,1,0.42
+490,SH-0490-BLU,Blush Rose,Pink,Light,Pastel/Light,Soft pink,3,0.42
+491,SH-0491-ROS,Rose Beige,Beige,Light,Pastel/Light,Beige / pink,4,0.78
+492,SH-0492-ROS,Rose Taupe,Brown,Medium,Medium,Pink / grey-brown,3,0.8
+493,SH-0493-COP,Copper Rose,Orange,Medium,Medium,Copper / pink,3,0.38
+494,SH-0494-BUR,Burnt Rose,Red,Medium-Dark,Dark,Rose / brown,3,0.45
+495,SH-0495-CLA,Clay Rose,Brown,Medium,Medium,Pink / brown,4,0.8
+496,SH-0496-DES,Desert Rose Pink,Pink,Medium,Medium,Dusty pink / red,3,0.42
+497,SH-0497-SAN,Sand Rose,Beige,Light-Medium,Medium,Beige / pink,3,0.78
+498,SH-0498-EAR,Earth Brown,Brown,Dark,Dark,Natural brown,3,0.8
+499,SH-0499-DAR,Dark Earth Brown,Brown,Deep,Extra Dark,Deep warm brown,3,0.8

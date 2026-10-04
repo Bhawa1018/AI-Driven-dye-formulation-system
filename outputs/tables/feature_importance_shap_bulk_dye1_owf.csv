@@ -1,0 +1,77 @@
+feature,mean_abs_shap
+labdip_dye1_owf,0.5118086
+labdip_total_owf,0.09509348
+cellulose_fraction,0.03764179
+depth_class_Extra Dark,0.02863038
+labdip_dye2_owf,0.02553098
+pretreatment_Scoured,0.01803071
+pretreatment_Mercerized,0.01498356
+composition_100% Cotton,0.0139347
+composition_Viscose,0.01361308
+composition_Cotton-Poly (60/40),0.01275188
+depth_class_Dark,0.01234322
+bulk_liquor_ratio,0.01029202
+pretreatment_Bleached,0.00810141
+labdip_dye3_owf,0.00806876
+bulk_machine_High-Capacity Winch,0.00509089
+composition_Modal,0.00426609
+pretreatment_Causticized,0.00417038
+labdip_temp_c,0.0034324
+bulk_rpm,0.00320843
+gsm,0.00303953
+dye_class_Pigment / Direct,0.00195165
+dye_class_Reactive Vinyl Sulphone,0.00190288
+labdip_rpm,0.0017045
+bulk_machine_Thies Eco-Bloc,0.00169771
+n_dyes,0.00160168
+depth_class_Medium,0.0013704
+labdip_salt_g_l,0.00135743
+labdip_dye4_owf,0.00119237
+bulk_machine_Aventec Bulk,0.00101411
+labdip_soda_g_l,0.00100445
+bulk_machine_Industrial Soft-flow Jet,0.00073566
+labdip_time_min,0.00069679
+dye_partition_K,0.00068032
+shade_family_Orange,0.00064269
+bulk_batch_kg,0.00060041
+customer_Tesco,0.00040411
+shade_family_Blue,0.00034839
+special_finish_Catanizing,0.00033195
+shade_family_Yellow,0.00030562
+fabric_structure_Woven,0.00025465
+shade_family_Brown,0.00022295
+shade_family_Green,0.0001857
+fabric_structure_Rib,0.00017423
+fabric_structure_Single Jersey,0.00016682
+shade_family_Black,0.00016563
+special_finish_Silicone Softener,0.00016197
+customer_H&M,0.00013672
+labdip_machine_Mathis Labomat,0.00013028
+fabric_structure_Interlock,0.00013016
+labdip_machine_Lab Beaker Dyer,0.00012819
+composition_Cotton-Poly (80/20),0.00011943
+customer_GAP,0.00011445
+shade_family_Red,0.00010759
+dye_class_Reactive Bifunctional (ED/RGB),0.0001075
+shade_family_Purple,0.00010293
+shade_family_Teal,9.612e-05
+is_repeat_num,9.541e-05
+customer_Decathlon,8.907e-05
+customer_Next,8.712e-05
+fabric_structure_Fleece,8.231e-05
+special_finish_Enzyme Wash,7.982e-05
+labdip_machine_Infrared Lab Dyer,7.61e-05
+shade_family_Turquoise,7.464e-05
+customer_C&A,7.282e-05
+shade_family_Grey,6.72e-05
+customer_Primark,6.062e-05
+shade_family_Pink,4.718e-05
+customer_M&S,4.706e-05
+dye_class_Reactive Monochlorotriazine,4.552e-05
+special_finish_Peach Finish,4.424e-05
+customer_Zara,4.047e-05
+customer_Uniqlo,2.409e-05
+depth_class_Pastel/Light,2.356e-05
+shade_family_Beige,7.05e-06
+shade_family_White,6.5e-07
+labdip_liquor_ratio,0.0
