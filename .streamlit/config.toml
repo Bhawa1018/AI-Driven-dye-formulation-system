@@ -10,8 +10,9 @@ font = "sans serif"
 
 [server]
 headless = true
-enableCORS = false
-enableXsrfProtection = true
+# CORS and XSRF protection are both left at their defaults (on). Turning CORS
+# off while XSRF stays on makes Streamlit warn and can break the websocket
+# behind a host's proxy - which is exactly where this app runs.
 maxUploadSize = 10
 
 [browser]
