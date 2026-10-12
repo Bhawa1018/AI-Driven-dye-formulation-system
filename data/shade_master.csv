@@ -1,500 +1,501 @@
-shade_no,shade_code,shade_name,shade_family,depth_label,depth_class,colour_direction,n_dyes_typical,criticality
-1,SH-0001-MES,Mesculen Green,Green,Medium,Medium,Green / slightly blue,4,0.68
-2,SH-0002-DES,Desert Sky,Blue,Light-Medium,Medium,Soft blue / slightly grey,3,0.58
-3,SH-0003-JET,Jet Black,Black,Deep,Extra Dark,Neutral black,4,0.5
-4,SH-0004-DEE,Deep Black,Black,Deep,Extra Dark,Dense neutral black,4,0.5
-5,SH-0005-CAR,Carbon Black,Black,Deep,Extra Dark,Black / slightly cool,4,0.5
-6,SH-0006-MID,Midnight Black,Black,Deep,Extra Dark,Black / blue,4,0.5
-7,SH-0007-CHA,Charcoal,Grey,Dark,Dark,Grey / black,4,0.85
-8,SH-0008-GRA,Graphite,Grey,Dark,Dark,Cool grey,4,0.85
-9,SH-0009-ANT,Anthracite,Grey,Dark,Dark,Dark grey / black,4,0.85
-10,SH-0010-BLA,Black Olive,Green,Dark,Dark,Black / olive green,3,0.68
-11,SH-0011-RAV,Raven Black,Black,Deep,Extra Dark,Cool black,4,0.5
-12,SH-0012-EBO,Ebony,Black,Deep,Extra Dark,Warm black / brown,4,0.5
-13,SH-0013-ONY,Onyx,Black,Deep,Extra Dark,Neutral black,4,0.5
-14,SH-0014-COA,Coal Black,Black,Deep,Extra Dark,Dense black / grey,4,0.5
-15,SH-0015-PIT,Pitch Black,Black,Deep,Extra Dark,Very deep neutral black,4,0.5
-16,SH-0016-SOF,Soft Black,Black,Medium-Deep,Extra Dark,Soft neutral black,4,0.5
-17,SH-0017-BLU,Blue Black,Black,Deep,Extra Dark,Black / blue,4,0.5
-18,SH-0018-BRO,Brown Black,Black,Deep,Extra Dark,Black / brown,4,0.5
-19,SH-0019-GRE,Green Black,Black,Deep,Extra Dark,Black / green,4,0.5
-20,SH-0020-WAR,Warm Black,Black,Deep,Extra Dark,Black / warm brown,3,0.5
-21,SH-0021-COO,Cool Black,Black,Deep,Extra Dark,Black / blue-grey,4,0.5
-22,SH-0022-JET,Jet Charcoal,Grey,Dark,Dark,Charcoal / black,3,0.85
-23,SH-0023-DAR,Dark Graphite,Grey,Dark,Dark,Dark cool grey,4,0.85
-24,SH-0024-SMO,Smoke Black,Black,Dark,Dark,Black / smoky grey,3,0.5
-25,SH-0025-INK,Ink Black,Black,Deep,Extra Dark,Blue-black,4,0.5
-26,SH-0026-MID,Midnight Blue,Blue,Deep,Extra Dark,Blue / black,3,0.58
-27,SH-0027-NAV,Navy Blue,Blue,Dark,Dark,Deep blue,4,0.58
-28,SH-0028-DEE,Deep Navy,Blue,Deep,Extra Dark,Very dark blue,4,0.58
-29,SH-0029-MAR,Marine Navy,Blue,Dark,Dark,Navy / marine blue,4,0.58
-30,SH-0030-ROY,Royal Navy,Blue,Dark,Dark,Strong blue / navy,4,0.58
-31,SH-0031-FRE,French Navy,Blue,Dark,Dark,Navy / slightly grey,4,0.58
-32,SH-0032-CLA,Classic Navy,Blue,Dark,Dark,Standard deep navy,4,0.58
-33,SH-0033-DAR,Dark Navy,Blue,Deep,Extra Dark,Very dark blue,4,0.58
-34,SH-0034-INK,Ink Blue,Blue,Dark,Dark,Blue / black,4,0.58
-35,SH-0035-OXF,Oxford Blue,Blue,Dark,Dark,Deep blue / slightly grey,4,0.58
-36,SH-0036-PRU,Prussian Blue,Blue,Dark,Dark,Deep blue / green,4,0.58
-37,SH-0037-COB,Cobalt Blue,Blue,Medium-Dark,Dark,Strong blue,4,0.58
-38,SH-0038-ROY,Royal Blue,Blue,Medium-Dark,Dark,Brilliant blue,3,0.58
-39,SH-0039-SAP,Sapphire Blue,Blue,Medium-Dark,Dark,Rich blue,4,0.58
-40,SH-0040-ULT,Ultramarine,Blue,Medium-Dark,Dark,Strong violet-blue,3,0.58
-41,SH-0041-MAR,Marine Blue,Blue,Medium-Dark,Dark,Deep marine blue,4,0.58
-42,SH-0042-OCE,Ocean Blue,Blue,Medium,Medium,Blue / slightly green,3,0.58
-43,SH-0043-DEE,Deep Ocean,Blue,Dark,Dark,Deep blue / teal,3,0.58
-44,SH-0044-OCE,Oceanic Blue,Blue,Medium,Medium,Blue / green,3,0.58
-45,SH-0045-ATL,Atlantic Blue,Blue,Medium-Dark,Dark,Deep ocean blue,3,0.58
-46,SH-0046-PAC,Pacific Blue,Blue,Medium,Medium,Blue / slightly green,4,0.58
-47,SH-0047-STE,Steel Blue,Blue,Medium,Medium,Blue / grey,4,0.58
-48,SH-0048-SLA,Slate Blue,Blue,Medium-Dark,Dark,Blue / grey,3,0.58
-49,SH-0049-DUS,Dusty Blue,Blue,Light-Medium,Medium,Muted blue / grey,3,0.58
-50,SH-0050-DEN,Denim Blue,Blue,Medium-Dark,Dark,Blue / slightly grey,4,0.58
-51,SH-0051-DAR,Dark Denim,Blue,Dark,Dark,Deep denim blue,4,0.58
-52,SH-0052-LIG,Light Denim,Blue,Light-Medium,Medium,Soft denim blue,3,0.58
-53,SH-0053-IND,Indigo,Blue,Dark,Dark,Blue / violet,4,0.58
-54,SH-0054-DEE,Deep Indigo,Blue,Deep,Extra Dark,Dark blue / violet,3,0.58
-55,SH-0055-IND,Indigo Blue,Blue,Dark,Dark,Blue / violet,4,0.58
-56,SH-0056-WED,Wedgewood Blue,Blue,Light-Medium,Medium,Soft muted blue,3,0.58
-57,SH-0057-COR,Cornflower Blue,Blue,Light-Medium,Medium,Blue / slightly violet,4,0.58
-58,SH-0058-PER,Periwinkle Blue,Blue,Light,Pastel/Light,Pale blue / violet,4,0.58
-59,SH-0059-POW,Powder Blue,Blue,Light,Pastel/Light,Soft pale blue,4,0.58
-60,SH-0060-BAB,Baby Blue,Blue,Light,Pastel/Light,Very pale blue,4,0.58
-61,SH-0061-SKY,Sky Blue,Blue,Light-Medium,Medium,Clear light blue,4,0.58
-62,SH-0062-CLE,Clear Sky Blue,Blue,Light,Pastel/Light,Bright light blue,4,0.58
-63,SH-0063-DES,Desert Sky,Blue,Light-Medium,Medium,Soft blue / grey,4,0.58
-64,SH-0064-AZU,Azure Blue,Blue,Medium,Medium,Bright blue,4,0.58
-65,SH-0065-CER,Cerulean Blue,Blue,Medium,Medium,Bright sky blue,3,0.58
-66,SH-0066-CAP,Capri Blue,Blue,Medium,Medium,Bright blue / cyan,3,0.58
-67,SH-0067-TUR,Turquoise Blue,Blue,Medium,Medium,Blue / green,4,0.58
-68,SH-0068-AQU,Aqua Blue,Blue,Light-Medium,Medium,Blue / cyan,3,0.58
-69,SH-0069-ICE,Ice Blue,Blue,Very Light,Pastel/Light,Pale icy blue,4,0.58
-70,SH-0070-ARC,Arctic Blue,Blue,Light,Pastel/Light,Cool pale blue,4,0.58
-71,SH-0071-GLA,Glacier Blue,Blue,Light,Pastel/Light,Pale cool blue,4,0.58
-72,SH-0072-CRY,Crystal Blue,Blue,Light,Pastel/Light,Clear pale blue,3,0.58
-73,SH-0073-MIS,Mist Blue,Blue,Light,Pastel/Light,Blue / grey,4,0.58
-74,SH-0074-CLO,Cloud Blue,Blue,Light,Pastel/Light,Soft muted blue,4,0.58
-75,SH-0075-PAL,Pale Blue,Blue,Light,Pastel/Light,Very light blue,3,0.58
-76,SH-0076-LIG,Light Blue,Blue,Light,Pastel/Light,Clear light blue,3,0.58
-77,SH-0077-MED,Medium Blue,Blue,Medium,Medium,Standard blue,3,0.58
-78,SH-0078-BRI,Bright Blue,Blue,Medium,Medium,High-chroma blue,4,0.58
-79,SH-0079-ELE,Electric Blue,Blue,Bright,Medium,Brilliant blue,3,0.58
-80,SH-0080-NEO,Neon Blue,Blue,Bright,Medium,Very bright blue,4,0.58
-81,SH-0081-CYA,Cyan Blue,Blue,Medium,Medium,Blue / cyan,3,0.58
-82,SH-0082-CYA,Cyan,Blue,Medium,Medium,Strong cyan,4,0.58
-83,SH-0083-DEE,Deep Cyan,Blue,Dark,Dark,Deep cyan,4,0.58
-84,SH-0084-TEA,Teal Blue,Teal,Medium,Medium,Blue / green,3,0.82
-85,SH-0085-PEA,Peacock Blue,Blue,Medium-Dark,Dark,Blue / green,3,0.58
-86,SH-0086-PEA,Peacock,Teal,Medium-Dark,Dark,Deep blue-green,3,0.82
-87,SH-0087-PET,Petrol Blue,Blue,Dark,Dark,Blue / green-grey,4,0.58
-88,SH-0088-PET,Petrol,Teal,Dark,Dark,Deep blue-green,3,0.82
-89,SH-0089-MAR,Marine Teal,Teal,Medium-Dark,Dark,Blue-green,4,0.82
-90,SH-0090-DAR,Dark Teal,Teal,Dark,Dark,Deep blue-green,4,0.82
-91,SH-0091-TEA,Teal,Teal,Medium,Medium,Blue-green,3,0.82
-92,SH-0092-DEE,Deep Teal,Teal,Dark,Dark,Deep blue-green,4,0.82
-93,SH-0093-BLU,Blue Teal,Teal,Medium,Medium,Blue-dominant teal,2,0.82
-94,SH-0094-GRE,Green Teal,Teal,Medium,Medium,Green-dominant teal,2,0.82
-95,SH-0095-AQU,Aqua Teal,Teal,Light-Medium,Medium,Aqua / green,2,0.82
-96,SH-0096-TUR,Turquoise,Turquoise,Medium,Medium,Blue-green,2,0.66
-97,SH-0097-DEE,Deep Turquoise,Turquoise,Dark,Dark,Deep blue-green,4,0.66
-98,SH-0098-BRI,Bright Turquoise,Turquoise,Bright,Medium,Strong blue-green,3,0.66
-99,SH-0099-LIG,Light Turquoise,Turquoise,Light,Pastel/Light,Pale blue-green,4,0.66
-100,SH-0100-AQU,Aqua,Turquoise,Light-Medium,Medium,Blue-green / cyan,4,0.66
-101,SH-0101-SEA,Sea Blue,Blue,Medium,Medium,Blue / green,4,0.58
-102,SH-0102-SEA,Sea Green,Green,Medium,Medium,Green / blue,4,0.68
-103,SH-0103-SEA,Seafoam Blue,Blue,Light,Pastel/Light,Pale blue-green,4,0.58
-104,SH-0104-OCE,Ocean Teal,Teal,Medium,Medium,Blue-green,4,0.82
-105,SH-0105-LAG,Lagoon Blue,Blue,Medium,Medium,Blue / turquoise,4,0.58
-106,SH-0106-LAG,Lagoon Green,Green,Medium,Medium,Green / turquoise,3,0.68
-107,SH-0107-TRO,Tropical Blue,Blue,Medium,Medium,Bright blue,4,0.58
-108,SH-0108-CAR,Caribbean Blue,Blue,Medium,Medium,Bright turquoise-blue,4,0.58
-109,SH-0109-MAR,Marine Aqua,Turquoise,Medium,Medium,Aqua / blue,3,0.66
-110,SH-0110-BLU,Blue Lagoon,Turquoise,Medium,Medium,Blue-green,2,0.66
-111,SH-0111-GRE,Green,Green,Medium,Medium,Balanced green,4,0.68
-112,SH-0112-FOR,Forest Green,Green,Dark,Dark,Deep natural green,4,0.68
-113,SH-0113-DEE,Deep Forest,Green,Deep,Extra Dark,Very dark green,4,0.68
-114,SH-0114-DAR,Dark Forest,Green,Dark,Dark,Deep green,4,0.68
-115,SH-0115-PIN,Pine Green,Green,Dark,Dark,Green / blue,4,0.68
-116,SH-0116-PIN,Pine,Green,Dark,Dark,Deep cool green,4,0.68
-117,SH-0117-EVE,Evergreen,Green,Dark,Dark,Deep green,3,0.68
-118,SH-0118-HUN,Hunter Green,Green,Dark,Dark,Deep green / blue,3,0.68
-119,SH-0119-DAR,Dark Hunter,Green,Dark,Dark,Very deep green,4,0.68
-120,SH-0120-BOT,Bottle Green,Green,Dark,Dark,Deep blue-green,4,0.68
-121,SH-0121-BRI,British Green,Green,Dark,Dark,Deep traditional green,4,0.68
-122,SH-0122-RAC,Racing Green,Green,Dark,Dark,Deep green / blue,4,0.68
-123,SH-0123-KEL,Kelly Green,Green,Medium-Bright,Medium,Strong yellow-green,3,0.68
-124,SH-0124-EME,Emerald Green,Green,Medium-Dark,Dark,Rich green / blue,4,0.68
-125,SH-0125-DEE,Deep Emerald,Green,Dark,Dark,Deep emerald green,4,0.68
-126,SH-0126-EME,Emerald,Green,Medium-Dark,Dark,Rich green,3,0.68
-127,SH-0127-JAD,Jade Green,Green,Medium,Medium,Green / blue,3,0.68
-128,SH-0128-JAD,Jade,Green,Medium,Medium,Blue-green,4,0.68
-129,SH-0129-MAL,Malachite Green,Green,Medium-Dark,Dark,Rich blue-green,4,0.68
-130,SH-0130-VIR,Viridian Green,Green,Medium,Medium,Blue-green,4,0.68
-131,SH-0131-LEA,Leaf Green,Green,Medium,Medium,Natural green,3,0.68
-132,SH-0132-FRE,Fresh Leaf,Green,Medium,Medium,Bright natural green,4,0.68
-133,SH-0133-GRA,Grass Green,Green,Medium-Bright,Medium,Yellow-green,3,0.68
-134,SH-0134-LAW,Lawn Green,Green,Bright,Medium,Bright yellow-green,4,0.68
-135,SH-0135-SPR,Spring Green,Green,Bright,Medium,Yellow-green,4,0.68
-136,SH-0136-APP,Apple Green,Green,Medium-Bright,Medium,Yellow-green,4,0.68
-137,SH-0137-LIM,Lime Green,Green,Bright,Medium,Strong yellow-green,4,0.68
-138,SH-0138-BRI,Bright Lime,Green,Bright,Medium,Brilliant yellow-green,4,0.68
-139,SH-0139-NEO,Neon Green,Green,Bright,Medium,Fluorescent green,3,0.68
-140,SH-0140-ACI,Acid Green,Green,Bright,Medium,Yellow-green,4,0.68
-141,SH-0141-CHA,Chartreuse,Green,Bright,Medium,Yellow-green,4,0.68
-142,SH-0142-YEL,Yellow Green,Green,Medium-Bright,Medium,Yellow-dominant green,4,0.68
-143,SH-0143-OLI,Olive Green,Green,Medium-Dark,Dark,Green / yellow-brown,4,0.68
-144,SH-0144-DAR,Dark Olive,Green,Dark,Dark,Deep olive,4,0.68
-145,SH-0145-LIG,Light Olive,Green,Light-Medium,Medium,Pale olive,3,0.68
-146,SH-0146-OLI,Olive Drab,Green,Dark,Dark,Muted olive,4,0.68
-147,SH-0147-MOS,Moss Green,Green,Medium-Dark,Dark,Muted natural green,4,0.68
-148,SH-0148-MOS,Moss,Green,Medium-Dark,Dark,Green / yellow-grey,4,0.68
-149,SH-0149-SAG,Sage Green,Green,Light-Medium,Medium,Muted grey-green,4,0.68
-150,SH-0150-SOF,Soft Sage,Green,Light,Pastel/Light,Soft grey-green,4,0.68
-151,SH-0151-DUS,Dusty Sage,Green,Light-Medium,Medium,Grey-green,4,0.68
-152,SH-0152-EUC,Eucalyptus Green,Green,Medium,Medium,Blue-green / grey,3,0.68
-153,SH-0153-MIN,Mint Green,Green,Light,Pastel/Light,Pale green,4,0.68
-154,SH-0154-FRE,Fresh Mint,Green,Light,Pastel/Light,Bright pale green,4,0.68
-155,SH-0155-SOF,Soft Mint,Green,Light,Pastel/Light,Soft green,4,0.68
-156,SH-0156-PAL,Pale Mint,Green,Very Light,Pastel/Light,Very pale green,4,0.68
-157,SH-0157-ICE,Ice Mint,Green,Very Light,Pastel/Light,Cool pale green,3,0.68
-158,SH-0158-SEA,Seafoam Green,Green,Light,Pastel/Light,Pale blue-green,4,0.68
-159,SH-0159-SEA,Seafoam,Green,Light,Pastel/Light,Soft blue-green,3,0.68
-160,SH-0160-PIS,Pistachio Green,Green,Light-Medium,Medium,Yellow-green,4,0.68
-161,SH-0161-PIS,Pistachio,Green,Light,Pastel/Light,Soft yellow-green,4,0.68
-162,SH-0162-AVO,Avocado Green,Green,Medium,Medium,Yellow-green / brown,4,0.68
-163,SH-0163-AVO,Avocado,Green,Medium,Medium,Muted yellow-green,3,0.68
-164,SH-0164-FER,Fern Green,Green,Medium,Medium,Natural green,3,0.68
-165,SH-0165-FER,Fern,Green,Medium,Medium,Muted green,4,0.68
-166,SH-0166-CEL,Celery Green,Green,Light,Pastel/Light,Pale yellow-green,4,0.68
-167,SH-0167-CAC,Cactus Green,Green,Medium-Dark,Dark,Muted green,4,0.68
-168,SH-0168-CAC,Cactus,Green,Medium,Medium,Dusty green,3,0.68
-169,SH-0169-ARM,Army Green,Green,Dark,Dark,Olive green,3,0.68
-170,SH-0170-MIL,Military Green,Green,Dark,Dark,Olive / green,3,0.68
-171,SH-0171-KHA,Khaki Green,Green,Medium,Medium,Green / beige,4,0.68
-172,SH-0172-KHA,Khaki,Green,Medium,Medium,Yellow-green / brown,4,0.68
-173,SH-0173-DAR,Dark Khaki,Green,Dark,Dark,Dark olive,4,0.68
-174,SH-0174-LIG,Light Khaki,Green,Light-Medium,Medium,Pale olive,4,0.68
-175,SH-0175-STO,Stone Green,Green,Light-Medium,Medium,Grey-green,3,0.68
-176,SH-0176-LAU,Laurel Green,Green,Light,Pastel/Light,Pale muted green,4,0.68
-177,SH-0177-CEL,Celadon Green,Green,Light,Pastel/Light,Pale blue-green,3,0.68
-178,SH-0178-DEE,Deep Sea Green,Green,Dark,Dark,Deep blue-green,4,0.68
-179,SH-0179-PAR,Parrot Green,Green,Bright,Medium,Yellow-green,4,0.68
-180,SH-0180-JUN,Jungle Green,Green,Dark,Dark,Deep natural green,3,0.68
-181,SH-0181-RAI,Rainforest Green,Green,Dark,Dark,Deep green,4,0.68
-182,SH-0182-AMA,Amazon Green,Green,Dark,Dark,Rich green,4,0.68
-183,SH-0183-TRO,Tropical Green,Green,Medium-Bright,Medium,Bright natural green,3,0.68
-184,SH-0184-BAM,Bamboo Green,Green,Medium,Medium,Yellow-green,3,0.68
-185,SH-0185-BAM,Bamboo,Green,Light-Medium,Medium,Yellow-green / beige,4,0.68
-186,SH-0186-MAT,Matcha Green,Green,Medium,Medium,Muted yellow-green,4,0.68
-187,SH-0187-MAT,Matcha,Green,Medium,Medium,Soft olive-green,4,0.68
-188,SH-0188-TEA,Tea Green,Green,Light,Pastel/Light,Pale green,3,0.68
-189,SH-0189-TEA,Tea Leaf Green,Green,Medium,Medium,Muted green,4,0.68
-190,SH-0190-WAS,Wasabi Green,Green,Bright,Medium,Yellow-green,4,0.68
-191,SH-0191-WAS,Wasabi,Green,Medium-Bright,Medium,Yellow-green,4,0.68
-192,SH-0192-FER,Fern Olive,Green,Medium-Dark,Dark,Olive green,4,0.68
-193,SH-0193-ARM,Army Olive,Green,Dark,Dark,Dark olive,4,0.68
-194,SH-0194-DAR,Dark Moss,Green,Dark,Dark,Deep muted green,4,0.68
-195,SH-0195-DEE,Deep Moss,Green,Dark,Dark,Deep olive-green,4,0.68
-196,SH-0196-WOO,Woodland Green,Green,Dark,Dark,Natural deep green,3,0.68
-197,SH-0197-WOO,Woodland,Green,Dark,Dark,Green / brown,3,0.68
-198,SH-0198-CYP,Cypress Green,Green,Dark,Dark,Deep green,3,0.68
-199,SH-0199-YEL,Yellow,Yellow,Light-Medium,Medium,Pure yellow,2,0.32
-200,SH-0200-LEM,Lemon Yellow,Yellow,Light,Pastel/Light,Bright cool yellow,1,0.32
-201,SH-0201-BRI,Bright Yellow,Yellow,Bright,Medium,High-chroma yellow,2,0.32
-202,SH-0202-PAL,Pale Yellow,Yellow,Light,Pastel/Light,Soft pale yellow,3,0.32
-203,SH-0203-SOF,Soft Yellow,Yellow,Light,Pastel/Light,Muted yellow,1,0.32
-204,SH-0204-BUT,Butter Yellow,Yellow,Light,Pastel/Light,Warm pale yellow,3,0.32
-205,SH-0205-BUT,Buttercream Yellow,Yellow,Light,Pastel/Light,Creamy yellow,1,0.32
-206,SH-0206-CRE,Cream Yellow,Yellow,Light,Pastel/Light,Pale warm yellow,2,0.32
-207,SH-0207-GOL,Golden Yellow,Yellow,Medium,Medium,Warm golden yellow,3,0.32
-208,SH-0208-SUN,Sun Yellow,Yellow,Bright,Medium,Bright warm yellow,1,0.32
-209,SH-0209-SUN,Sunshine Yellow,Yellow,Bright,Medium,Vivid yellow,1,0.32
-210,SH-0210-CAN,Canary Yellow,Yellow,Bright,Medium,Clear bright yellow,3,0.32
-211,SH-0211-DAF,Daffodil Yellow,Yellow,Bright,Medium,Warm bright yellow,3,0.32
-212,SH-0212-COR,Corn Yellow,Yellow,Medium,Medium,Warm yellow,3,0.32
-213,SH-0213-MAI,Maize Yellow,Yellow,Medium,Medium,Warm yellow,3,0.32
-214,SH-0214-MUS,Mustard Yellow,Yellow,Medium-Dark,Dark,Yellow / brown,4,0.32
-215,SH-0215-HON,Honey Yellow,Yellow,Medium,Medium,Golden yellow,3,0.32
-216,SH-0216-AMB,Amber Yellow,Yellow,Medium-Dark,Dark,Yellow / orange,2,0.32
-217,SH-0217-AMB,Amber,Orange,Medium-Dark,Dark,Orange-yellow,4,0.38
-218,SH-0218-GOL,Gold Yellow,Yellow,Medium,Medium,Rich golden yellow,3,0.32
-219,SH-0219-GOL,Golden,Yellow,Medium,Medium,Warm yellow,2,0.32
-220,SH-0220-ANT,Antique Gold,Yellow,Medium-Dark,Dark,Muted gold,2,0.32
-221,SH-0221-OLD,Old Gold,Yellow,Dark,Dark,Gold / brown,4,0.32
-222,SH-0222-MET,Metallic Gold,Yellow,Medium-Dark,Dark,Golden / metallic,2,0.32
-223,SH-0223-BRO,Bronze Gold,Brown,Dark,Dark,Gold / brown,3,0.8
-224,SH-0224-CHA,Champagne Gold,Yellow,Light,Pastel/Light,Pale golden beige,3,0.32
-225,SH-0225-OCH,Ochre Yellow,Yellow,Medium-Dark,Dark,Yellow / brown,3,0.32
-226,SH-0226-DEE,Deep Ochre,Yellow,Dark,Dark,Deep yellow-brown,4,0.32
-227,SH-0227-CUR,Curry Yellow,Yellow,Medium-Dark,Dark,Yellow / orange-brown,3,0.32
-228,SH-0228-CUR,Curry,Yellow,Medium-Dark,Dark,Warm yellow-brown,3,0.32
-229,SH-0229-TUR,Turmeric Yellow,Yellow,Medium,Medium,Bright warm yellow,2,0.32
-230,SH-0230-TUR,Turmeric,Yellow,Medium-Dark,Dark,Yellow / orange,2,0.32
-231,SH-0231-LEM,Lemon Lime,Yellow,Bright,Medium,Yellow-green,3,0.32
-232,SH-0232-LIM,Lime Yellow,Yellow,Bright,Medium,Yellow / green,1,0.32
-233,SH-0233-GRE,Green Yellow,Yellow,Bright,Medium,Yellow-green,2,0.32
-234,SH-0234-CHA,Chartreuse Yellow,Yellow,Bright,Medium,Yellow / green,2,0.32
-235,SH-0235-SUN,Sunflower Yellow,Yellow,Medium-Bright,Medium,Warm yellow,1,0.32
-236,SH-0236-MAR,Marigold Yellow,Yellow,Medium-Dark,Dark,Yellow / orange,2,0.32
-237,SH-0237-MAR,Marigold,Orange,Medium,Medium,Orange-yellow,3,0.38
-238,SH-0238-SAF,Saffron Yellow,Yellow,Medium-Dark,Dark,Golden yellow / orange,3,0.32
-239,SH-0239-SAF,Saffron,Yellow,Medium-Dark,Dark,Yellow-orange,4,0.32
-240,SH-0240-BUR,Burnt Yellow,Yellow,Dark,Dark,Yellow / brown,4,0.32
-241,SH-0241-BRO,Brown Yellow,Yellow,Dark,Dark,Yellow-brown,4,0.32
-242,SH-0242-GOL,Golden Brown,Brown,Medium-Dark,Dark,Brown / gold,4,0.8
-243,SH-0243-KHA,Khaki Yellow,Yellow,Medium,Medium,Yellow / olive,3,0.32
-244,SH-0244-RED,Red,Red,Medium,Medium,Pure red,4,0.45
-245,SH-0245-BRI,Bright Red,Red,Bright,Medium,Vivid red,2,0.45
-246,SH-0246-DAR,Dark Red,Red,Dark,Dark,Deep red,4,0.45
-247,SH-0247-DEE,Deep Red,Red,Deep,Extra Dark,Strong dark red,4,0.45
-248,SH-0248-RUB,Ruby Red,Red,Medium-Dark,Dark,Red / slight blue,3,0.45
-249,SH-0249-RUB,Ruby,Red,Medium-Dark,Dark,Rich red,4,0.45
-250,SH-0250-CRI,Crimson,Red,Medium-Dark,Dark,Red / blue,3,0.45
-251,SH-0251-DEE,Deep Crimson,Red,Dark,Dark,Deep blue-red,4,0.45
-252,SH-0252-SCA,Scarlet,Red,Bright,Medium,Bright orange-red,4,0.45
-253,SH-0253-SCA,Scarlet Red,Red,Bright,Medium,Strong warm red,3,0.45
-254,SH-0254-CHE,Cherry Red,Red,Bright,Medium,Bright red,3,0.45
-255,SH-0255-CHE,Cherry,Red,Medium-Bright,Medium,Red / slight blue,4,0.45
-256,SH-0256-APP,Apple Red,Red,Bright,Medium,Fresh bright red,4,0.45
-257,SH-0257-TOM,Tomato Red,Red,Medium-Bright,Medium,Orange-red,3,0.45
-258,SH-0258-POP,Poppy Red,Red,Bright,Medium,Vivid warm red,4,0.45
-259,SH-0259-FIR,Fire Red,Red,Bright,Medium,Strong warm red,3,0.45
-260,SH-0260-FLA,Flame Red,Red,Bright,Medium,Orange-red,4,0.45
-261,SH-0261-SIG,Signal Red,Red,Bright,Medium,Strong standard red,4,0.45
-262,SH-0262-TRU,True Red,Red,Medium,Medium,Balanced red,2,0.45
-263,SH-0263-CLA,Classic Red,Red,Medium,Medium,Standard red,2,0.45
-264,SH-0264-WAR,Warm Red,Red,Medium,Medium,Yellow-red,3,0.45
-265,SH-0265-COO,Cool Red,Red,Medium,Medium,Blue-red,3,0.45
-266,SH-0266-ORA,Orange Red,Red,Bright,Medium,Red / orange,4,0.45
-267,SH-0267-VER,Vermilion,Orange,Bright,Medium,Strong orange-red,3,0.38
-268,SH-0268-COR,Coral Red,Red,Medium-Bright,Medium,Red / orange,4,0.45
-269,SH-0269-SAL,Salmon Red,Red,Light-Medium,Medium,Soft orange-red,3,0.45
-270,SH-0270-WAT,Watermelon Red,Red,Medium,Medium,Pink-red,2,0.45
-271,SH-0271-ROS,Rose Red,Red,Medium,Medium,Red / pink,2,0.45
-272,SH-0272-RAS,Raspberry Red,Red,Medium-Dark,Dark,Red / purple,3,0.45
-273,SH-0273-WIN,Wine Red,Red,Dark,Dark,Deep red / purple,3,0.45
-274,SH-0274-BRO,Brown Red,Red,Dark,Dark,Red / brown,4,0.45
-275,SH-0275-MAH,Mahogany,Brown,Dark,Dark,Red-brown,4,0.8
-276,SH-0276-DAR,Dark Mahogany,Brown,Deep,Extra Dark,Deep red-brown,3,0.8
-277,SH-0277-CHE,Chestnut Red,Brown,Dark,Dark,Red / brown,3,0.8
-278,SH-0278-CIN,Cinnamon Red,Red,Medium-Dark,Dark,Warm red-brown,4,0.45
-279,SH-0279-SIE,Sienna Red,Brown,Medium-Dark,Dark,Red / earthy brown,3,0.8
-280,SH-0280-BRI,Brick Red,Red,Medium-Dark,Dark,Red / brown,4,0.45
-281,SH-0281-TER,Terracotta,Orange,Medium-Dark,Dark,Orange / red-brown,3,0.38
-282,SH-0282-BUR,Burnt Red,Red,Dark,Dark,Deep red-brown,4,0.45
-283,SH-0283-RUS,Rust Red,Orange,Dark,Dark,Red / orange-brown,4,0.38
-284,SH-0284-COP,Copper Red,Orange,Medium-Dark,Dark,Copper / red,4,0.38
-285,SH-0285-RED,Red Clay,Red,Medium-Dark,Dark,Earthy red,3,0.45
-286,SH-0286-COR,Coral,Orange,Medium,Medium,Pink-orange,4,0.38
-287,SH-0287-DEE,Deep Coral,Orange,Medium-Dark,Dark,Strong coral,4,0.38
-288,SH-0288-SAL,Salmon,Orange,Light-Medium,Medium,Soft orange-pink,3,0.38
-289,SH-0289-SAL,Salmon Pink,Pink,Light-Medium,Medium,Pink / orange,3,0.42
-290,SH-0290-PEA,Peach,Orange,Light,Pastel/Light,Pale orange-pink,3,0.38
-291,SH-0291-PEA,Peach Pink,Pink,Light,Pastel/Light,Soft pink-orange,3,0.42
-292,SH-0292-PEA,Peach Beige,Beige,Light,Pastel/Light,Beige / peach,4,0.78
-293,SH-0293-NUD,Nude Pink,Pink,Light,Pastel/Light,Soft skin pink,3,0.42
-294,SH-0294-NUD,Nude,Beige,Light,Pastel/Light,Beige / pink,3,0.78
-295,SH-0295-BLU,Blush,Pink,Light,Pastel/Light,Soft pink,2,0.42
-296,SH-0296-SOF,Soft Peach,Orange,Light,Pastel/Light,Pale peach,3,0.38
-297,SH-0297-COR,Coral Peach,Orange,Light-Medium,Medium,Peach / coral,4,0.38
-298,SH-0298-APR,Apricot,Orange,Light-Medium,Medium,Soft orange,2,0.38
-299,SH-0299-APR,Apricot Orange,Orange,Medium,Medium,Orange / yellow,2,0.38
-300,SH-0300-PEA,Peach Orange,Orange,Medium,Medium,Peach / orange,2,0.38
-301,SH-0301-BRI,Bright Orange,Orange,Bright,Medium,Strong orange,4,0.38
-302,SH-0302-ORA,Orange,Orange,Medium,Medium,Pure orange,3,0.38
-303,SH-0303-TAN,Tangerine,Orange,Bright,Medium,Bright orange,2,0.38
-304,SH-0304-MAN,Mandarin,Orange,Bright,Medium,Orange / yellow,4,0.38
-305,SH-0305-PUM,Pumpkin Orange,Orange,Medium-Dark,Dark,Orange / brown,3,0.38
-306,SH-0306-BUR,Burnt Orange,Orange,Dark,Dark,Orange / brown,4,0.38
-307,SH-0307-RUS,Rust Orange,Orange,Dark,Dark,Orange / red-brown,4,0.38
-308,SH-0308-COP,Copper Orange,Orange,Medium-Dark,Dark,Orange / copper,4,0.38
-309,SH-0309-TER,Terracotta Orange,Orange,Medium-Dark,Dark,Orange / red-brown,3,0.38
-310,SH-0310-AMB,Amber Orange,Orange,Medium,Medium,Orange / yellow,2,0.38
-311,SH-0311-GOL,Golden Orange,Orange,Medium,Medium,Orange / gold,2,0.38
-312,SH-0312-YEL,Yellow Orange,Orange,Bright,Medium,Yellow-orange,3,0.38
-313,SH-0313-SAF,Saffron Orange,Orange,Medium-Dark,Dark,Orange / yellow,4,0.38
-314,SH-0314-MAN,Mango,Orange,Medium,Medium,Yellow-orange,2,0.38
-315,SH-0315-MAN,Mango Orange,Orange,Medium,Medium,Orange / yellow,4,0.38
-316,SH-0316-PAP,Papaya,Orange,Medium,Medium,Orange / peach,2,0.38
-317,SH-0317-PAP,Papaya Orange,Orange,Medium,Medium,Bright orange,3,0.38
-318,SH-0318-MEL,Melon,Orange,Light,Pastel/Light,Pale orange,4,0.38
-319,SH-0319-CAN,Cantaloupe,Orange,Light,Pastel/Light,Soft peach-orange,2,0.38
-320,SH-0320-PUM,Pumpkin,Orange,Medium-Dark,Dark,Deep orange,4,0.38
-321,SH-0321-MUS,Mustard,Yellow,Medium-Dark,Dark,Yellow / brown,4,0.32
-322,SH-0322-DAR,Dark Mustard,Yellow,Dark,Dark,Deep yellow-brown,2,0.32
-323,SH-0323-GOL,Golden Mustard,Yellow,Medium-Dark,Dark,Golden yellow-brown,2,0.32
-324,SH-0324-YEL,Yellow Ochre,Yellow,Medium-Dark,Dark,Yellow / brown,2,0.32
-325,SH-0325-DAR,Dark Ochre,Yellow,Dark,Dark,Deep ochre,4,0.32
-326,SH-0326-RAW,Raw Sienna,Brown,Medium,Medium,Yellow-brown,4,0.8
-327,SH-0327-BUR,Burnt Sienna,Brown,Dark,Dark,Red-brown,4,0.8
-328,SH-0328-HON,Honey,Yellow,Medium,Medium,Warm golden,1,0.32
-329,SH-0329-HON,Honey Gold,Yellow,Medium-Dark,Dark,Golden yellow,3,0.32
-330,SH-0330-CAR,Caramel,Brown,Medium,Medium,Golden brown,4,0.8
-331,SH-0331-CAR,Caramel Brown,Brown,Medium-Dark,Dark,Brown / gold,4,0.8
-332,SH-0332-TOF,Toffee,Brown,Medium-Dark,Dark,Warm brown,4,0.8
-333,SH-0333-BUT,Butterscotch,Brown,Medium,Medium,Yellow-brown,4,0.8
-334,SH-0334-CAM,Camel,Brown,Medium,Medium,Beige / brown,4,0.8
-335,SH-0335-CAM,Camel Brown,Brown,Medium-Dark,Dark,Warm brown,4,0.8
-336,SH-0336-TAN,Tan,Beige,Light-Medium,Medium,Beige / brown,4,0.78
-337,SH-0337-DAR,Dark Tan,Brown,Medium-Dark,Dark,Brown / beige,4,0.8
-338,SH-0338-LIG,Light Tan,Beige,Light,Pastel/Light,Pale brown-beige,3,0.78
-339,SH-0339-SAN,Sand,Beige,Light,Pastel/Light,Pale beige,4,0.78
-340,SH-0340-SAN,Sand Beige,Beige,Light,Pastel/Light,Beige / yellow,4,0.78
-341,SH-0341-DES,Desert Sand,Beige,Light-Medium,Medium,Warm beige,4,0.78
-342,SH-0342-DES,Desert Beige,Beige,Light-Medium,Medium,Beige / yellow,4,0.78
-343,SH-0343-DES,Desert Brown,Brown,Medium-Dark,Dark,Brown / beige,3,0.8
-344,SH-0344-DES,Desert Clay,Brown,Medium-Dark,Dark,Earthy brown-red,3,0.8
-345,SH-0345-DES,Desert Khaki,Beige,Medium,Medium,Beige / olive,4,0.78
-346,SH-0346-DES,Desert Gold,Yellow,Medium,Medium,Gold / beige,2,0.32
-347,SH-0347-BEI,Beige,Beige,Light,Pastel/Light,Neutral beige,4,0.78
-348,SH-0348-LIG,Light Beige,Beige,Light,Pastel/Light,Pale beige,3,0.78
-349,SH-0349-DAR,Dark Beige,Beige,Medium,Medium,Deep beige,4,0.78
-350,SH-0350-WAR,Warm Beige,Beige,Light-Medium,Medium,Yellow-beige,4,0.78
-351,SH-0351-COO,Cool Beige,Beige,Light-Medium,Medium,Grey-beige,4,0.78
-352,SH-0352-NAT,Natural Beige,Beige,Light-Medium,Medium,Natural beige,3,0.78
-353,SH-0353-OAT,Oat Beige,Beige,Light,Pastel/Light,Soft beige,4,0.78
-354,SH-0354-CRE,Cream Beige,Beige,Light,Pastel/Light,Cream / beige,4,0.78
-355,SH-0355-IVO,Ivory Beige,Beige,Light,Pastel/Light,Ivory / beige,3,0.78
-356,SH-0356-IVO,Ivory,White,Very Light,Pastel/Light,Warm off-white,1,0.25
-357,SH-0357-OFF,Off White,White,Very Light,Pastel/Light,Neutral off-white,3,0.25
-358,SH-0358-NAT,Natural White,White,Very Light,Pastel/Light,Natural white,2,0.25
-359,SH-0359-PEA,Pearl White,White,Very Light,Pastel/Light,White / slight grey,3,0.25
-360,SH-0360-SNO,Snow White,White,Very Light,Pastel/Light,Cool white,2,0.25
-361,SH-0361-OPT,Optical White,White,Very Light,Pastel/Light,Bright white,3,0.25
-362,SH-0362-SOF,Soft White,White,Very Light,Pastel/Light,Warm soft white,3,0.25
-363,SH-0363-CRE,Cream,Beige,Very Light,Pastel/Light,Warm white,4,0.78
-364,SH-0364-IVO,Ivory Cream,Beige,Very Light,Pastel/Light,Creamy white,4,0.78
-365,SH-0365-VAN,Vanilla,Beige,Very Light,Pastel/Light,Pale warm cream,4,0.78
-366,SH-0366-VAN,Vanilla Cream,Beige,Very Light,Pastel/Light,Cream / yellow,3,0.78
-367,SH-0367-EGG,Eggshell,Beige,Very Light,Pastel/Light,Warm off-white,4,0.78
-368,SH-0368-CHA,Champagne,Beige,Very Light,Pastel/Light,Pale beige / gold,4,0.78
-369,SH-0369-CHA,Champagne Beige,Beige,Light,Pastel/Light,Beige / gold,4,0.78
-370,SH-0370-ECR,Ecru,Beige,Light,Pastel/Light,Natural beige,4,0.78
-371,SH-0371-ECR,Ecru Beige,Beige,Light,Pastel/Light,Beige / natural,4,0.78
-372,SH-0372-LIN,Linen,Beige,Light,Pastel/Light,Natural beige,3,0.78
-373,SH-0373-NAT,Natural Linen,Beige,Light,Pastel/Light,Warm beige,4,0.78
-374,SH-0374-BIS,Biscuit,Beige,Light-Medium,Medium,Warm beige,4,0.78
-375,SH-0375-BIS,Biscuit Beige,Beige,Light-Medium,Medium,Beige / brown,3,0.78
-376,SH-0376-ALM,Almond,Beige,Light,Pastel/Light,Cream / beige,4,0.78
-377,SH-0377-ALM,Almond Beige,Beige,Light,Pastel/Light,Warm beige,4,0.78
-378,SH-0378-ALM,Almond Cream,Beige,Very Light,Pastel/Light,Cream / beige,4,0.78
-379,SH-0379-SAN,Sandstone,Brown,Light-Medium,Medium,Beige / brown,3,0.8
-380,SH-0380-STO,Stone,Grey,Light-Medium,Medium,Grey / beige,4,0.85
-381,SH-0381-LIG,Light Stone,Grey,Light,Pastel/Light,Pale grey-beige,2,0.85
-382,SH-0382-DAR,Dark Stone,Grey,Medium-Dark,Dark,Dark grey-brown,3,0.85
-383,SH-0383-STO,Stone Grey,Grey,Medium,Medium,Grey / beige,4,0.85
-384,SH-0384-WAR,Warm Stone,Grey,Medium,Medium,Warm grey,2,0.85
-385,SH-0385-TAU,Taupe,Brown,Medium,Medium,Grey / brown,4,0.8
-386,SH-0386-DAR,Dark Taupe,Brown,Dark,Dark,Deep grey-brown,3,0.8
-387,SH-0387-LIG,Light Taupe,Beige,Light-Medium,Medium,Pale grey-brown,4,0.78
-388,SH-0388-MUS,Mushroom,Brown,Medium,Medium,Grey / brown,4,0.8
-389,SH-0389-MUS,Mushroom Beige,Beige,Light-Medium,Medium,Beige / grey,4,0.78
-390,SH-0390-GRE,Greige,Grey,Light-Medium,Medium,Grey / beige,3,0.85
-391,SH-0391-WAR,Warm Greige,Grey,Light-Medium,Medium,Warm grey-beige,2,0.85
-392,SH-0392-COO,Cool Greige,Grey,Light-Medium,Medium,Cool grey-beige,3,0.85
-393,SH-0393-ASH,Ash Grey,Grey,Medium,Medium,Cool grey,4,0.85
-394,SH-0394-LIG,Light Ash,Grey,Light,Pastel/Light,Pale grey,3,0.85
-395,SH-0395-DAR,Dark Ash,Grey,Dark,Dark,Deep grey,4,0.85
-396,SH-0396-SIL,Silver Grey,Grey,Light-Medium,Medium,Cool grey,3,0.85
-397,SH-0397-LIG,Light Grey,Grey,Light,Pastel/Light,Pale neutral grey,3,0.85
-398,SH-0398-MED,Medium Grey,Grey,Medium,Medium,Neutral grey,3,0.85
-399,SH-0399-DAR,Dark Grey,Grey,Dark,Dark,Deep grey,4,0.85
-400,SH-0400-COO,Cool Grey,Grey,Light-Dark,Dark,Blue-grey,4,0.85
-401,SH-0401-WAR,Warm Grey,Grey,Light-Dark,Dark,Brown-grey,3,0.85
-402,SH-0402-BLU,Blue Grey,Grey,Medium,Medium,Grey / blue,4,0.85
-403,SH-0403-GRE,Green Grey,Grey,Medium,Medium,Grey / green,4,0.85
-404,SH-0404-BRO,Brown Grey,Grey,Medium,Medium,Grey / brown,4,0.85
-405,SH-0405-SLA,Slate Grey,Grey,Dark,Dark,Blue-grey,4,0.85
-406,SH-0406-CHA,Charcoal Grey,Grey,Dark,Dark,Deep grey,4,0.85
-407,SH-0407-GRA,Graphite Grey,Grey,Dark,Dark,Cool dark grey,3,0.85
-408,SH-0408-CEM,Cement Grey,Grey,Medium,Medium,Neutral grey,3,0.85
-409,SH-0409-CON,Concrete Grey,Grey,Medium,Medium,Cool grey,4,0.85
-410,SH-0410-SMO,Smoke Grey,Grey,Medium,Medium,Grey / black,3,0.85
-411,SH-0411-MIS,Mist Grey,Grey,Light,Pastel/Light,Pale grey,2,0.85
-412,SH-0412-CLO,Cloud Grey,Grey,Light,Pastel/Light,Soft pale grey,3,0.85
-413,SH-0413-PEA,Pearl Grey,Grey,Light,Pastel/Light,Soft cool grey,3,0.85
-414,SH-0414-PLA,Platinum,Grey,Light,Pastel/Light,Silver-grey,4,0.85
-415,SH-0415-MET,Metallic Grey,Grey,Medium,Medium,Silver / grey,4,0.85
-416,SH-0416-PEW,Pewter,Grey,Medium-Dark,Dark,Grey / brown,4,0.85
-417,SH-0417-GUN,Gunmetal,Grey,Dark,Dark,Blue-grey / black,4,0.85
-418,SH-0418-IRO,Iron Grey,Grey,Dark,Dark,Cool dark grey,4,0.85
-419,SH-0419-STE,Steel Grey,Grey,Medium-Dark,Dark,Blue-grey,3,0.85
-420,SH-0420-SIL,Silver,Grey,Light,Pastel/Light,Metallic light grey,4,0.85
-421,SH-0421-PLA,Platinum Grey,Grey,Light,Pastel/Light,Cool silver-grey,3,0.85
-422,SH-0422-LAV,Lavender,Purple,Light,Pastel/Light,Blue-purple,3,0.74
-423,SH-0423-PAL,Pale Lavender,Purple,Very Light,Pastel/Light,Pale purple,3,0.74
-424,SH-0424-SOF,Soft Lavender,Purple,Light,Pastel/Light,Soft purple,4,0.74
-425,SH-0425-DUS,Dusty Lavender,Purple,Light-Medium,Medium,Muted purple-grey,2,0.74
-426,SH-0426-PUR,Purple Lavender,Purple,Medium,Medium,Purple / blue,4,0.74
-427,SH-0427-LIL,Lilac,Purple,Light,Pastel/Light,Pale purple,2,0.74
-428,SH-0428-PAL,Pale Lilac,Purple,Very Light,Pastel/Light,Very pale purple,4,0.74
-429,SH-0429-SOF,Soft Lilac,Purple,Light,Pastel/Light,Soft purple,2,0.74
-430,SH-0430-LIL,Lilac Grey,Purple,Light-Medium,Medium,Purple / grey,2,0.74
-431,SH-0431-VIO,Violet,Purple,Medium,Medium,Blue-purple,2,0.74
-432,SH-0432-DEE,Deep Violet,Purple,Dark,Dark,Deep blue-purple,4,0.74
-433,SH-0433-BRI,Bright Violet,Purple,Bright,Medium,Vivid purple,2,0.74
-434,SH-0434-PUR,Purple,Purple,Medium,Medium,Balanced purple,3,0.74
-435,SH-0435-ROY,Royal Purple,Purple,Dark,Dark,Rich purple,4,0.74
-436,SH-0436-DEE,Deep Purple,Purple,Deep,Extra Dark,Very dark purple,3,0.74
-437,SH-0437-EGG,Eggplant,Purple,Dark,Dark,Purple / brown,4,0.74
-438,SH-0438-AUB,Aubergine,Purple,Dark,Dark,Deep purple / brown,4,0.74
-439,SH-0439-PLU,Plum,Purple,Dark,Dark,Purple / red,3,0.74
-440,SH-0440-DEE,Deep Plum,Purple,Deep,Extra Dark,Dark red-purple,4,0.74
-441,SH-0441-MUL,Mulberry,Purple,Dark,Dark,Red-purple,4,0.74
-442,SH-0442-BER,Berry Purple,Purple,Medium-Dark,Dark,Purple / red,4,0.74
-443,SH-0443-MAG,Magenta Purple,Purple,Bright,Medium,Red-purple,2,0.74
-444,SH-0444-ORC,Orchid,Purple,Light-Medium,Medium,Pink-purple,4,0.74
-445,SH-0445-DEE,Deep Orchid,Purple,Medium-Dark,Dark,Deep pink-purple,4,0.74
-446,SH-0446-PIN,Pink,Pink,Light,Pastel/Light,Balanced pink,2,0.42
-447,SH-0447-ROS,Rose Pink,Pink,Light-Medium,Medium,Pink / red,1,0.42
-448,SH-0448-BLU,Blush Pink,Pink,Light,Pastel/Light,Soft pink,3,0.42
-449,SH-0449-BAB,Baby Pink,Pink,Very Light,Pastel/Light,Pale pink,1,0.42
-450,SH-0450-POW,Powder Pink,Pink,Very Light,Pastel/Light,Soft pale pink,2,0.42
-451,SH-0451-BAL,Ballet Pink,Pink,Very Light,Pastel/Light,Pale warm pink,1,0.42
-452,SH-0452-SHE,Shell Pink,Pink,Light,Pastel/Light,Pink / beige,2,0.42
-453,SH-0453-PET,Petal Pink,Pink,Light,Pastel/Light,Soft floral pink,2,0.42
-454,SH-0454-FLA,Flamingo Pink,Pink,Medium,Medium,Bright pink / coral,1,0.42
-455,SH-0455-COR,Coral Pink,Pink,Medium,Medium,Pink / orange,2,0.42
-456,SH-0456-HOT,Hot Pink,Pink,Bright,Medium,Vivid pink,1,0.42
-457,SH-0457-NEO,Neon Pink,Pink,Bright,Medium,Fluorescent pink,3,0.42
-458,SH-0458-FUC,Fuchsia,Pink,Bright,Medium,Strong pink / purple,3,0.42
-459,SH-0459-MAG,Magenta,Pink,Bright,Medium,Strong red-purple,1,0.42
-460,SH-0460-CER,Cerise,Pink,Medium-Bright,Medium,Red-pink,3,0.42
-461,SH-0461-RAS,Raspberry,Pink,Medium-Dark,Dark,Pink / red,3,0.42
-462,SH-0462-BER,Berry Pink,Pink,Medium,Medium,Pink / purple,1,0.42
-463,SH-0463-STR,Strawberry,Pink,Medium,Medium,Red-pink,3,0.42
-464,SH-0464-CAN,Candy Pink,Pink,Light-Medium,Medium,Bright soft pink,2,0.42
-465,SH-0465-BUB,Bubblegum Pink,Pink,Light-Medium,Medium,Bright pale pink,1,0.42
-466,SH-0466-ORC,Orchid Pink,Pink,Light-Medium,Medium,Pink / purple,2,0.42
-467,SH-0467-DUS,Dusty Mauve,Purple,Light-Medium,Medium,Muted pink-purple,2,0.74
-468,SH-0468-MAU,Mauve,Purple,Medium,Medium,Pink / purple,4,0.74
-469,SH-0469-SOF,Soft Mauve,Purple,Light-Medium,Medium,Soft muted purple,2,0.74
-470,SH-0470-DAR,Dark Mauve,Purple,Medium-Dark,Dark,Deep muted purple,3,0.74
-471,SH-0471-PLU,Plum Rose,Purple,Medium-Dark,Dark,Rose / purple,3,0.74
-472,SH-0472-ROS,Rosewood,Brown,Medium-Dark,Dark,Red / brown,4,0.8
-473,SH-0473-ROS,Rose Brown,Brown,Medium,Medium,Pink / brown,4,0.8
-474,SH-0474-WIN,Wine Rose,Red,Dark,Dark,Red / purple,3,0.45
-475,SH-0475-CRA,Cranberry,Red,Medium-Dark,Dark,Red / purple,4,0.45
-476,SH-0476-DEE,Deep Cranberry,Red,Dark,Dark,Deep red-purple,4,0.45
-477,SH-0477-BUR,Burgundy,Red,Dark,Dark,Deep red / purple,4,0.45
-478,SH-0478-DEE,Deep Burgundy,Red,Deep,Extra Dark,Very deep red-purple,3,0.45
-479,SH-0479-WIN,Wine,Red,Dark,Dark,Deep red / purple,3,0.45
-480,SH-0480-RED,Red Wine,Red,Dark,Dark,Red / purple,4,0.45
-481,SH-0481-MER,Merlot,Red,Dark,Dark,Deep wine red,4,0.45
-482,SH-0482-MAR,Maroon,Red,Dark,Dark,Red / brown,4,0.45
-483,SH-0483-DEE,Deep Maroon,Red,Deep,Extra Dark,Very dark red-brown,4,0.45
-484,SH-0484-OXB,Oxblood,Red,Deep,Extra Dark,Deep red / brown,3,0.45
-485,SH-0485-DES,Desert Rose,Pink,Medium,Medium,Pink / dusty red,3,0.42
-486,SH-0486-DUS,Dusty Rose,Pink,Light-Medium,Medium,Muted pink,1,0.42
-487,SH-0487-ANT,Antique Rose,Pink,Light-Medium,Medium,Muted dusty pink,2,0.42
-488,SH-0488-OLD,Old Rose,Pink,Medium,Medium,Dusty pink / red,2,0.42
-489,SH-0489-TEA,Tea Rose,Pink,Light,Pastel/Light,Soft pink,1,0.42
-490,SH-0490-BLU,Blush Rose,Pink,Light,Pastel/Light,Soft pink,3,0.42
-491,SH-0491-ROS,Rose Beige,Beige,Light,Pastel/Light,Beige / pink,4,0.78
-492,SH-0492-ROS,Rose Taupe,Brown,Medium,Medium,Pink / grey-brown,3,0.8
-493,SH-0493-COP,Copper Rose,Orange,Medium,Medium,Copper / pink,3,0.38
-494,SH-0494-BUR,Burnt Rose,Red,Medium-Dark,Dark,Rose / brown,3,0.45
-495,SH-0495-CLA,Clay Rose,Brown,Medium,Medium,Pink / brown,4,0.8
-496,SH-0496-DES,Desert Rose Pink,Pink,Medium,Medium,Dusty pink / red,3,0.42
-497,SH-0497-SAN,Sand Rose,Beige,Light-Medium,Medium,Beige / pink,3,0.78
-498,SH-0498-EAR,Earth Brown,Brown,Dark,Dark,Natural brown,3,0.8
-499,SH-0499-DAR,Dark Earth Brown,Brown,Deep,Extra Dark,Deep warm brown,3,0.8
+Job ID,Shade Name,Shade Code,Visible Colour,Shade Family,Depth Class,Customer,Is Repeated,Fabric Type,Fiber Composition,GSM,Special Finish,Dye Class,Dye 1 Name,Dye 1 % (Lab Dip),Dye 2 Name,Dye 2 % (Lab Dip),Dye 3 Name,Dye 3 % (Lab Dip),Dye 4 Name,Dye 4 % (Lab Dip),Total Dye Depth %,Approval Status,Lab Dip RPM,Lab Dip LR,Lab Dip Salt (g/L),Lab Dip Soda (g/L),Lab Dip Trials,1kg Machine,1kg LR,1kg RPM,1kg Trials,7kg Machine,7kg LR,7kg RPM,7kg Trials,Mini Bulk Machine,Mini Bulk LR,Mini Bulk RPM,Bulk Machine,Bulk LR,Bulk RPM,Bulk Trials
+JOB-00001,Mustard Yellow,YEL-04-001,Mustard Yellow,Yellow,Medium,GAP,No,Woven,100% Cotton,120,Silicon Softener Finish,Reactive,TAICRON ORANGE E-3RT,1.129,,0.0,,0.0,,0.0,1.129,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00002,Slate Grey,GRY-15-002,Slate Grey,Grey,Medium,CK,No,Woven,100% Cotton,180,Silicon Softener Finish,Reactive,JAKOFIX B YELLOW HE4G,0.846,EMACOL CT RED 4318,0.538,JAKAZOL B BLUE DSG,0.543,,0.0,1.926,Approved,30,20,50.0,13.0,3,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00003,Dusty Rose,PNK-03-003,Dusty Rose,Pink,Light,CK,No,Woven,97% Cotton 3% Spandex,160,Peach Finish,Reactive,ASUDEL BLUE R,0.341,,0.0,,0.0,,0.0,0.341,Approved,30,20,25.0,7.0,1,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00004,Coral Pink,PNK-12-004,Coral Pink,Pink,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,165,Stone Wash,Reactive,SINLOHI RED SW 113,0.043,JAKAZOL RED MEGF,0.079,,0.0,,0.0,0.122,Approved,30,20,25.0,7.0,2,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00005,Charcoal Grey,GRY-09-005,Charcoal Grey,Grey,Dark,GAP,No,Woven,97% Cotton 3% Spandex,165,Peach Finish,Reactive,NEO GOLD YELLOW MFR,0.542,ZETALIGHT RED R,0.836,RED HI WHITE,0.557,DYEWASH TURQUOISE BLUE SD,0.858,2.792,Approved,30,20,60.0,15.0,4,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00006,Forest Green,GRN-05-006,Forest Green,Green,Dark,CK,No,Woven,97% Cotton 3% Spandex,130,Stone Wash,Reactive,SINLOHI ORANGE YELLOW  SW-116,0.469,JAKAZOL RUBY DSB,1.276,SOLARUS BROWN GTL,1.135,ASATHIOSOL BLACK SH,1.154,4.034,Approved,30,20,70.0,20.0,3,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00007,Plum,PLM-17-007,Plum,Purple,Dark,GAP,No,Woven,100% Cotton,180,Bleach Clean,Reactive,EMACOL CT GREEN 4716,1.882,NEARWASH NAVY BLUE RCL,2.398,,0.0,,0.0,4.28,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00008,Wine Red,RED-08-008,Wine Red,Red,Dark,GAP,No,Woven,97% Cotton 3% Spandex,100,Stone Wash,Reactive,SINLOHI RED ORENGE SW-111,4.29,,0.0,,0.0,,0.0,4.29,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00009,Chocolate Brown,BRN-13-009,Chocolate Brown,Brown,Dark,CK,No,Woven,98% Cotton 2% Spandex,160,Tint Wash,Pigment,LAVA BLACK GLF 01,1.012,MINERPRINT NAVY BLUE 5RF HC,1.051,,0.0,,0.0,2.063,Approved,30,20,0.0,0.0,1,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00010,Plum,PLM-17-010,Plum,Purple,Dark,GAP,No,Woven,98% Cotton 2% Spandex,120,Silicon Softener Finish,Reactive,JAKAZOL RED HQ,0.625,SF HF RED 2B GRAN,0.433,NOVACRON BLUE EC-GC,0.469,IC SCARLET-F,0.754,2.282,Approved,30,20,60.0,15.0,1,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00011,Wine Red,RED-08-011,Wine Red,Red,Dark,GAP,No,Woven,98% Cotton 2% Spandex,120,Bio-Polish,Reactive,JAKAZOL ROYAL SLR,0.858,ASUDEL YELLOW BROWN WGR,0.761,NOVOCRON TURQUOISE GN,0.303,SOLARUS BLUE B2R,0.371,2.293,Approved,30,20,60.0,15.0,2,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00012,Olive Green,OLV-06-012,Olive Green,Olive,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Tint Wash,Reactive,EMACOL CT RED 4318,1.371,IC SCARLET-F,1.315,JAKOFIX YELLOW HE4R,1.624,JAKOFIX BRILL BLUE JRF,0.586,4.896,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00013,Dusty Rose,PNK-03-013,Dusty Rose,Pink,Light,CK,No,Woven,100% Cotton,130,Stone Wash,Reactive,TAIACRYL RED VIOLET 3RT 200%,0.02,TAICRON RUBINE SE-GLNT 200%,0.047,,0.0,,0.0,0.067,Approved,30,20,20.0,5.0,3,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00014,Desert Sand,SND-10-014,Desert Sand,Beige,Light,TOMMY,No,Woven,100% Cotton,100,Tint Wash,Reactive,ASUDEL YELLOW GL,0.287,,0.0,,0.0,,0.0,0.287,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00015,Turquoise,TRQ-18-015,Turquoise,Turquoise,Medium,CK,No,Woven,97% Cotton 3% Spandex,160,Enzyme Wash,Reactive,ZETANOL BLUE RL,0.392,DECOSOL YELLOW SD-R,0.345,DYEWASH GREEN SD,0.157,,0.0,0.894,Approved,30,20,40.0,10.0,3,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00016,Charcoal Grey,GRY-09-016,Charcoal Grey,Grey,Dark,GAP,No,Woven,98% Cotton 2% Spandex,180,Bleach Clean,Pigment,LAVA DENIM BLACK GLF,1.876,MINERPRINT BLUE B HC,1.613,LAVA RED GLF,0.727,,0.0,4.216,Approved,30,20,0.0,0.0,1,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00017,Forest Green,GRN-05-017,Forest Green,Green,Dark,GAP,No,Woven,100% Cotton,125,Acid Wash,Reactive,NEARWASH GREEN CS-BT,4.333,,0.0,,0.0,,0.0,4.333,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00018,Olive Green,OLV-06-018,Olive Green,Olive,Dark,CK,Yes,Woven,98% Cotton 2% Spandex,180,Acid Wash,Reactive,NEARWASH YELLOW CS-3R,4.608,,0.0,,0.0,,0.0,4.608,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00019,Burgundy,RED-07-019,Burgundy,Red,Dark,TOMMY,No,Woven,100% Cotton,180,Bleach Clean,Reactive,ZETAREACT BLUE L-3B,0.824,SINLOHI ROSE SW-127,0.324,NEARSTONE PINK D-B,0.819,ASAHIFIX  YELLOW XP-4G,0.378,2.345,Approved,30,20,60.0,15.0,1,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00020,Rust,RST-19-020,Rust,Brown,Medium,GAP,No,Woven,97% Cotton 3% Spandex,130,Enzyme Wash,Reactive,NEARWASH ORANGE RHL,0.363,NOVOCRON RED S-2B,0.241,,0.0,,0.0,0.604,Approved,30,20,40.0,10.0,3,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00021,Chocolate Brown,BRN-13-021,Chocolate Brown,Brown,Dark,CK,No,Woven,100% Cotton,120,Bio-Polish,Reactive,ZETANOL TURUOISE 3G,0.984,IC BLUE,0.372,TELON YELLOW A2R,0.692,TAIACRY BLACK FDL-T,0.852,2.9,Approved,30,20,60.0,15.0,3,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00022,Dusty Rose,PNK-03-022,Dusty Rose,Pink,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,160,Peach Finish,Pigment,MINERPRINT RED BTL HC,0.226,MINERPRINT BLACK BI HC,0.179,,0.0,,0.0,0.405,Approved,30,20,0.0,0.0,4,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00023,Khaki,KHK-16-023,Khaki,Khaki,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Enzyme Wash,Reactive,NOVOCRON RED C-2BL,0.826,,0.0,,0.0,,0.0,0.826,Approved,30,20,40.0,10.0,4,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00024,Plum,PLM-17-024,Plum,Purple,Dark,CK,No,Woven,98% Cotton 2% Spandex,160,Bio-Polish,Reactive,EMACOL CT RED 4328E,1.342,SF HF RED G,0.699,NOVOCRON YELLOW S 3R,1.271,JAKAZOL YELLOW GR,0.936,4.248,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00025,Sage Green,GRN-11-025,Sage Green,Green,Light,CK,No,Woven,100% Cotton,120,Bio-Polish,Reactive,ASUDEL NAVY BLUE MSB,0.123,NOVOCRON DARK BLUE SGL,0.106,,0.0,,0.0,0.229,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00026,Desert Sand,SND-10-026,Desert Sand,Beige,Light,TOMMY,Yes,Woven,98% Cotton 2% Spandex,160,Acid Wash,Reactive,NOVOCRON SUPER BLACK G,0.069,SF S BLACK EX A,0.078,ASAHIFIX  YELLOW XP-4G,0.073,,0.0,0.221,Approved,30,20,25.0,7.0,4,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00027,Teal Blue,TEA-14-027,Teal Blue,Teal,Medium,GAP,Yes,Woven,100% Cotton,100,Bleach Clean,Reactive,PERICOLOR GREEN VF,0.667,NEARSTONE ORANGE D-LG,0.336,,0.0,,0.0,1.003,Approved,30,20,50.0,13.0,4,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00028,Wine Red,RED-08-028,Wine Red,Red,Dark,CK,No,Woven,97% Cotton 3% Spandex,100,Enzyme Wash,Reactive,ASAHIFIX RED XP-S,0.772,ZETADIRECT BLACK CA 600%,1.684,,0.0,,0.0,2.456,Approved,30,20,60.0,15.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00029,Desert Sand,SND-10-029,Desert Sand,Beige,Light,GAP,No,Woven,98% Cotton 2% Spandex,160,Bio-Polish,Reactive,ASUDEL YELLOW BROWN WGR,0.244,TAICRON RED  E FBNT 200%,0.11,,0.0,,0.0,0.354,Approved,30,20,25.0,7.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00030,Dusty Rose,PNK-03-030,Dusty Rose,Pink,Light,CK,No,Woven,100% Cotton,180,Bio-Polish,Reactive,NOVOCRON RED S-2G,0.473,,0.0,,0.0,,0.0,0.473,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00031,Slate Grey,GRY-15-031,Slate Grey,Grey,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,125,Peach Finish,Reactive,JAKOFIX B YELLOW HE4G,1.814,,0.0,,0.0,,0.0,1.814,Approved,30,20,50.0,13.0,4,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00032,Olive Green,OLV-06-032,Olive Green,Olive,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Bleach Clean,Reactive,SOLARUS RED BWS,0.883,ASATHIOSOL BLACK SH,2.22,SF SB YELLOW 3RF 150G,1.732,,0.0,4.835,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00033,Wine Red,RED-08-033,Wine Red,Red,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,165,Peach Finish,Reactive,NOVOCRON RED C-2BL,1.207,SOLARUS BLUE B2R,0.981,NEARSTONE PINK D-B,0.864,,0.0,3.052,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00034,Rust,RST-19-034,Rust,Brown,Medium,CK,No,Woven,100% Cotton,180,Acid Wash,Reactive,IC GOLD YELLOW,0.583,MURAZOME BLUE NJ-R,0.48,ASAHIFIX BLUE XP-BRF,0.492,,0.0,1.555,Approved,30,20,50.0,13.0,3,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00035,Khaki,KHK-16-035,Khaki,Khaki,Medium,TOMMY,No,Woven,100% Cotton,125,Tint Wash,Pigment,NATURAL EARTH PIGMENT SHELL,1.233,,0.0,,0.0,,0.0,1.233,Approved,30,20,0.0,0.0,1,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00036,Golden Yellow,YEL-20-036,Golden Yellow,Yellow,Medium,CK,No,Woven,100% Cotton,180,Bio-Polish,Reactive,JAKOFIX YELLOW HE6G,0.165,TAICRON NAVY BLUE XF-T,0.542,NOVOCRON RED FN3G,0.181,MURAZOME NAVY NJ,0.459,1.347,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00037,Navy Blue,NAVY-01-037,Navy Blue,Navy,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,130,Bleach Clean,Pigment,MINERPRINT BLUE 3G - HC,1.528,ZETATERA EARTH,1.362,LAVA BLACK GLF 01,1.165,,0.0,4.055,Approved,30,20,0.0,0.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00038,Royal Blue,BLU-02-038,Royal Blue,Blue,Medium,GAP,No,Woven,97% Cotton 3% Spandex,165,Bleach Clean,Reactive,MURAZOME RED NJ,0.252,NEUTRILAN BLACK MR-X,0.304,JAKOFIX B BLUE HERD,0.4,SF S B RED GF,0.349,1.305,Approved,30,20,50.0,13.0,3,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00039,Olive Green,OLV-06-039,Olive Green,Olive,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Silicon Softener Finish,Reactive,ZETALIGHT BORDEAUX MB,0.575,SF S BLUE RSP L,0.866,BEST ACID TURQ BLUE 3G,1.027,SF HF BLUE 2R GRAN,0.572,3.04,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00040,Sage Green,GRN-11-040,Sage Green,Green,Light,GAP,Yes,Woven,98% Cotton 2% Spandex,180,Enzyme Wash,Reactive,NOVOCRON BRILL BLUE FNG,0.062,ASUDEL GOLDEN YELLOW WMR,0.054,IC SCARLET,0.062,SF SN NAVY BLUE BF GRNN,0.031,0.209,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00041,Desert Sand,SND-10-041,Desert Sand,Beige,Light,CK,No,Woven,98% Cotton 2% Spandex,100,Acid Wash,Reactive,RIFAZOL BLUE EXF,0.467,,0.0,,0.0,,0.0,0.467,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00042,Slate Grey,GRY-15-042,Slate Grey,Grey,Medium,CK,No,Woven,100% Cotton,160,Silicon Softener Finish,Reactive,NOVOCRON DARK BLUE SGL,0.118,NEARWASH BLUE CS-P-RL AC,0.371,SF S TURQ BLUE GN,0.41,,0.0,0.898,Approved,30,20,40.0,10.0,4,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00043,Sage Green,GRN-11-043,Sage Green,Green,Light,GAP,Yes,Woven,100% Cotton,160,Bio-Polish,Reactive,ASUDEL BLACK W-BN,0.051,NEAREAFIX YELLOW AC H,0.059,SF HF RED 2B GRAN,0.067,NEARWASH YELLOW CS-3R,0.042,0.22,Approved,30,20,25.0,7.0,1,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00044,Navy Blue,NAVY-01-044,Navy Blue,Navy,Dark,CK,No,Woven,97% Cotton 3% Spandex,120,Stone Wash,Reactive,NEARWASH BLACK RCL,1.311,ZETADIRECT BLUE T-LG,1.312,NEO RED MFB CONC,1.32,,0.0,3.943,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00045,Dusty Rose,PNK-03-045,Dusty Rose,Pink,Light,TOMMY,Yes,Woven,97% Cotton 3% Spandex,165,Stone Wash,Reactive,ASAHIFIX  YELLOW XP-4G,0.138,ASUDEL BLUE R,0.156,NEARSTONE GREEN D-GB,0.106,,0.0,0.4,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00046,Khaki,KHK-16-046,Khaki,Khaki,Medium,CK,No,Woven,98% Cotton 2% Spandex,165,Bleach Clean,Reactive,SEIKAFIX NAVY BLUE FL2R,1.843,,0.0,,0.0,,0.0,1.843,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00047,Slate Grey,GRY-15-047,Slate Grey,Grey,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,180,Tint Wash,Pigment,NATURAL EARTH PIGMENT CHARCOAL,0.242,MINERPRINT BLUE 3G - HC,0.274,DIRESUL EARTH - SAND LIQ,0.29,NATURAL EARTH PIGMENT SHELL,0.103,0.909,Approved,30,20,0.0,0.0,4,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00048,Forest Green,GRN-05-048,Forest Green,Green,Dark,CK,No,Woven,97% Cotton 3% Spandex,165,Enzyme Wash,Reactive,ASAHIFIX YELLOW XP-S,0.531,TAIACRYL RED VIOLET 3RT 200%,0.914,NEARWASH ORANGE RHL,0.43,DYEWASH DEEP RED SD,0.394,2.269,Approved,30,20,60.0,15.0,3,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00049,Sage Green,GRN-11-049,Sage Green,Green,Light,GAP,No,Woven,100% Cotton,120,Acid Wash,Reactive,SOLARUS YELLOW PG,0.013,NEARWASH RED BROWN RHL,0.012,BEST ACID TURQ BLUE 3G,0.015,NEO GOLD YELLOW MFR,0.015,0.056,Approved,30,20,20.0,5.0,4,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00050,Golden Yellow,YEL-20-050,Golden Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,180,Tint Wash,Reactive,ZETALIGHT ORANGE R,0.33,NOVOCRON BLUE CR,0.165,DYEAGE SCARLET 2G,0.213,,0.0,0.708,Approved,30,20,40.0,10.0,1,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00051,Rust,RST-19-051,Rust,Brown,Medium,CK,No,Woven,98% Cotton 2% Spandex,165,Stone Wash,Reactive,JAKOFIX YELLOW ME4GL,0.38,ASAHIFIX YELLOW XP-D,0.352,NEARWASH RED RCL,0.128,JAKOFIX BRILL BLUE JRF,0.301,1.161,Approved,30,20,50.0,13.0,3,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00052,Burgundy,RED-07-052,Burgundy,Red,Dark,CK,No,Woven,100% Cotton,100,Peach Finish,Reactive,SOLOPHENYL BROWN AGL,1.478,JAKAZOL BLUE BB,0.727,,0.0,,0.0,2.205,Approved,30,20,60.0,15.0,2,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00053,Turquoise,TRQ-18-053,Turquoise,Turquoise,Medium,TOMMY,No,Woven,100% Cotton,165,Enzyme Wash,Pigment,MINERPRINT BLACK KGR,0.126,MINERPRINT GOLDEN YELLOW RF HC,0.352,DIRESUL EARTH - SAND LIQ,0.282,,0.0,0.76,Approved,30,20,0.0,0.0,1,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00054,Plum,PLM-17-054,Plum,Purple,Dark,TOMMY,No,Woven,100% Cotton,100,Tint Wash,Reactive,DYEAGE BLACK RX,1.203,SF S BLUE RSP L,0.884,NOVOCRON YELLOW F4G,0.844,ASUDEL YELLOW GL,1.758,4.689,Approved,30,20,70.0,20.0,3,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00055,Mustard Yellow,YEL-04-055,Mustard Yellow,Yellow,Medium,CK,No,Woven,97% Cotton 3% Spandex,165,Acid Wash,Reactive,NOVOCRON BRILL BLUE FNG,0.707,NEARWASH BLACK RCL,1.026,,0.0,,0.0,1.733,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00056,Dusty Rose,PNK-03-056,Dusty Rose,Pink,Light,GAP,No,Woven,100% Cotton,165,Peach Finish,Reactive,TAICRON NAVY BLUE SEUNT,0.471,,0.0,,0.0,,0.0,0.471,Approved,30,20,25.0,7.0,1,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00057,Mustard Yellow,YEL-04-057,Mustard Yellow,Yellow,Medium,CK,No,Woven,100% Cotton,165,Tint Wash,Reactive,NEARWASH CRIMSON RHL,1.76,,0.0,,0.0,,0.0,1.76,Approved,30,20,50.0,13.0,3,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00058,Olive Green,OLV-06-058,Olive Green,Olive,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Peach Finish,Pigment,NATURAL EARTH PIGMENT SHELL,1.761,LAVA BLACK GLF 01,0.663,,0.0,,0.0,2.424,Approved,30,20,0.0,0.0,2,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00059,Sage Green,GRN-11-059,Sage Green,Green,Light,CK,No,Woven,100% Cotton,120,Silicon Softener Finish,Reactive,ZETANOL RED 2B,0.086,,0.0,,0.0,,0.0,0.086,Approved,30,20,20.0,5.0,4,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00060,Coral Pink,PNK-12-060,Coral Pink,Pink,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Tint Wash,Reactive,ASUDEL BLUE R,0.085,JAKAZOL BRILL BLUE RE 200,0.118,NEO GOLD YELLOW MFR,0.28,,0.0,0.483,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00061,Olive Green,OLV-06-061,Olive Green,Olive,Dark,GAP,No,Woven,97% Cotton 3% Spandex,120,Peach Finish,Pigment,NATURAL EARTH PIGMENT RUST,2.056,,0.0,,0.0,,0.0,2.056,Approved,30,20,0.0,0.0,3,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00062,Navy Blue,NAVY-01-062,Navy Blue,Navy,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,130,Peach Finish,Pigment,MINERPRINT BLACK KGR,3.303,,0.0,,0.0,,0.0,3.303,Approved,30,20,0.0,0.0,1,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00063,Plum,PLM-17-063,Plum,Purple,Dark,CK,No,Woven,97% Cotton 3% Spandex,120,Peach Finish,Reactive,JAKAZOL RED 5B,0.882,DECOSOL RED D-RB,1.556,,0.0,,0.0,2.438,Approved,30,20,60.0,15.0,1,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00064,Forest Green,GRN-05-064,Forest Green,Green,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,165,Bleach Clean,Reactive,NEARWASH GOLD YELLOW  RHL,3.517,,0.0,,0.0,,0.0,3.517,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00065,Slate Grey,GRY-15-065,Slate Grey,Grey,Medium,CK,No,Woven,97% Cotton 3% Spandex,100,Tint Wash,Reactive,NEARSTONE BLUE D-BR,0.666,TAICRON YELLOW SE 4GT 200%,0.543,,0.0,,0.0,1.209,Approved,30,20,50.0,13.0,1,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00066,Plum,PLM-17-066,Plum,Purple,Dark,CK,No,Woven,98% Cotton 2% Spandex,125,Bleach Clean,Reactive,ZETAREACT BLUE L-3B,2.365,TAICRON RUBINE XF-T,0.963,ASUDEL BLUE WRLS,1.032,,0.0,4.36,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00067,Desert Sand,SND-10-067,Desert Sand,Beige,Light,CK,No,Woven,98% Cotton 2% Spandex,120,Stone Wash,Reactive,ZETALIGHT RED R,0.107,NEARSTONE RED D-RT,0.112,DYEWASH BRILL RED SD,0.104,ZETALIGHT NAVY SG,0.036,0.359,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00068,Sage Green,GRN-11-068,Sage Green,Green,Light,TOMMY,No,Woven,100% Cotton,120,Stone Wash,Reactive,SF S TURQ BLUE GN,0.389,,0.0,,0.0,,0.0,0.389,Approved,30,20,25.0,7.0,1,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00069,Golden Yellow,YEL-20-069,Golden Yellow,Yellow,Medium,GAP,No,Woven,100% Cotton,130,Peach Finish,Reactive,NOVOCRON YELLOW F4G,0.537,TELON BLUE M GLW,0.388,,0.0,,0.0,0.925,Approved,30,20,40.0,10.0,2,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00070,Desert Sand,SND-10-070,Desert Sand,Beige,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Acid Wash,Reactive,JAKAZOL RUBY DSB,0.191,ASUDEL BLUE WRLS,0.141,,0.0,,0.0,0.332,Approved,30,20,25.0,7.0,1,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00071,Slate Grey,GRY-15-071,Slate Grey,Grey,Medium,CK,No,Woven,98% Cotton 2% Spandex,100,Acid Wash,Reactive,ASAHIFIX  SCARLET XP-S,0.419,NOVOCRON DARK BLUE SGL,0.426,ASUDEL GOLDEN YELLOW WMR,0.246,,0.0,1.091,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00072,Desert Sand,SND-10-072,Desert Sand,Beige,Light,TOMMY,No,Woven,100% Cotton,180,Tint Wash,Reactive,ASUFIX RED DEL - B,0.058,,0.0,,0.0,,0.0,0.058,Approved,30,20,20.0,5.0,2,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00073,Mustard Yellow,YEL-04-073,Mustard Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,180,Tint Wash,Pigment,DIRESUL EARTH - SAND LIQ,0.128,ZETATERA SAND,0.262,MINERPRINT BLACK KGR,0.345,LAVA OLIVE GLF,0.199,0.934,Approved,30,20,0.0,0.0,1,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00074,Chocolate Brown,BRN-13-074,Chocolate Brown,Brown,Dark,TOMMY,No,Woven,100% Cotton,125,Stone Wash,Reactive,TAIACID BLACK LDG-T,4.198,,0.0,,0.0,,0.0,4.198,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00075,Olive Green,OLV-06-075,Olive Green,Olive,Dark,GAP,No,Woven,98% Cotton 2% Spandex,100,Bleach Clean,Reactive,ASUDEL BLACK SL,1.873,NEAREAFIX RED AC H,2.918,,0.0,,0.0,4.791,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00076,Charcoal Grey,GRY-09-076,Charcoal Grey,Grey,Dark,GAP,No,Woven,98% Cotton 2% Spandex,130,Tint Wash,Reactive,NEARWASH BLACK RCL,1.174,IC RUBINE-F,1.562,SF S RED  LF-3B,1.46,NEARWASH RED CS-S-MG,0.568,4.764,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00077,Desert Sand,SND-10-077,Desert Sand,Beige,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Tint Wash,Reactive,NEARWASH GOLD YELLOW  RHL,0.321,,0.0,,0.0,,0.0,0.321,Approved,30,20,25.0,7.0,1,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00078,Royal Blue,BLU-02-078,Royal Blue,Blue,Medium,GAP,No,Woven,97% Cotton 3% Spandex,125,Peach Finish,Reactive,TAICRON YELLOW SE 4GT 200%,0.729,,0.0,,0.0,,0.0,0.729,Approved,30,20,40.0,10.0,3,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00079,Sage Green,GRN-11-079,Sage Green,Green,Light,CK,No,Woven,100% Cotton,100,Silicon Softener Finish,Reactive,SOLOPHENYL BLACK FGE,0.051,DYEAGE YELLOW R,0.088,JAKAZOL GOLDEN YELLOW HQ-N,0.096,JAKAZOL YELLOW HQ-C,0.124,0.36,Approved,30,20,25.0,7.0,2,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00080,Sage Green,GRN-11-080,Sage Green,Green,Light,CK,No,Woven,100% Cotton,160,Bleach Clean,Reactive,ZETALIGHT BROWN BL,0.259,IC BLUE,0.14,,0.0,,0.0,0.399,Approved,30,20,25.0,7.0,2,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00081,Turquoise,TRQ-18-081,Turquoise,Turquoise,Medium,GAP,No,Woven,100% Cotton,100,Bleach Clean,Reactive,SINLOHI ORANGE SW-114,0.195,NOVOCRON BRILLIANT BLUE LS-G,0.146,NOVOCRON BLUE CR,0.117,TAIACRY GOLDEN YELLOW 2G-T 200%,0.152,0.61,Approved,30,20,40.0,10.0,3,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00082,Plum,PLM-17-082,Plum,Purple,Dark,GAP,No,Woven,100% Cotton,125,Acid Wash,Reactive,ASUFIX RED DEL - B,1.742,JAKAZOL RUBY DSB,0.903,JAKAZOL ADMIRAL BLUE DS,1.253,,0.0,3.899,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00083,Navy Blue,NAVY-01-083,Navy Blue,Navy,Dark,GAP,No,Woven,97% Cotton 3% Spandex,180,Bleach Clean,Reactive,TELON YELLOW M-4GL,1.335,ZETALIGHT GREEN G,1.481,ASAHIFIX NAVY XPG,0.965,SF S RED  LF-3B,0.878,4.658,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00084,Khaki,KHK-16-084,Khaki,Khaki,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,120,Peach Finish,Reactive,NEARWASH BLUE RCL,0.744,NEO RED MGD,0.385,DYEWASH BRILL YELLOW SD,0.504,,0.0,1.633,Approved,30,20,50.0,13.0,1,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00085,Chocolate Brown,BRN-13-085,Chocolate Brown,Brown,Dark,CK,No,Woven,100% Cotton,180,Peach Finish,Reactive,IC SCARLET-F,1.401,EMACOL CT RED 4328E,2.123,SF S RUBY 4BF,1.454,,0.0,4.978,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00086,Royal Blue,BLU-02-086,Royal Blue,Blue,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Tint Wash,Reactive,DYEAGE BLACK RX,1.142,,0.0,,0.0,,0.0,1.142,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00087,Turquoise,TRQ-18-087,Turquoise,Turquoise,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,130,Bleach Clean,Reactive,DYEWASH BRILL RED SD,1.953,,0.0,,0.0,,0.0,1.953,Approved,30,20,50.0,13.0,3,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00088,Royal Blue,BLU-02-088,Royal Blue,Blue,Medium,GAP,No,Woven,98% Cotton 2% Spandex,180,Tint Wash,Reactive,TAINASET BLUE PA-T,0.467,SF S B RED 3BF 150G,0.241,,0.0,,0.0,0.708,Approved,30,20,40.0,10.0,4,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00089,Navy Blue,NAVY-01-089,Navy Blue,Navy,Dark,TOMMY,No,Woven,100% Cotton,130,Bleach Clean,Reactive,TAICRON RUBINE SE-UNT GRAN,3.419,,0.0,,0.0,,0.0,3.419,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00090,Wine Red,RED-08-090,Wine Red,Red,Dark,GAP,No,Woven,97% Cotton 3% Spandex,100,Acid Wash,Pigment,NATURAL EARTH PIGMENT OLIVE,1.002,LAVA OLIVE GLF,1.134,LAVA YELLOW GLF,1.091,,0.0,3.227,Approved,30,20,0.0,0.0,1,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00091,Sage Green,GRN-11-091,Sage Green,Green,Light,GAP,No,Woven,97% Cotton 3% Spandex,125,Peach Finish,Reactive,TELON BLUE M GLW,0.114,SF S BLACK EX CC GRANN,0.118,IC VIOLET,0.238,,0.0,0.471,Approved,30,20,25.0,7.0,3,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00092,Desert Sand,SND-10-092,Desert Sand,Beige,Light,GAP,No,Woven,97% Cotton 3% Spandex,130,Bio-Polish,Reactive,JAKOFIX RED ME6BL,0.107,ASUDEL BLACK SL,0.07,,0.0,,0.0,0.177,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00093,Forest Green,GRN-05-093,Forest Green,Green,Dark,GAP,No,Woven,97% Cotton 3% Spandex,120,Acid Wash,Pigment,MINERPRINT BLACK BI HC,1.039,LAVA DYE ORANGE GL,1.261,,0.0,,0.0,2.3,Approved,30,20,0.0,0.0,2,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00094,Burgundy,RED-07-094,Burgundy,Red,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,100,Stone Wash,Reactive,SINLOHI RED SW 113,1.395,ASAHIFIX TURQUOISE XP 266%,3.336,,0.0,,0.0,4.731,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00095,Navy Blue,NAVY-01-095,Navy Blue,Navy,Dark,TOMMY,No,Woven,100% Cotton,125,Bleach Clean,Reactive,DYEWASH GREEN SD,0.494,SF S RUBINE EXF G,0.55,SF HF BLUE BG GRAN,0.878,JAKOFIX B BLUE HERD,0.655,2.577,Approved,30,20,60.0,15.0,2,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00096,Plum,PLM-17-096,Plum,Purple,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,100,Silicon Softener Finish,Reactive,NEARSTONE GOLD YELLOW D-E,0.83,JAKAZOL ROYAL SLR,0.638,ASATHIOSOC OLIVE SKD,0.705,JAKAZOL YELLOW HQ-C,0.974,3.147,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00097,Desert Sand,SND-10-097,Desert Sand,Beige,Light,GAP,No,Woven,97% Cotton 3% Spandex,165,Bleach Clean,Reactive,NEARWASH RED CS-S-MG,0.034,TELON RED FRL,0.035,JAKAZOL BRILL BLUE R SP,0.078,,0.0,0.146,Approved,30,20,25.0,7.0,3,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00098,Plum,PLM-17-098,Plum,Purple,Dark,CK,No,Woven,97% Cotton 3% Spandex,100,Enzyme Wash,Reactive,TAIACRY BRILL RED 6BN-T 400%,1.069,SINLOHI ROSE SW-127,1.379,,0.0,,0.0,2.448,Approved,30,20,60.0,15.0,1,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00099,Slate Grey,GRY-15-099,Slate Grey,Grey,Medium,GAP,No,Woven,98% Cotton 2% Spandex,160,Enzyme Wash,Reactive,ASAHIFIX RED XP-3BF,0.782,NEO GOLD YELLOW MFR,0.661,JAKAZOL VIOLET 5R,0.274,,0.0,1.717,Approved,30,20,50.0,13.0,3,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00100,Teal Blue,TEA-14-100,Teal Blue,Teal,Medium,GAP,No,Woven,97% Cotton 3% Spandex,165,Bio-Polish,Reactive,NOVACRON YELLOW LS-4G,0.427,NEARWASH TURQUOISE RCL,0.374,NEARWASH SCARLET RCL,0.423,ASUFIX BLUE DEL - NT,0.292,1.517,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00101,Slate Grey,GRY-15-101,Slate Grey,Grey,Medium,CK,No,Woven,98% Cotton 2% Spandex,160,Bio-Polish,Reactive,RIFAZOL BLACK ED,0.22,NEARWASH BORDEAUX CS-P-B,0.511,,0.0,,0.0,0.731,Approved,30,20,40.0,10.0,1,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00102,Golden Yellow,YEL-20-102,Golden Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,165,Enzyme Wash,Reactive,NERO C,1.154,,0.0,,0.0,,0.0,1.154,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00103,Wine Red,RED-08-103,Wine Red,Red,Dark,TOMMY,Yes,Woven,97% Cotton 3% Spandex,160,Acid Wash,Reactive,ASUDEL NAVY BLUE DL,1.944,SOLARUS YELLOW PG,1.498,TAICRON ORANGE E-3RT,1.188,,0.0,4.63,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00104,Forest Green,GRN-05-104,Forest Green,Green,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,130,Acid Wash,Reactive,DYEWASH TURQUOISE BLUE SD,1.802,SEIKAFIX BLUE FL2B CONC,1.233,ASUDEL GREEN GGLN,0.647,,0.0,3.682,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00105,Turquoise,TRQ-18-105,Turquoise,Turquoise,Medium,CK,No,Woven,100% Cotton,125,Bio-Polish,Reactive,ASUDEL YELLOW GL,0.78,,0.0,,0.0,,0.0,0.78,Approved,30,20,40.0,10.0,2,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00106,Mustard Yellow,YEL-04-106,Mustard Yellow,Yellow,Medium,CK,Yes,Woven,98% Cotton 2% Spandex,120,Acid Wash,Reactive,SOLARUS BLUE FFRL,0.748,NEARSTONE BLUE D-BR,0.908,,0.0,,0.0,1.656,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00107,Sage Green,GRN-11-107,Sage Green,Green,Light,GAP,No,Woven,98% Cotton 2% Spandex,100,Acid Wash,Reactive,JAKAZOL YELLOW HQ-C,0.293,,0.0,,0.0,,0.0,0.293,Approved,30,20,25.0,7.0,4,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00108,Khaki,KHK-16-108,Khaki,Khaki,Medium,CK,No,Woven,97% Cotton 3% Spandex,125,Bleach Clean,Reactive,ZETALIGHT NAVY BR,0.427,SF S BLUE RSP L,0.295,RIFAZOL BLACK ED,0.548,EVEREST RED MG,0.322,1.592,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00109,Wine Red,RED-08-109,Wine Red,Red,Dark,GAP,No,Woven,100% Cotton,120,Tint Wash,Reactive,ZETANYL TURQUOISE  3G,0.886,SF S BLUE BRF 150G,0.416,ASAHIFIX BLUE XP-EX,1.255,ASATHIOSOC OLIVE SKD,1.034,3.591,Approved,30,20,70.0,20.0,3,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00110,Wine Red,RED-08-110,Wine Red,Red,Dark,GAP,No,Woven,98% Cotton 2% Spandex,180,Peach Finish,Reactive,ASUFIX RED DEL - B,1.196,NEARWASH NAVY BLUE RCL,0.505,NOVOCRON BLACK NN,0.92,RIFAZOL BLACK ED,1.068,3.689,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00111,Navy Blue,NAVY-01-111,Navy Blue,Navy,Dark,CK,No,Woven,98% Cotton 2% Spandex,180,Bio-Polish,Reactive,SOLOPHENYL BROWN AGL,0.947,BLUE HI WHITE B,2.076,SINLOHI ORANGE YELLOW  SW-116,1.725,,0.0,4.748,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00112,Sage Green,GRN-11-112,Sage Green,Green,Light,GAP,Yes,Woven,97% Cotton 3% Spandex,120,Bio-Polish,Reactive,EVERACID ORANGE S-GSN,0.115,SOLOPHENYL BLUE TLE,0.098,JAKAZOL RED HLF,0.085,,0.0,0.299,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00113,Wine Red,RED-08-113,Wine Red,Red,Dark,GAP,No,Woven,97% Cotton 3% Spandex,160,Bio-Polish,Reactive,ASAHIFIX NAVY XPG,1.525,ZETALIGHT BLUE GE,1.093,JAKOFIX B BLUE HERD,1.725,,0.0,4.343,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00114,Dusty Rose,PNK-03-114,Dusty Rose,Pink,Light,GAP,No,Woven,98% Cotton 2% Spandex,165,Silicon Softener Finish,Reactive,NEARWASH GREY RHL,0.017,DISPERSE  BLACK SE CR,0.019,BEST ACID TURQ BLUE 3G,0.016,,0.0,0.052,Approved,30,20,20.0,5.0,2,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00115,Navy Blue,NAVY-01-115,Navy Blue,Navy,Dark,GAP,No,Woven,100% Cotton,160,Peach Finish,Reactive,JAKOFIX RED MEGF,3.237,,0.0,,0.0,,0.0,3.237,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00116,Desert Sand,SND-10-116,Desert Sand,Beige,Light,TOMMY,No,Woven,100% Cotton,120,Bio-Polish,Reactive,SF S BLACK EX CC GRANN,0.038,ASUFIX GOLD YELLOW DEL - T,0.063,NEARWASH GREY RHL,0.061,,0.0,0.161,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00117,Golden Yellow,YEL-20-117,Golden Yellow,Yellow,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,130,Peach Finish,Reactive,MURAZOME BLUE NJ,0.782,NEARSTONE BLUE D-BR,0.617,,0.0,,0.0,1.399,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00118,Chocolate Brown,BRN-13-118,Chocolate Brown,Brown,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Stone Wash,Reactive,TAICRON RED  E FBNT 200%,1.912,SOLARUS BLACK B 160,0.626,,0.0,,0.0,2.538,Approved,30,20,60.0,15.0,4,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00119,Khaki,KHK-16-119,Khaki,Khaki,Medium,GAP,No,Woven,100% Cotton,125,Silicon Softener Finish,Reactive,ASUDEL YELLOW GL,0.291,NOVACRON YELLOW LS-4G,0.421,TAICRON RUBINE XF-T,0.403,SF HF SCARLET 2G GRAN,0.252,1.368,Approved,30,20,50.0,13.0,1,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00120,Golden Yellow,YEL-20-120,Golden Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,165,Bio-Polish,Reactive,NOVOCRON RED S-2B,0.142,DISPERSE  BLACK SE CR,0.277,ASATHIOSOL BLACK SH,0.228,,0.0,0.647,Approved,30,20,40.0,10.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00121,Navy Blue,NAVY-01-121,Navy Blue,Navy,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,100,Stone Wash,Reactive,NEARWASH BROWN CS-SGR 150%,1.715,NEAREAFIX BLACK AC RR UC,1.311,,0.0,,0.0,3.026,Approved,30,20,70.0,20.0,3,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00122,Royal Blue,BLU-02-122,Royal Blue,Blue,Medium,CK,No,Woven,98% Cotton 2% Spandex,165,Stone Wash,Reactive,JAKAZOL RED HQ,0.27,SF SB YELLOW 3RF 150G,0.49,,0.0,,0.0,0.76,Approved,30,20,40.0,10.0,4,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00123,Navy Blue,NAVY-01-123,Navy Blue,Navy,Dark,CK,No,Woven,100% Cotton,130,Bio-Polish,Reactive,JAKAZOL BLUE BB,3.155,JAKOFIX B YELLOW HE4G,1.094,,0.0,,0.0,4.249,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00124,Charcoal Grey,GRY-09-124,Charcoal Grey,Grey,Dark,CK,Yes,Woven,97% Cotton 3% Spandex,165,Peach Finish,Reactive,TAICRON NAVY BLUE SEUNT,1.142,DYEAGE RUBINE B,1.378,NEARWASH BROWN CS-SGR 150%,1.249,NEARWASH GOLD YELLOW  RHL,0.758,4.528,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00125,Olive Green,OLV-06-125,Olive Green,Olive,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,130,Bio-Polish,Reactive,NOVOCRON OCEAN SR,1.282,IC RUBINE-F,1.294,SF S BLUE BRF 150G,0.519,ZETALIGHT BORDEAUX MB,0.512,3.607,Approved,30,20,70.0,20.0,3,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00126,Navy Blue,NAVY-01-126,Navy Blue,Navy,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Tint Wash,Reactive,NOVOCRON DARK BLUE SGL,0.304,NOVOCRON YELLOW F4G,0.913,SF S BLUE EXF G,0.522,EVEREST GREY MG,0.508,2.247,Approved,30,20,60.0,15.0,3,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00127,Turquoise,TRQ-18-127,Turquoise,Turquoise,Medium,TOMMY,No,Woven,100% Cotton,180,Tint Wash,Reactive,DECOSOL RED D-RB,0.256,ZETALIGHT YELLOW S-2G,0.417,JAKAZOL RED SQ,0.836,JAKOFIX YELLOW HE6G,0.294,1.803,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00128,Burgundy,RED-07-128,Burgundy,Red,Dark,GAP,No,Woven,97% Cotton 3% Spandex,125,Silicon Softener Finish,Reactive,JAKOFIX RED ME6BL,1.273,TAIACRY BRILL RED 6BN-T 400%,1.852,JAKAZOL YELLOW HLF,1.724,,0.0,4.848,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00129,Forest Green,GRN-05-129,Forest Green,Green,Dark,CK,No,Woven,100% Cotton,180,Bio-Polish,Reactive,ZETADIRECT RED BWS,1.243,NOVOCRON DARK BLUE SGL,1.56,NEARWASH SCARLET RCL,0.548,,0.0,3.351,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00130,Slate Grey,GRY-15-130,Slate Grey,Grey,Medium,CK,No,Woven,98% Cotton 2% Spandex,180,Stone Wash,Reactive,JAKOFIX BRILL BLUE JRF,0.287,NOVOCRON RED FN3G,0.166,JAKAZOL BLUE HLF,0.225,SF S RED EXF G,0.222,0.9,Approved,30,20,40.0,10.0,4,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00131,Mustard Yellow,YEL-04-131,Mustard Yellow,Yellow,Medium,GAP,No,Woven,100% Cotton,130,Acid Wash,Reactive,ZETALIGHT ORANGE R,0.498,MURAZOME BLUE NJ-R,0.239,,0.0,,0.0,0.737,Approved,30,20,40.0,10.0,3,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00132,Wine Red,RED-08-132,Wine Red,Red,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,100,Enzyme Wash,Reactive,DYEWASH DEEP RED SD,3.775,,0.0,,0.0,,0.0,3.775,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00133,Dusty Rose,PNK-03-133,Dusty Rose,Pink,Light,GAP,No,Woven,97% Cotton 3% Spandex,180,Stone Wash,Pigment,MINERPRINT RED BTL HC,0.147,LAVA DENIM BLACK GLF,0.063,NATURAL EARTH PIGMENT SAHARA,0.18,,0.0,0.39,Approved,30,20,0.0,0.0,2,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00134,Forest Green,GRN-05-134,Forest Green,Green,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,180,Acid Wash,Pigment,LAVA DENIM BLACK GLF,4.25,,0.0,,0.0,,0.0,4.25,Approved,30,20,0.0,0.0,4,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00135,Wine Red,RED-08-135,Wine Red,Red,Dark,CK,No,Woven,97% Cotton 3% Spandex,160,Bleach Clean,Reactive,ZETANYL TURQUOISE  3G,4.619,,0.0,,0.0,,0.0,4.619,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00136,Mustard Yellow,YEL-04-136,Mustard Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,100,Enzyme Wash,Reactive,DYEWASH DEEP RED SD,0.453,NEBUDYE OLIVE-G,0.26,TAIACRY BLACK FDL-T,0.414,,0.0,1.127,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00137,Royal Blue,BLU-02-137,Royal Blue,Blue,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Bio-Polish,Reactive,ASUPREND WS,0.329,ZETALIGHT GREEN G,0.346,SINLOHI ROSE SW-127,0.454,SINLOHI RUBINE SW-137,0.289,1.418,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00138,Royal Blue,BLU-02-138,Royal Blue,Blue,Medium,GAP,No,Woven,98% Cotton 2% Spandex,100,Tint Wash,Reactive,NATURAL DYE TEA,1.492,,0.0,,0.0,,0.0,1.492,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00139,Plum,PLM-17-139,Plum,Purple,Dark,CK,No,Woven,97% Cotton 3% Spandex,125,Silicon Softener Finish,Reactive,DYEAGE YELLOW R,1.304,ASAHIFIX NAVY XPG,0.856,NEARSTONE YELLOW D-GC,2.253,,0.0,4.413,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00140,Olive Green,OLV-06-140,Olive Green,Olive,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Stone Wash,Reactive,ASUDEL BLACK W-BN,4.567,,0.0,,0.0,,0.0,4.567,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00141,Wine Red,RED-08-141,Wine Red,Red,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,125,Bleach Clean,Reactive,DYEWASH AMBER SD,0.812,SF S ROYAL BLUE LF-3R,1.802,ZETANOL RED BW,2.083,,0.0,4.697,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00142,Navy Blue,NAVY-01-142,Navy Blue,Navy,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,180,Bleach Clean,Reactive,SEIKAFIX BLUE FL2B CONC,1.612,NEARWASH RED CS-S-MG,2.157,,0.0,,0.0,3.769,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00143,Wine Red,RED-08-143,Wine Red,Red,Dark,CK,No,Woven,97% Cotton 3% Spandex,100,Peach Finish,Pigment,MINERPRINT RED BTL HC,0.972,LAVA BLUE GLF,1.67,LAVA YELLOW GLF,1.685,ZETATERA SOYA,0.614,4.94,Approved,30,20,0.0,0.0,3,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00144,Dusty Rose,PNK-03-144,Dusty Rose,Pink,Light,CK,No,Woven,100% Cotton,165,Bio-Polish,Pigment,NATURAL EARTH PIGMENT RUST,0.341,,0.0,,0.0,,0.0,0.341,Approved,30,20,0.0,0.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00145,Wine Red,RED-08-145,Wine Red,Red,Dark,GAP,Yes,Woven,100% Cotton,180,Stone Wash,Reactive,NOVOCRON YELLOW S 3R,1.165,SEIKAFIX NAVY BLUE FL2R,1.774,,0.0,,0.0,2.939,Approved,30,20,60.0,15.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00146,Desert Sand,SND-10-146,Desert Sand,Beige,Light,CK,No,Woven,100% Cotton,120,Peach Finish,Pigment,NATURAL EARTH PIGMENT CHARCOAL,0.174,NATURAL EARTH PIGMENT SHELL,0.102,,0.0,,0.0,0.276,Approved,30,20,0.0,0.0,2,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00147,Forest Green,GRN-05-147,Forest Green,Green,Dark,GAP,No,Woven,100% Cotton,120,Acid Wash,Reactive,ZETALAN BLACK MRL,1.058,ZETALIGHT OLIVE BG,2.048,ASUPRINT BLUE -ECO BS,0.635,,0.0,3.741,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00148,Slate Grey,GRY-15-148,Slate Grey,Grey,Medium,GAP,No,Woven,97% Cotton 3% Spandex,130,Bio-Polish,Reactive,ZETAREACT YELLOW C-5G,0.157,NOVACRON RED EC-3B,0.185,IC BLACK,0.367,NEARWASH GREEN CS-BT,0.111,0.82,Approved,30,20,40.0,10.0,2,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00149,Dusty Rose,PNK-03-149,Dusty Rose,Pink,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Acid Wash,Reactive,NEARWASH YELLOW CS-3R,0.394,,0.0,,0.0,,0.0,0.394,Approved,30,20,25.0,7.0,4,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00150,Sage Green,GRN-11-150,Sage Green,Green,Light,CK,No,Woven,98% Cotton 2% Spandex,100,Tint Wash,Reactive,EMACOL CT RED 4328E,0.063,DECOSOL BLUE DBL,0.096,,0.0,,0.0,0.159,Approved,30,20,25.0,7.0,1,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00151,Rust,RST-19-151,Rust,Brown,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,125,Enzyme Wash,Reactive,SOLOPHENYL YELLOW GLE,0.228,SOLOPHENYL BLUE TLE,0.579,DYEWASH NAVY BLUE SD,0.532,,0.0,1.339,Approved,30,20,50.0,13.0,4,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00152,Wine Red,RED-08-152,Wine Red,Red,Dark,CK,No,Woven,97% Cotton 3% Spandex,130,Enzyme Wash,Reactive,DYEWASH BRILL YELLOW SD,2.136,NEARWASH BLUE CS-P-RL AC,2.008,,0.0,,0.0,4.144,Approved,30,20,70.0,20.0,3,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00153,Coral Pink,PNK-12-153,Coral Pink,Pink,Light,CK,Yes,Woven,98% Cotton 2% Spandex,160,Stone Wash,Reactive,DYEWASH ORANGE SD,0.185,EMACOL CT RED 4322,0.14,NOVOCRON SUPER BLACK G,0.073,,0.0,0.398,Approved,30,20,25.0,7.0,3,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00154,Olive Green,OLV-06-154,Olive Green,Olive,Dark,CK,No,Woven,97% Cotton 3% Spandex,160,Bio-Polish,Reactive,IC ORANGE,3.801,,0.0,,0.0,,0.0,3.801,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00155,Wine Red,RED-08-155,Wine Red,Red,Dark,TOMMY,Yes,Woven,100% Cotton,165,Stone Wash,Reactive,NOVOCRON YELLOW FN2R,0.953,ASATHIOSOL BLACK SH,0.635,JAKAZOL YELLOW H7GL,1.04,,0.0,2.627,Approved,30,20,60.0,15.0,1,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00156,Chocolate Brown,BRN-13-156,Chocolate Brown,Brown,Dark,TOMMY,No,Woven,100% Cotton,180,Tint Wash,Reactive,EVERACID ORANGE S-GSN,1.448,PERICOLOR BLUE DB,0.772,,0.0,,0.0,2.22,Approved,30,20,60.0,15.0,3,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00157,Dusty Rose,PNK-03-157,Dusty Rose,Pink,Light,CK,Yes,Woven,100% Cotton,125,Tint Wash,Reactive,ZETALIGHT YELLOW S-2G,0.02,EVERSET BLUE M-2R,0.025,TAINASET BLUE PA-T,0.025,NOVACRON RUBY S-3B,0.049,0.119,Approved,30,20,25.0,7.0,3,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00158,Rust,RST-19-158,Rust,Brown,Medium,CK,No,Woven,100% Cotton,100,Peach Finish,Pigment,MINERPRINT BLUE 3G - HC,1.728,,0.0,,0.0,,0.0,1.728,Approved,30,20,0.0,0.0,4,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00159,Khaki,KHK-16-159,Khaki,Khaki,Medium,GAP,No,Woven,98% Cotton 2% Spandex,130,Tint Wash,Reactive,BEST ACID TURQ BLUE 3G,0.391,ZETALIGHT NAVY BR,0.397,SINLOHI L YELLOW SW-115,0.289,,0.0,1.077,Approved,30,20,50.0,13.0,1,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00160,Forest Green,GRN-05-160,Forest Green,Green,Dark,CK,No,Woven,100% Cotton,165,Peach Finish,Reactive,TAICRON NAVY BLUE XF-T,1.309,JAKAZOL NAVY BLUE GG,0.854,SOLARUS BROWN GTL,0.987,ASUDEL NAVY BLUE DL,1.364,4.514,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00161,Plum,PLM-17-161,Plum,Purple,Dark,CK,Yes,Woven,97% Cotton 3% Spandex,165,Silicon Softener Finish,Pigment,LAVA STONE GREY GLF,0.431,LAVA RED GLF,0.752,LAVA YELLOW GLF,0.437,LAVA VIOLET GLF,0.757,2.377,Approved,30,20,0.0,0.0,2,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00162,Turquoise,TRQ-18-162,Turquoise,Turquoise,Medium,TOMMY,Yes,Woven,97% Cotton 3% Spandex,130,Enzyme Wash,Reactive,DYEAGE NAVY BLUE RL,0.399,NOVOCRON DARK BLUE SGL,0.565,EMACOL CT BLUE 4824E,0.189,EMACOL BLACK 4939E,0.191,1.344,Approved,30,20,50.0,13.0,1,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00163,Rust,RST-19-163,Rust,Brown,Medium,CK,No,Woven,100% Cotton,125,Bio-Polish,Pigment,DIRESUL EARTH - STONE LIQ,0.166,NATURAL EARTH PIGMENT SHELL,0.124,MINERPRINT NAVY BLUE 5RF HC,0.145,MINERPRINT BLACK KGR,0.138,0.573,Approved,30,20,0.0,0.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00164,Slate Grey,GRY-15-164,Slate Grey,Grey,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Stone Wash,Reactive,NOVACRON BLUE EC-GC,0.832,SF S BLACK EX A,0.8,,0.0,,0.0,1.632,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00165,Burgundy,RED-07-165,Burgundy,Red,Dark,GAP,No,Woven,100% Cotton,100,Tint Wash,Pigment,LAVA VIOLET GLF,1.652,MINERPRINT BLUE ECO BS,1.909,NATURAL EARTH PIGMENT MUDSTONE,0.901,,0.0,4.462,Approved,30,20,0.0,0.0,1,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00166,Coral Pink,PNK-12-166,Coral Pink,Pink,Light,GAP,No,Woven,98% Cotton 2% Spandex,165,Stone Wash,Reactive,ASUDEL BLUE WJ,0.125,EVERACID ORANGE S-GSN,0.129,TAIACRYL BLUE GRFT 200%,0.077,JAKAZOL BLUE HQ-C,0.095,0.427,Approved,30,20,25.0,7.0,1,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00167,Wine Red,RED-08-167,Wine Red,Red,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,165,Bleach Clean,Reactive,NEARWASH BROWN CS-SGR 150%,1.029,RIFAZOL BLACK ED,1.179,JAKAZOL TURQ BLUE PG,0.744,JAKOFIX BRILL BLUE JRF,0.444,3.395,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00168,Dusty Rose,PNK-03-168,Dusty Rose,Pink,Light,TOMMY,Yes,Woven,97% Cotton 3% Spandex,125,Bleach Clean,Reactive,IC SCARLET,0.136,EMACOL CT BLUE 4824E,0.126,SF SB YELLOW 3RF 150G,0.125,,0.0,0.387,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00169,Charcoal Grey,GRY-09-169,Charcoal Grey,Grey,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,100,Acid Wash,Reactive,SINLOHI RED SW 113,2.401,ZETALIGHT BROWN BL,1.946,,0.0,,0.0,4.347,Approved,30,20,70.0,20.0,3,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00170,Charcoal Grey,GRY-09-170,Charcoal Grey,Grey,Dark,CK,No,Woven,100% Cotton,165,Peach Finish,Reactive,NEARWASH GREEN CS-BT,1.536,JAKAZOL DARK BLUE SQ,2.689,,0.0,,0.0,4.225,Approved,30,20,70.0,20.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00171,Rust,RST-19-171,Rust,Brown,Medium,CK,Yes,Woven,100% Cotton,130,Acid Wash,Reactive,SINLOHI PINK SW-17,0.229,JAKOFIX YELLOW HE6G,0.626,NOVOCRON BRILL BLUE FNG,0.319,ASUDEL GOLDEN YELLOW WMR,0.624,1.798,Approved,30,20,50.0,13.0,4,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00172,Sage Green,GRN-11-172,Sage Green,Green,Light,CK,No,Woven,98% Cotton 2% Spandex,125,Acid Wash,Reactive,TAIACRYL GOLDEN YELLOW BRT 200%,0.191,EMACOL CT RED 4328E,0.074,,0.0,,0.0,0.265,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00173,Royal Blue,BLU-02-173,Royal Blue,Blue,Medium,CK,No,Woven,98% Cotton 2% Spandex,100,Peach Finish,Reactive,ASAHIFIX  BLACK XP-R,0.332,ZETANOL TURUOISE 3G,0.174,,0.0,,0.0,0.506,Approved,30,20,40.0,10.0,3,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00174,Dusty Rose,PNK-03-174,Dusty Rose,Pink,Light,GAP,No,Woven,98% Cotton 2% Spandex,130,Peach Finish,Reactive,NEARWASH BLUE CS-SPR,0.06,SF S BLUE EXF G,0.148,,0.0,,0.0,0.208,Approved,30,20,25.0,7.0,4,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00175,Mustard Yellow,YEL-04-175,Mustard Yellow,Yellow,Medium,TOMMY,No,Woven,100% Cotton,130,Bleach Clean,Reactive,TAICRON RUBINE SE-GLNT 200%,1.982,,0.0,,0.0,,0.0,1.982,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00176,Khaki,KHK-16-176,Khaki,Khaki,Medium,CK,No,Woven,97% Cotton 3% Spandex,165,Enzyme Wash,Reactive,ZETANOL BLUE RL,1.275,,0.0,,0.0,,0.0,1.275,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00177,Burgundy,RED-07-177,Burgundy,Red,Dark,CK,No,Woven,98% Cotton 2% Spandex,180,Acid Wash,Reactive,JAKOFIX YELLOW HE4R,0.671,EMACOL CT YELLOW 4631N,1.572,ASUDEL BLACK M-SD,0.824,SOLARUS BLACK VSF,0.417,3.484,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00178,Charcoal Grey,GRY-09-178,Charcoal Grey,Grey,Dark,CK,No,Woven,98% Cotton 2% Spandex,125,Tint Wash,Pigment,DIRESUL EARTH - STONE LIQ,1.757,MINERPRINT BLUE 3G - HC,1.32,,0.0,,0.0,3.077,Approved,30,20,0.0,0.0,1,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00179,Coral Pink,PNK-12-179,Coral Pink,Pink,Light,TOMMY,Yes,Woven,98% Cotton 2% Spandex,165,Stone Wash,Reactive,IC ORANGE,0.06,DYEAGE RUBINE B,0.089,NERO C,0.078,,0.0,0.226,Approved,30,20,25.0,7.0,4,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00180,Mustard Yellow,YEL-04-180,Mustard Yellow,Yellow,Medium,TOMMY,Yes,Woven,98% Cotton 2% Spandex,180,Tint Wash,Reactive,NEARWASH GREY CS-CFK,0.49,TELON FALVIN M-7G,0.565,ASAHIFIX  YELLOW XP-4G,0.377,ZETAREACT FLUO YELLOW FL,0.379,1.811,Approved,30,20,50.0,13.0,4,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00181,Plum,PLM-17-181,Plum,Purple,Dark,CK,No,Woven,97% Cotton 3% Spandex,120,Peach Finish,Reactive,NOVOCRON RED S-2G,3.979,,0.0,,0.0,,0.0,3.979,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00182,Khaki,KHK-16-182,Khaki,Khaki,Medium,GAP,No,Woven,98% Cotton 2% Spandex,125,Acid Wash,Reactive,ASUDEL BLUE WJ,0.413,SF S TURQ BLUE GN,0.668,JAKAZOL DARK BLUE SQ,0.239,,0.0,1.32,Approved,30,20,50.0,13.0,4,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00183,Khaki,KHK-16-183,Khaki,Khaki,Medium,CK,No,Woven,100% Cotton,130,Bio-Polish,Pigment,LAVA BLACK GLF,1.68,,0.0,,0.0,,0.0,1.68,Approved,30,20,0.0,0.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00184,Wine Red,RED-08-184,Wine Red,Red,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,160,Tint Wash,Reactive,PERICOLOR BLUE DB,0.99,DYEAGE RUBINE B,1.204,BLUE NAVY HI WHITE,2.076,,0.0,4.27,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00185,Forest Green,GRN-05-185,Forest Green,Green,Dark,CK,No,Woven,98% Cotton 2% Spandex,100,Bleach Clean,Reactive,DYEWASH AMBER SD,1.821,NEO BLUE MB,0.824,,0.0,,0.0,2.645,Approved,30,20,60.0,15.0,3,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00186,Khaki,KHK-16-186,Khaki,Khaki,Medium,GAP,No,Woven,100% Cotton,160,Bio-Polish,Reactive,SF S YELLOW BROWN EXF,0.22,IC GREEN,0.343,TAIACRYL RED VIOLET 3RT 200%,0.445,IC BLACK,0.579,1.588,Approved,30,20,50.0,13.0,4,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00187,Slate Grey,GRY-15-187,Slate Grey,Grey,Medium,GAP,No,Woven,97% Cotton 3% Spandex,165,Bleach Clean,Reactive,SOLARUS BROWN GTL,0.339,ZETALIGHT BLACK B,0.221,JAKOFIX BRILL BLUE JRF,0.24,,0.0,0.799,Approved,30,20,40.0,10.0,2,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00188,Turquoise,TRQ-18-188,Turquoise,Turquoise,Medium,TOMMY,Yes,Woven,98% Cotton 2% Spandex,180,Enzyme Wash,Reactive,NEARWASH YELLOW CS-3R,0.717,,0.0,,0.0,,0.0,0.717,Approved,30,20,40.0,10.0,2,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00189,Burgundy,RED-07-189,Burgundy,Red,Dark,CK,No,Woven,98% Cotton 2% Spandex,100,Acid Wash,Reactive,JAKAZOL RED CE,0.424,SF S YELLOW  EXF G,0.445,JAKOFIX RED ME4BL,0.666,ZETANOL GREEN GW,0.605,2.14,Approved,30,20,60.0,15.0,1,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00190,Burgundy,RED-07-190,Burgundy,Red,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,100,Silicon Softener Finish,Reactive,NEARWASH TURQUOISE RCL,2.121,,0.0,,0.0,,0.0,2.121,Approved,30,20,60.0,15.0,3,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00191,Royal Blue,BLU-02-191,Royal Blue,Blue,Medium,GAP,Yes,Woven,97% Cotton 3% Spandex,100,Bleach Clean,Reactive,ASUDEL YELLOW GL,0.244,NEAREAFIX YELLOW AC H,0.189,SINLOHI ORANGE SW-114,0.395,,0.0,0.828,Approved,30,20,40.0,10.0,4,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00192,Sage Green,GRN-11-192,Sage Green,Green,Light,TOMMY,No,Woven,100% Cotton,180,Tint Wash,Reactive,DYEAGE RUBINE B,0.344,,0.0,,0.0,,0.0,0.344,Approved,30,20,25.0,7.0,2,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00193,Navy Blue,NAVY-01-193,Navy Blue,Navy,Dark,CK,No,Woven,98% Cotton 2% Spandex,160,Tint Wash,Reactive,ZETATALIGHT YELLOW GL,1.476,IC VIOLET,0.577,NEARSTONE BLUE D-BR,1.485,,0.0,3.537,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00194,Burgundy,RED-07-194,Burgundy,Red,Dark,CK,No,Woven,97% Cotton 3% Spandex,180,Bio-Polish,Reactive,EMACOL CT GREEN 4716,2.071,,0.0,,0.0,,0.0,2.071,Approved,30,20,60.0,15.0,1,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00195,Charcoal Grey,GRY-09-195,Charcoal Grey,Grey,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,130,Bio-Polish,Reactive,ZETANOL RED BW,0.934,DYEAGE YELLOW R,1.069,SINLOHI RED SW 113,0.901,ASATHIOSOC OLIVE SKD,1.015,3.918,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00196,Desert Sand,SND-10-196,Desert Sand,Beige,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,100,Tint Wash,Reactive,DYEWASH ORANGE SD,0.262,NEBUDYE NAVY BLUE -B,0.139,,0.0,,0.0,0.401,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00197,Rust,RST-19-197,Rust,Brown,Medium,CK,No,Woven,97% Cotton 3% Spandex,100,Bleach Clean,Reactive,JAKAZOL BLUE HLF,0.433,NOVOCRON BRILL BLUE FNG,0.471,ZETALIGHT OLIVE BG,0.865,,0.0,1.769,Approved,30,20,50.0,13.0,3,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00198,Desert Sand,SND-10-198,Desert Sand,Beige,Light,CK,No,Woven,100% Cotton,120,Tint Wash,Reactive,DYEWASH BRILL RED SD,0.061,ZETALIGHT NAVY SG,0.04,ZETANYL BLUE C-NF,0.052,,0.0,0.153,Approved,30,20,25.0,7.0,4,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00199,Teal Blue,TEA-14-199,Teal Blue,Teal,Medium,GAP,No,Woven,100% Cotton,180,Acid Wash,Reactive,JAKAZOL B RED HE3B,0.578,NEARWASH GREY RHL,0.38,DYEWASH GREEN SD,0.33,ZETAREACT BLUE L-3B,0.305,1.592,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00200,Dusty Rose,PNK-03-200,Dusty Rose,Pink,Light,CK,No,Woven,100% Cotton,180,Enzyme Wash,Reactive,TAICRON ORANGE E-3RT,0.057,JAKAZOL BLUE HLF,0.04,ASAHIFIX YELLOW XP-3RF,0.046,SOLARUS BLUE FFRL,0.022,0.165,Approved,30,20,25.0,7.0,4,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00201,Coral Pink,PNK-12-201,Coral Pink,Pink,Light,CK,No,Woven,100% Cotton,180,Silicon Softener Finish,Reactive,NOVOCRON YELLOW FN2R,0.073,EMACOL CT RED 4328E,0.056,,0.0,,0.0,0.129,Approved,30,20,25.0,7.0,2,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00202,Dusty Rose,PNK-03-202,Dusty Rose,Pink,Light,TOMMY,No,Woven,100% Cotton,165,Acid Wash,Reactive,NEBUDYE OLIVE-G,0.091,SF HF BLUE 2R GRAN,0.24,PERICOLOR GREEN VF,0.107,,0.0,0.438,Approved,30,20,25.0,7.0,3,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00203,Rust,RST-19-203,Rust,Brown,Medium,CK,Yes,Woven,100% Cotton,160,Bleach Clean,Reactive,SF SB YELLOW 3RF 150G,0.61,NOVOCRON BLACK NN,0.416,,0.0,,0.0,1.026,Approved,30,20,50.0,13.0,4,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00204,Plum,PLM-17-204,Plum,Purple,Dark,CK,No,Woven,100% Cotton,120,Silicon Softener Finish,Reactive,ZETANYL YELLOW C-3RL,2.689,,0.0,,0.0,,0.0,2.689,Approved,30,20,60.0,15.0,1,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00205,Navy Blue,NAVY-01-205,Navy Blue,Navy,Dark,GAP,No,Woven,97% Cotton 3% Spandex,160,Silicon Softener Finish,Pigment,LAVA OLIVE GLF,2.167,,0.0,,0.0,,0.0,2.167,Approved,30,20,0.0,0.0,2,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00206,Golden Yellow,YEL-20-206,Golden Yellow,Yellow,Medium,TOMMY,Yes,Woven,100% Cotton,120,Bio-Polish,Reactive,ZETADIRECT BLUE T-LG,0.416,ZETANYL TURQUOISE  3G,0.845,,0.0,,0.0,1.261,Approved,30,20,50.0,13.0,4,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00207,Mustard Yellow,YEL-04-207,Mustard Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,165,Bio-Polish,Reactive,IC GREEN,1.209,,0.0,,0.0,,0.0,1.209,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00208,Teal Blue,TEA-14-208,Teal Blue,Teal,Medium,CK,No,Woven,100% Cotton,165,Bio-Polish,Reactive,NEARWASH YELLOW CS-3R,0.099,NEARWASH CRIMSON RHL,0.172,TAICRON NAVY BLUE XF-T,0.12,TAIACRY GOLDEN YELLOW 2G-T 200%,0.254,0.646,Approved,30,20,40.0,10.0,3,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00209,Rust,RST-19-209,Rust,Brown,Medium,CK,No,Woven,100% Cotton,130,Acid Wash,Reactive,NOVOCRON BLUE CR,0.261,NEARWASH OLIVE RCL,0.155,DISPERSE  BLACK SE CR,0.315,,0.0,0.731,Approved,30,20,40.0,10.0,4,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00210,Olive Green,OLV-06-210,Olive Green,Olive,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Bleach Clean,Reactive,DYEWASH RED SD,1.226,ZETANYL TURQUOISE  3G,0.588,DYEAGE YELLOW R,0.65,JAKAZOL NAVY DSG,0.871,3.335,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00211,Forest Green,GRN-05-211,Forest Green,Green,Dark,TOMMY,Yes,Woven,98% Cotton 2% Spandex,100,Stone Wash,Reactive,ASUFIX RED DEL - B,1.763,TAINASET YELLOW PA-4GT,1.024,ASAHIFIX TURQUOISE XP 266%,1.38,,0.0,4.166,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00212,Navy Blue,NAVY-01-212,Navy Blue,Navy,Dark,GAP,Yes,Woven,97% Cotton 3% Spandex,125,Acid Wash,Pigment,LAVA RED GLF,1.323,DIRESUL EARTH - STONE LIQ,1.753,,0.0,,0.0,3.076,Approved,30,20,0.0,0.0,1,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00213,Dusty Rose,PNK-03-213,Dusty Rose,Pink,Light,GAP,No,Woven,97% Cotton 3% Spandex,180,Peach Finish,Reactive,JAKAZOL GOLDEN YELLOW HRNL,0.116,TAINASET BLUE PA-T,0.053,IC YELLOW -F,0.08,,0.0,0.25,Approved,30,20,25.0,7.0,1,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00214,Slate Grey,GRY-15-214,Slate Grey,Grey,Medium,TOMMY,No,Woven,100% Cotton,180,Peach Finish,Reactive,ZETANOL RED 3BW,0.241,RIFAZOL BLACK ED,0.292,TAICRON NAVY BLUE SEUNT,0.458,ASAHIFIX  YELLOW XP-4G,0.226,1.218,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00215,Desert Sand,SND-10-215,Desert Sand,Beige,Light,GAP,No,Woven,97% Cotton 3% Spandex,180,Peach Finish,Pigment,ZETATERA PEACH,0.138,MINERPRINT GOLDEN YELLOW RF HC,0.068,,0.0,,0.0,0.206,Approved,30,20,0.0,0.0,2,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00216,Burgundy,RED-07-216,Burgundy,Red,Dark,GAP,No,Woven,98% Cotton 2% Spandex,120,Stone Wash,Pigment,ZETATERA ORANGE,3.835,,0.0,,0.0,,0.0,3.835,Approved,30,20,0.0,0.0,1,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00217,Olive Green,OLV-06-217,Olive Green,Olive,Dark,CK,No,Woven,100% Cotton,180,Silicon Softener Finish,Pigment,ZETATERA PEACH,0.837,DIRESUL EARTH - STONE LIQ,0.417,ZETATERA SAND,1.076,NATURAL EARTH PIGMENT CHARCOAL,0.847,3.177,Approved,30,20,0.0,0.0,4,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00218,Coral Pink,PNK-12-218,Coral Pink,Pink,Light,CK,Yes,Woven,100% Cotton,160,Bleach Clean,Reactive,TELON FALVIN M-7G,0.042,NEARWASH BLUE CS-SPR,0.08,NEARWASH RED BROWN RHL,0.055,IC RED,0.092,0.269,Approved,30,20,25.0,7.0,3,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00219,Turquoise,TRQ-18-219,Turquoise,Turquoise,Medium,TOMMY,Yes,Woven,100% Cotton,120,Silicon Softener Finish,Reactive,IC GREEN,1.128,,0.0,,0.0,,0.0,1.128,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00220,Royal Blue,BLU-02-220,Royal Blue,Blue,Medium,GAP,No,Woven,98% Cotton 2% Spandex,180,Stone Wash,Reactive,JAKAZOL YELLOW HQ-C,0.593,NEARWASH GREY RHL,0.351,SOLARUS YELLOW RL,0.386,,0.0,1.331,Approved,30,20,50.0,13.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00221,Plum,PLM-17-221,Plum,Purple,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,100,Bio-Polish,Reactive,ZETALIGHT BLACK B,0.795,DYEWASH YELLOW SD,1.144,EVEREST GREY MG,1.073,ZETALIGHT GREEN G,1.402,4.415,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00222,Charcoal Grey,GRY-09-222,Charcoal Grey,Grey,Dark,CK,No,Woven,98% Cotton 2% Spandex,130,Peach Finish,Reactive,NOVOCRON BRILL BLUE FNG,0.407,EVEREST GREY MG,0.419,IC RED,0.772,ASAHIFIX RED XP-3BF,0.776,2.374,Approved,30,20,60.0,15.0,2,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00223,Navy Blue,NAVY-01-223,Navy Blue,Navy,Dark,TOMMY,No,Woven,100% Cotton,100,Bleach Clean,Reactive,ZETANYL BLUE C-NF,4.785,,0.0,,0.0,,0.0,4.785,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00224,Royal Blue,BLU-02-224,Royal Blue,Blue,Medium,CK,No,Woven,98% Cotton 2% Spandex,180,Tint Wash,Reactive,SOLARUS BLACK VSF,0.811,NOVOCRON YELLOW F4G,0.402,DYEWASH ORANGE SD,0.732,,0.0,1.945,Approved,30,20,50.0,13.0,4,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00225,Slate Grey,GRY-15-225,Slate Grey,Grey,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Bleach Clean,Pigment,NATURAL EARTH PIGMENT CHARCOAL,0.256,MINERPRINT BLUE 3G - HC,0.943,,0.0,,0.0,1.199,Approved,30,20,0.0,0.0,4,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00226,Turquoise,TRQ-18-226,Turquoise,Turquoise,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,130,Bio-Polish,Reactive,NEARWASH TURQUOISE RCL,0.16,JAKAZOL BRILL BLUE RE 200,0.306,JAKAZOL GOLDEN YELLOW HQ-N,0.346,ASUFIX RED DEL - B,0.318,1.129,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00227,Forest Green,GRN-05-227,Forest Green,Green,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Tint Wash,Reactive,IC SCARLET,0.769,NEARSTONE BLUE D-BR,0.46,ASAHIFIX  BLACK XP-R,0.386,E3MACOL CT BLUE 4834 N,0.534,2.148,Approved,30,20,60.0,15.0,4,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00228,Burgundy,RED-07-228,Burgundy,Red,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Tint Wash,Reactive,NEARSTONE PINK D-B,2.24,,0.0,,0.0,,0.0,2.24,Approved,30,20,60.0,15.0,2,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00229,Burgundy,RED-07-229,Burgundy,Red,Dark,TOMMY,No,Woven,100% Cotton,100,Acid Wash,Reactive,JAKAZOL RED SQ,0.667,ASAHIFIX YELLOW XP-S,1.559,JAKAZOL BLACK BS,0.845,RIFAZOL BLACK ED,1.127,4.199,Approved,30,20,70.0,20.0,3,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00230,Burgundy,RED-07-230,Burgundy,Red,Dark,TOMMY,Yes,Woven,97% Cotton 3% Spandex,120,Stone Wash,Reactive,NEARSTONE GREEN D-GB,0.776,ASAHIFIX BLUE XP-BRF,0.613,EVEREST GREY MG,1.386,JAKAZOL B RED HE3B,0.973,3.748,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00231,Khaki,KHK-16-231,Khaki,Khaki,Medium,GAP,No,Woven,98% Cotton 2% Spandex,180,Enzyme Wash,Pigment,LAVA BLUE GLF,0.517,LAVA DENIM BLACK GLF,0.71,,0.0,,0.0,1.227,Approved,30,20,0.0,0.0,3,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00232,Royal Blue,BLU-02-232,Royal Blue,Blue,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,125,Tint Wash,Reactive,SINLOHI L YELLOW SW-115,0.393,NEARWASH BROWN CS-SGR 150%,0.589,,0.0,,0.0,0.982,Approved,30,20,40.0,10.0,2,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00233,Slate Grey,GRY-15-233,Slate Grey,Grey,Medium,GAP,No,Woven,97% Cotton 3% Spandex,130,Silicon Softener Finish,Reactive,YELLOW HI WHITE,0.604,JAKAZOL RED DSB,0.531,NEARSTONE BLUE D-BR,0.439,,0.0,1.574,Approved,30,20,50.0,13.0,4,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00234,Mustard Yellow,YEL-04-234,Mustard Yellow,Yellow,Medium,CK,No,Woven,100% Cotton,180,Silicon Softener Finish,Reactive,JAKAZOL BLACK DSR,0.66,,0.0,,0.0,,0.0,0.66,Approved,30,20,40.0,10.0,1,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00235,Golden Yellow,YEL-20-235,Golden Yellow,Yellow,Medium,CK,No,Woven,100% Cotton,165,Tint Wash,Reactive,SF HF BLUE BG GRAN,1.694,,0.0,,0.0,,0.0,1.694,Approved,30,20,50.0,13.0,4,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00236,Dusty Rose,PNK-03-236,Dusty Rose,Pink,Light,GAP,Yes,Woven,100% Cotton,100,Acid Wash,Reactive,IC VIOLET,0.14,SINLOHI ORANGE SW-114,0.199,,0.0,,0.0,0.339,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00237,Olive Green,OLV-06-237,Olive Green,Olive,Dark,GAP,No,Woven,97% Cotton 3% Spandex,125,Silicon Softener Finish,Reactive,NEARWASH GOLD YELLOW  RHL,0.956,NEAREAFIX RED AC H,1.24,SOLARUS BLUE B2R,1.487,NEARSTONE GREEN D-GB,0.842,4.526,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00238,Slate Grey,GRY-15-238,Slate Grey,Grey,Medium,TOMMY,Yes,Woven,100% Cotton,165,Enzyme Wash,Reactive,SF SN NAVY BLUE BF GRNN,0.701,,0.0,,0.0,,0.0,0.701,Approved,30,20,40.0,10.0,1,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00239,Mustard Yellow,YEL-04-239,Mustard Yellow,Yellow,Medium,GAP,No,Woven,100% Cotton,120,Bleach Clean,Reactive,JAKAZOL ORANGE 3R,0.627,JAKAZOL YELLOW CE,1.082,,0.0,,0.0,1.709,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00240,Golden Yellow,YEL-20-240,Golden Yellow,Yellow,Medium,CK,No,Woven,97% Cotton 3% Spandex,180,Bio-Polish,Pigment,MINERPRINT NAVY BLUE 5RF HC,1.018,,0.0,,0.0,,0.0,1.018,Approved,30,20,0.0,0.0,4,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00241,Sage Green,GRN-11-241,Sage Green,Green,Light,CK,No,Woven,98% Cotton 2% Spandex,160,Acid Wash,Reactive,NOVOCRON YELLOW FN2R,0.023,TAICRON RUBINE SE-GLNT 200%,0.033,TAIACRY GOLDEN YELLOW 2G-T 200%,0.014,SF S RUBINE EXF G,0.02,0.09,Approved,30,20,20.0,5.0,4,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00242,Forest Green,GRN-05-242,Forest Green,Green,Dark,GAP,No,Woven,100% Cotton,130,Bio-Polish,Reactive,SOLOPHENYL BLACK FGE,2.98,TELON YELLOW A2R,2.001,,0.0,,0.0,4.981,Approved,30,20,70.0,20.0,3,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00243,Coral Pink,PNK-12-243,Coral Pink,Pink,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Enzyme Wash,Reactive,NEARWASH CRIMSON RHL,0.223,TELON YELLOW A2R,0.188,,0.0,,0.0,0.411,Approved,30,20,25.0,7.0,4,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00244,Royal Blue,BLU-02-244,Royal Blue,Blue,Medium,GAP,Yes,Woven,100% Cotton,180,Bleach Clean,Pigment,MINERPRINT RED BTL HC,1.171,,0.0,,0.0,,0.0,1.171,Approved,30,20,0.0,0.0,2,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00245,Golden Yellow,YEL-20-245,Golden Yellow,Yellow,Medium,CK,Yes,Woven,97% Cotton 3% Spandex,165,Enzyme Wash,Reactive,JAKAZOL VIOLET 5R,0.754,,0.0,,0.0,,0.0,0.754,Approved,30,20,40.0,10.0,3,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00246,Mustard Yellow,YEL-04-246,Mustard Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,130,Acid Wash,Reactive,NEAREAFIX RED AC H,1.222,,0.0,,0.0,,0.0,1.222,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00247,Sage Green,GRN-11-247,Sage Green,Green,Light,TOMMY,No,Woven,100% Cotton,100,Peach Finish,Reactive,ZETADIRECT GREY GLL,0.276,MURAZOME BLUE NJ-R,0.128,JAKAZOL RED 5B,0.083,,0.0,0.488,Approved,30,20,25.0,7.0,3,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00248,Forest Green,GRN-05-248,Forest Green,Green,Dark,GAP,No,Woven,97% Cotton 3% Spandex,165,Acid Wash,Reactive,NOVACRON RED EC-3B,2.033,NEAREAFIX BLACK AC RR UC,2.687,,0.0,,0.0,4.72,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00249,Forest Green,GRN-05-249,Forest Green,Green,Dark,CK,Yes,Woven,100% Cotton,125,Stone Wash,Reactive,IC RED,2.95,,0.0,,0.0,,0.0,2.95,Approved,30,20,60.0,15.0,1,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00250,Burgundy,RED-07-250,Burgundy,Red,Dark,GAP,No,Woven,100% Cotton,180,Bleach Clean,Reactive,TAICRON RUBINE SE-UNT GRAN,1.252,JAKAZOL ORANGE CE,1.438,,0.0,,0.0,2.69,Approved,30,20,60.0,15.0,4,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00251,Khaki,KHK-16-251,Khaki,Khaki,Medium,GAP,No,Woven,100% Cotton,100,Bio-Polish,Reactive,JAKAZOL YELLOW SQ,1.916,,0.0,,0.0,,0.0,1.916,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00252,Slate Grey,GRY-15-252,Slate Grey,Grey,Medium,GAP,No,Woven,100% Cotton,160,Bio-Polish,Reactive,TELON FALVIN M-7G,0.391,TAIACRYL BLUE GRFT 200%,0.362,TAICRON RUBINE SE-GLNT 200%,0.276,SINLOHI ROSE SW-127,0.254,1.283,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00253,Burgundy,RED-07-253,Burgundy,Red,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,180,Bleach Clean,Reactive,JAKOFIX B RED HE7B,1.235,TELON FALVIN M-7G,1.518,ASUDEL GOLDEN YELLOW WMR,0.657,SF SB YELLOW 3RF 150G,1.292,4.702,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00254,Navy Blue,NAVY-01-254,Navy Blue,Navy,Dark,GAP,No,Woven,97% Cotton 3% Spandex,120,Tint Wash,Pigment,LAVA RED GLF,0.784,LAVA BLUE GLF 02,0.698,LAVA BLACK GLF,0.859,,0.0,2.341,Approved,30,20,0.0,0.0,4,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00255,Olive Green,OLV-06-255,Olive Green,Olive,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,180,Silicon Softener Finish,Reactive,IC GOLD YELLOW,1.199,ASUDEL BLUE WRLS,2.056,,0.0,,0.0,3.255,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00256,Navy Blue,NAVY-01-256,Navy Blue,Navy,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Enzyme Wash,Reactive,JAKAZOL RED CE,0.954,JAKOFIX BRILL BLUE JRF,0.529,TAICRON NAVY BLUE XF-T,1.197,ZETANYL TURQUOISE  3G,0.741,3.422,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00257,Coral Pink,PNK-12-257,Coral Pink,Pink,Light,GAP,No,Woven,100% Cotton,165,Bleach Clean,Reactive,ASUDEL BLUE WJ,0.098,,0.0,,0.0,,0.0,0.098,Approved,30,20,20.0,5.0,2,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00258,Dusty Rose,PNK-03-258,Dusty Rose,Pink,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,180,Stone Wash,Reactive,JAKOFIX RED MEGF,0.257,,0.0,,0.0,,0.0,0.257,Approved,30,20,25.0,7.0,3,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00259,Mustard Yellow,YEL-04-259,Mustard Yellow,Yellow,Medium,CK,No,Woven,97% Cotton 3% Spandex,160,Stone Wash,Reactive,NOVACRON RED EC-3B,0.258,TAINASET YELLOW PA-4GT,0.271,NEAREAFIX YELLOW AC H,0.358,,0.0,0.887,Approved,30,20,40.0,10.0,4,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00260,Burgundy,RED-07-260,Burgundy,Red,Dark,GAP,No,Woven,98% Cotton 2% Spandex,165,Stone Wash,Reactive,TELON YELLOW A2R,1.384,NOVOCRON DARK BLUE SGL,1.854,,0.0,,0.0,3.238,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00261,Plum,PLM-17-261,Plum,Purple,Dark,CK,No,Woven,100% Cotton,100,Peach Finish,Reactive,IC BLUE,2.58,,0.0,,0.0,,0.0,2.58,Approved,30,20,60.0,15.0,4,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00262,Slate Grey,GRY-15-262,Slate Grey,Grey,Medium,TOMMY,Yes,Woven,100% Cotton,180,Bleach Clean,Reactive,SOLARUS RED BWS,0.245,SINLOHI ROSE SW-127,0.272,ASAHIFIX  BLACK XP-R,0.293,,0.0,0.81,Approved,30,20,40.0,10.0,3,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00263,Rust,RST-19-263,Rust,Brown,Medium,CK,No,Woven,97% Cotton 3% Spandex,100,Bleach Clean,Reactive,ASAHIFIX YELLOW XP-D,0.247,JAKOFIX B BLUE HERD,0.144,NOVOCRON BRILL BLUE FNG,0.238,,0.0,0.629,Approved,30,20,40.0,10.0,3,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00264,Burgundy,RED-07-264,Burgundy,Red,Dark,GAP,No,Woven,100% Cotton,180,Tint Wash,Reactive,IC SCARLET-F,2.64,NEARWASH BLUE CS-P-RL AC,2.122,,0.0,,0.0,4.762,Approved,30,20,70.0,20.0,3,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00265,Chocolate Brown,BRN-13-265,Chocolate Brown,Brown,Dark,CK,Yes,Woven,100% Cotton,100,Bleach Clean,Reactive,NEARSTONE VIOLET D-L,3.396,,0.0,,0.0,,0.0,3.396,Approved,30,20,70.0,20.0,3,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00266,Desert Sand,SND-10-266,Desert Sand,Beige,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,165,Stone Wash,Reactive,JAKOFIX BRILL BLUE HEGN,0.03,DYEAGE RUBINE B,0.027,,0.0,,0.0,0.057,Approved,30,20,20.0,5.0,2,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00267,Olive Green,OLV-06-267,Olive Green,Olive,Dark,GAP,No,Woven,98% Cotton 2% Spandex,160,Tint Wash,Pigment,ZETATERA PEACH,4.701,,0.0,,0.0,,0.0,4.701,Approved,30,20,0.0,0.0,4,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00268,Desert Sand,SND-10-268,Desert Sand,Beige,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,180,Stone Wash,Reactive,SOLOPHENYL YELLOW GLE,0.017,DYEWASH DEEP RED SD,0.026,BLACK HI WHITE,0.029,SF HF BLUE BG GRAN,0.021,0.093,Approved,30,20,20.0,5.0,2,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00269,Sage Green,GRN-11-269,Sage Green,Green,Light,TOMMY,No,Woven,100% Cotton,130,Stone Wash,Reactive,EVERSEST YELLOW M-2R,0.083,JAKOFIX ORANGE ME2RL,0.073,NEARWASH BROWN CS-SGR 150%,0.103,TAICRON YELLOW SE 4GT 200%,0.043,0.303,Approved,30,20,25.0,7.0,1,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00270,Golden Yellow,YEL-20-270,Golden Yellow,Yellow,Medium,GAP,No,Woven,98% Cotton 2% Spandex,130,Stone Wash,Reactive,NOVACRON RUBY S-3B,0.214,SOLOPHENYL YELLOW GLE,0.424,NEARWASH BLUE CS-SPR,0.454,SINLOHI L YELLOW SW-115,0.442,1.534,Approved,30,20,50.0,13.0,4,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00271,Olive Green,OLV-06-271,Olive Green,Olive,Dark,TOMMY,Yes,Woven,100% Cotton,160,Stone Wash,Reactive,NEARSTONE ORANGE D-LG,0.398,SF S RED EXF G,0.341,ZETALIGHT OLIVE BG,0.66,ZETANYL YELLOW C-3RL,0.786,2.184,Approved,30,20,60.0,15.0,1,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00272,Burgundy,RED-07-272,Burgundy,Red,Dark,CK,Yes,Woven,98% Cotton 2% Spandex,160,Bleach Clean,Reactive,NEARWASH BLUE RCL,0.896,BEMACID RED FGS,1.254,TAICRON BLUE E-ACT,1.259,ASATHIOSOC YELLOW SRR,0.42,3.828,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00273,Teal Blue,TEA-14-273,Teal Blue,Teal,Medium,CK,No,Woven,97% Cotton 3% Spandex,125,Bio-Polish,Reactive,SOLARUS BLACK B 160,0.172,JAKAZOL BLUE HLF,0.236,ZETANOL BLUE RL,0.414,IC BLACK,0.386,1.208,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00274,Khaki,KHK-16-274,Khaki,Khaki,Medium,CK,No,Woven,100% Cotton,100,Silicon Softener Finish,Reactive,PERICOLOR ORENGE E,0.202,TAICRON YELLOW SE 4GT 200%,0.212,NOVOCRON RED C-2BL,0.188,ZETADIRECT BLUE T-LG,0.165,0.768,Approved,30,20,40.0,10.0,2,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00275,Teal Blue,TEA-14-275,Teal Blue,Teal,Medium,CK,No,Woven,100% Cotton,100,Tint Wash,Reactive,TAIACID BLACK LDG-T,1.217,,0.0,,0.0,,0.0,1.217,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00276,Wine Red,RED-08-276,Wine Red,Red,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Stone Wash,Reactive,TELON FALVIN M-7G,0.523,ASUDEL GOLDEN YELLOW WMR,1.196,NEARWASH BLUE CS-SPR,1.882,,0.0,3.6,Approved,30,20,70.0,20.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00277,Rust,RST-19-277,Rust,Brown,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Silicon Softener Finish,Reactive,ZETADIRECT BLUE T-LG,0.283,ASAHIFIX  SCARLET XP-S,0.252,JAKOFIX NAVY BLUE MEBF,0.687,,0.0,1.222,Approved,30,20,50.0,13.0,3,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00278,Golden Yellow,YEL-20-278,Golden Yellow,Yellow,Medium,GAP,Yes,Woven,97% Cotton 3% Spandex,120,Tint Wash,Reactive,JAKAZOL YELLOW HQ-C,0.595,JAKAZOL RED 5B,0.628,,0.0,,0.0,1.223,Approved,30,20,50.0,13.0,3,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00279,Slate Grey,GRY-15-279,Slate Grey,Grey,Medium,CK,No,Woven,100% Cotton,160,Peach Finish,Pigment,LAVA BLUE GLF 02,0.332,LAVA DYE ORANGE GL,0.332,LAVA RED GLF,0.526,,0.0,1.191,Approved,30,20,0.0,0.0,2,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00280,Desert Sand,SND-10-280,Desert Sand,Beige,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Enzyme Wash,Pigment,NATURAL EARTH PIGMENT RUST,0.073,MINERPRINT BLUE ECO BS,0.038,MINERPRINT NAVY BLUE 5RF HC,0.059,,0.0,0.169,Approved,30,20,0.0,0.0,4,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00281,Turquoise,TRQ-18-281,Turquoise,Turquoise,Medium,GAP,No,Woven,100% Cotton,100,Bio-Polish,Pigment,ZETATERA CARBON,1.024,,0.0,,0.0,,0.0,1.024,Approved,30,20,0.0,0.0,3,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00282,Mustard Yellow,YEL-04-282,Mustard Yellow,Yellow,Medium,GAP,Yes,Woven,100% Cotton,130,Silicon Softener Finish,Reactive,JAKAZOL TURQ BLUE PG,0.677,JAKOFIX B RED HE7B,0.519,,0.0,,0.0,1.196,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00283,Chocolate Brown,BRN-13-283,Chocolate Brown,Brown,Dark,TOMMY,No,Woven,100% Cotton,125,Bleach Clean,Reactive,SF S BLUE RSP L,4.928,,0.0,,0.0,,0.0,4.928,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00284,Golden Yellow,YEL-20-284,Golden Yellow,Yellow,Medium,CK,No,Woven,98% Cotton 2% Spandex,165,Bleach Clean,Pigment,LAVA BLACK GLF 01,1.351,,0.0,,0.0,,0.0,1.351,Approved,30,20,0.0,0.0,4,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00285,Forest Green,GRN-05-285,Forest Green,Green,Dark,CK,No,Woven,98% Cotton 2% Spandex,160,Enzyme Wash,Reactive,SF HF RED 4B GRAN,0.339,NOVOCRON SUPER BLACK G,1.296,NEUTRILAN BLACK MR-X,1.159,ASUDEL  RED W-B,0.821,3.615,Approved,30,20,70.0,20.0,3,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00286,Turquoise,TRQ-18-286,Turquoise,Turquoise,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,180,Bleach Clean,Reactive,SOLARUS BROWN GTL,1.187,ASUDEL BLACK M-SD,0.755,,0.0,,0.0,1.942,Approved,30,20,50.0,13.0,4,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00287,Forest Green,GRN-05-287,Forest Green,Green,Dark,GAP,No,Woven,97% Cotton 3% Spandex,160,Acid Wash,Reactive,SINLOHI VIOLET SW 147,3.924,,0.0,,0.0,,0.0,3.924,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00288,Mustard Yellow,YEL-04-288,Mustard Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,160,Tint Wash,Reactive,TAIACRYL RED VIOLET 3RT 200%,0.823,JAKAZOL ORANGE 3R,1.055,,0.0,,0.0,1.878,Approved,30,20,50.0,13.0,1,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00289,Olive Green,OLV-06-289,Olive Green,Olive,Dark,CK,No,Woven,98% Cotton 2% Spandex,180,Stone Wash,Reactive,TAICRON ORANGE E-3RT,1.539,ASUDEL NAVY BLUE MSB,2.906,,0.0,,0.0,4.445,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00290,Mustard Yellow,YEL-04-290,Mustard Yellow,Yellow,Medium,CK,No,Woven,100% Cotton,125,Acid Wash,Reactive,NEARSTONE YELLOW D-GC,0.264,ASUDEL NAVY BLUE MSB,0.416,,0.0,,0.0,0.68,Approved,30,20,40.0,10.0,3,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00291,Mustard Yellow,YEL-04-291,Mustard Yellow,Yellow,Medium,CK,No,Woven,100% Cotton,100,Tint Wash,Pigment,LAVA STONE GREY GLF,1.88,,0.0,,0.0,,0.0,1.88,Approved,30,20,0.0,0.0,3,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00292,Teal Blue,TEA-14-292,Teal Blue,Teal,Medium,GAP,Yes,Woven,97% Cotton 3% Spandex,165,Enzyme Wash,Reactive,TELON FALVIN M-7G,0.155,BEMACID RED FGS,0.261,ZETADIRECT RED BWS,0.207,MURAZOME BLUE NJ-R,0.396,1.018,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00293,Royal Blue,BLU-02-293,Royal Blue,Blue,Medium,GAP,No,Woven,100% Cotton,165,Tint Wash,Reactive,ZETALIGHT NAVY SG,0.327,ASUDEL BLACK W-BN,0.254,,0.0,,0.0,0.581,Approved,30,20,40.0,10.0,3,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00294,Olive Green,OLV-06-294,Olive Green,Olive,Dark,GAP,No,Woven,100% Cotton,100,Acid Wash,Reactive,NOVOCRON NAVY SG,1.684,JAKAZOL BLACK BS,1.325,ZETANOL TURUOISE 3G,1.677,,0.0,4.686,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00295,Rust,RST-19-295,Rust,Brown,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Acid Wash,Reactive,IC GOLD YELLOW,0.25,NEBUDYE OLIVE-G,0.328,NEARWASH NAVY BLUE RCL,0.286,DYEWASH ORANGE SD,0.317,1.182,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00296,Slate Grey,GRY-15-296,Slate Grey,Grey,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Bleach Clean,Reactive,TAIACRYL GOLDEN YELLOW BRT 200%,0.463,SOLARUS BROWN GTL,1.311,,0.0,,0.0,1.774,Approved,30,20,50.0,13.0,4,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00297,Wine Red,RED-08-297,Wine Red,Red,Dark,GAP,No,Woven,97% Cotton 3% Spandex,120,Silicon Softener Finish,Reactive,NOVOCRON DEEP RED S-B,4.931,,0.0,,0.0,,0.0,4.931,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00298,Mustard Yellow,YEL-04-298,Mustard Yellow,Yellow,Medium,TOMMY,No,Woven,100% Cotton,160,Enzyme Wash,Reactive,JAKOFIX BRILL BLUE JRF,0.359,DYEWASH DEEP RED SD,0.094,NEARWASH GREY CS-CFK,0.27,JAKOFIX YELLOW HE4R,0.133,0.856,Approved,30,20,40.0,10.0,4,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00299,Olive Green,OLV-06-299,Olive Green,Olive,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Enzyme Wash,Reactive,NEBUDYE GREY L/B,4.671,,0.0,,0.0,,0.0,4.671,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00300,Royal Blue,BLU-02-300,Royal Blue,Blue,Medium,CK,Yes,Woven,97% Cotton 3% Spandex,125,Enzyme Wash,Pigment,ZETATERA EARTH,0.352,DIRESUL EARTH - STONE LIQ,0.373,NATURAL EARTH PIGMENT MUDSTONE,0.321,,0.0,1.046,Approved,30,20,0.0,0.0,2,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00301,Wine Red,RED-08-301,Wine Red,Red,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Bio-Polish,Reactive,NEARWASH ROYAL RCL,3.032,,0.0,,0.0,,0.0,3.032,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00302,Burgundy,RED-07-302,Burgundy,Red,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Bleach Clean,Reactive,DYEAGE BLACK RX,2.493,,0.0,,0.0,,0.0,2.493,Approved,30,20,60.0,15.0,2,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00303,Khaki,KHK-16-303,Khaki,Khaki,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Enzyme Wash,Reactive,ASAHIFIX RED XP-3BF,1.799,,0.0,,0.0,,0.0,1.799,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00304,Desert Sand,SND-10-304,Desert Sand,Beige,Light,CK,No,Woven,98% Cotton 2% Spandex,120,Bleach Clean,Reactive,JAKOFIX RED ME4BL,0.064,ASUDEL BLUE W2G,0.04,EMACOL BLACK 4939E,0.101,,0.0,0.205,Approved,30,20,25.0,7.0,3,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00305,Sage Green,GRN-11-305,Sage Green,Green,Light,CK,No,Woven,98% Cotton 2% Spandex,125,Silicon Softener Finish,Reactive,ZETANOL GREEN GW,0.189,,0.0,,0.0,,0.0,0.189,Approved,30,20,25.0,7.0,3,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00306,Khaki,KHK-16-306,Khaki,Khaki,Medium,GAP,Yes,Woven,98% Cotton 2% Spandex,120,Enzyme Wash,Reactive,ZETALIGHT OLIVE G,0.643,JAKOFIX YELLOW HE4R,0.537,SF HF RED 2B GRAN,0.655,,0.0,1.835,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00307,Forest Green,GRN-05-307,Forest Green,Green,Dark,CK,No,Woven,98% Cotton 2% Spandex,100,Bio-Polish,Reactive,NOVOCRON YELLOW FN2R,0.649,NEARWASH GREEN CS-P-SGL,1.628,,0.0,,0.0,2.277,Approved,30,20,60.0,15.0,2,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00308,Plum,PLM-17-308,Plum,Purple,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Enzyme Wash,Reactive,NEO RED MFB CONC,1.091,EMACOL BLACK 4939E,0.955,NOVACRON RED EC-3B,1.058,,0.0,3.105,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00309,Desert Sand,SND-10-309,Desert Sand,Beige,Light,GAP,No,Woven,98% Cotton 2% Spandex,165,Bio-Polish,Pigment,LAVA OLIVE GLF,0.141,,0.0,,0.0,,0.0,0.141,Approved,30,20,0.0,0.0,3,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00310,Teal Blue,TEA-14-310,Teal Blue,Teal,Medium,GAP,No,Woven,97% Cotton 3% Spandex,160,Silicon Softener Finish,Reactive,JAKOFIX RED ME6BL,0.317,SOLARUS BROWN GTL,0.459,SF S BLUE RSP L,0.413,ASUDEL BLACK SL,0.536,1.726,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00311,Desert Sand,SND-10-311,Desert Sand,Beige,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Acid Wash,Pigment,ZETATERA ORANGE,0.09,LAVA BLACK GLF 01,0.12,NATURAL EARTH PIGMENT MUDSTONE,0.096,,0.0,0.306,Approved,30,20,0.0,0.0,4,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00312,Forest Green,GRN-05-312,Forest Green,Green,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,120,Peach Finish,Reactive,NEARWASH GREY RHL,1.498,NOVOCRON NAVY SG,1.354,ZETALIGHT BORDEAUX MB,1.875,,0.0,4.727,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00313,Sage Green,GRN-11-313,Sage Green,Green,Light,CK,No,Woven,98% Cotton 2% Spandex,165,Peach Finish,Pigment,LAVA OLIVE GLF,0.089,DIRESUL EARTH - CLAY LIQ,0.103,LAVA DENIM BLACK GLF,0.085,,0.0,0.278,Approved,30,20,0.0,0.0,2,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00314,Slate Grey,GRY-15-314,Slate Grey,Grey,Medium,GAP,No,Woven,100% Cotton,100,Tint Wash,Reactive,DYEWASH RUBINE,0.681,NOVOCRON TURQUOISE GN,0.264,TAICRON RUBINE SE-UNT GRAN,0.333,,0.0,1.279,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00315,Forest Green,GRN-05-315,Forest Green,Green,Dark,GAP,No,Woven,100% Cotton,100,Enzyme Wash,Reactive,ASUDEL BLACK SL,1.625,JAKAZOL ADMIRAL BLUE DS,0.753,DYEAGE BLACK RX,0.868,ASAHIFIX YELLOW XP-D,1.125,4.371,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00316,Olive Green,OLV-06-316,Olive Green,Olive,Dark,CK,No,Woven,100% Cotton,120,Bleach Clean,Reactive,NEARWASH GOLD YELLOW  RHL,1.876,EMACOL CT YELLOW 4631N,1.662,SF S B RED GF,0.796,,0.0,4.335,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00317,Burgundy,RED-07-317,Burgundy,Red,Dark,CK,Yes,Woven,98% Cotton 2% Spandex,125,Silicon Softener Finish,Reactive,IC LEMON YELLOW,4.496,,0.0,,0.0,,0.0,4.496,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00318,Slate Grey,GRY-15-318,Slate Grey,Grey,Medium,GAP,No,Woven,98% Cotton 2% Spandex,180,Peach Finish,Reactive,ASUPREND WS,0.989,,0.0,,0.0,,0.0,0.989,Approved,30,20,40.0,10.0,3,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00319,Teal Blue,TEA-14-319,Teal Blue,Teal,Medium,GAP,Yes,Woven,98% Cotton 2% Spandex,165,Peach Finish,Reactive,ZETANOL RED BW,0.401,DECOSOL YELLOW SD-R,0.18,NEO GOLD YELLOW MFR,0.289,NOVOCRON SUPER BLACK R,0.409,1.279,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00320,Golden Yellow,YEL-20-320,Golden Yellow,Yellow,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,165,Tint Wash,Reactive,ZETALIGHT RED R,0.454,NEO RED MGD,0.358,NEARWASH GREEN CS-P-SGL,0.397,,0.0,1.209,Approved,30,20,50.0,13.0,3,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00321,Wine Red,RED-08-321,Wine Red,Red,Dark,CK,Yes,Woven,100% Cotton,100,Enzyme Wash,Reactive,ZETAREACT BLUE L-3B,0.751,ASAHIFIX  SCARLET XP-S,0.724,IC GOLD YELLOW,1.088,NEARWASH YELLOW CS-3R,1.244,3.808,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00322,Turquoise,TRQ-18-322,Turquoise,Turquoise,Medium,CK,No,Woven,100% Cotton,130,Stone Wash,Reactive,NEARWASH SCARLET RCL,0.108,NOVOCRON TURQUOISE GN,0.21,RIFAZOL BLACK ED,0.236,,0.0,0.554,Approved,30,20,40.0,10.0,2,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00323,Mustard Yellow,YEL-04-323,Mustard Yellow,Yellow,Medium,CK,No,Woven,97% Cotton 3% Spandex,160,Tint Wash,Reactive,SF S TURQ BLUE GN,0.421,ASUDEL GREEN GGL 2/P,0.662,,0.0,,0.0,1.083,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00324,Coral Pink,PNK-12-324,Coral Pink,Pink,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,100,Peach Finish,Reactive,NEARWASH BLUE RCL,0.02,NEARWASH GREEN CS-P-SGL,0.019,NOVOCRON BRILLIANT BLUE LS-G,0.022,NEARWASH CRIMSON RHL,0.014,0.075,Approved,30,20,20.0,5.0,1,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00325,Slate Grey,GRY-15-325,Slate Grey,Grey,Medium,CK,Yes,Woven,97% Cotton 3% Spandex,160,Bio-Polish,Reactive,TAICRON NAVY BLUE XF-T,0.302,ASAHIFIX RED XP-3BF,0.198,NEAREAFIX YELLOW AC H,0.378,NEARWASH TURQUOISE RCL,0.471,1.35,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00326,Teal Blue,TEA-14-326,Teal Blue,Teal,Medium,GAP,No,Woven,100% Cotton,180,Acid Wash,Reactive,JAKOFIX YELLOW HE6G,1.984,,0.0,,0.0,,0.0,1.984,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00327,Teal Blue,TEA-14-327,Teal Blue,Teal,Medium,GAP,No,Woven,100% Cotton,165,Bleach Clean,Reactive,NOVOCRON RED S-2G,0.331,ZETANOL BLUE RL,0.259,SINLOHI VIOLET SW 147,0.376,,0.0,0.967,Approved,30,20,40.0,10.0,2,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00328,Turquoise,TRQ-18-328,Turquoise,Turquoise,Medium,CK,Yes,Woven,98% Cotton 2% Spandex,160,Enzyme Wash,Reactive,RIFAZOL BLUE EXF,0.305,EMACOL BLACK 4939E,0.189,JAKAZOL RED HLF,0.23,,0.0,0.724,Approved,30,20,40.0,10.0,3,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00329,Golden Yellow,YEL-20-329,Golden Yellow,Yellow,Medium,GAP,No,Woven,100% Cotton,120,Acid Wash,Pigment,ZETATERA EARTH,0.588,ZETATERA ORANGE,0.254,NATURAL EARTH PIGMENT RUST,0.287,,0.0,1.129,Approved,30,20,0.0,0.0,1,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00330,Royal Blue,BLU-02-330,Royal Blue,Blue,Medium,GAP,No,Woven,98% Cotton 2% Spandex,180,Stone Wash,Reactive,NEARWASH ORANGE RHL,0.335,ZETALIGHT NAVY SG,0.336,ZETANYL RED C-BSW,0.162,BEST ACID TURQ BLUE 3G,0.258,1.091,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00331,Sage Green,GRN-11-331,Sage Green,Green,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,130,Acid Wash,Reactive,DYEWASH TURQUOISE BLUE SD,0.08,DISPERSE  BLACK SE CR,0.047,,0.0,,0.0,0.127,Approved,30,20,25.0,7.0,3,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00332,Turquoise,TRQ-18-332,Turquoise,Turquoise,Medium,TOMMY,No,Woven,100% Cotton,125,Silicon Softener Finish,Reactive,MURAZOME YELLOW NJ,0.586,ASAHIFIX RED XP-S,0.733,ZETALIGHT OLIVE BG,0.621,,0.0,1.941,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00333,Turquoise,TRQ-18-333,Turquoise,Turquoise,Medium,GAP,Yes,Woven,98% Cotton 2% Spandex,100,Bio-Polish,Reactive,MURAZOME BLUE NJ-R,0.458,BEST ACID TURQ BLUE 3G,0.189,JAKAZOL RED 5B,0.296,,0.0,0.943,Approved,30,20,40.0,10.0,3,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00334,Teal Blue,TEA-14-334,Teal Blue,Teal,Medium,TOMMY,No,Woven,100% Cotton,180,Silicon Softener Finish,Reactive,NEARWASH GOLD YELLOW  RHL,1.127,,0.0,,0.0,,0.0,1.127,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00335,Navy Blue,NAVY-01-335,Navy Blue,Navy,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Stone Wash,Pigment,ZETATERA SOYA,2.153,LAVA DENIM BLACK GLF,2.379,,0.0,,0.0,4.532,Approved,30,20,0.0,0.0,3,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00336,Burgundy,RED-07-336,Burgundy,Red,Dark,GAP,No,Woven,100% Cotton,130,Bio-Polish,Reactive,ASAHIFIX RED XP-S,2.405,ASAHIFIX RED XP-3BF,2.355,,0.0,,0.0,4.76,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00337,Golden Yellow,YEL-20-337,Golden Yellow,Yellow,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Stone Wash,Pigment,ZETATERA EARTH,0.237,ZETATERA ORANGE,0.541,LAVA BLUE GLF 02,0.504,MINERPRINT BLACK BI HC,0.281,1.563,Approved,30,20,0.0,0.0,4,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00338,Burgundy,RED-07-338,Burgundy,Red,Dark,TOMMY,No,Woven,100% Cotton,100,Bleach Clean,Reactive,TELON YELLOW M-4GL,1.926,NOVOCRON YELLOW S 3R,2.787,,0.0,,0.0,4.713,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00339,Chocolate Brown,BRN-13-339,Chocolate Brown,Brown,Dark,CK,No,Woven,97% Cotton 3% Spandex,125,Stone Wash,Pigment,LAVA DYE ORANGE GL,2.995,,0.0,,0.0,,0.0,2.995,Approved,30,20,0.0,0.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00340,Chocolate Brown,BRN-13-340,Chocolate Brown,Brown,Dark,CK,No,Woven,97% Cotton 3% Spandex,100,Silicon Softener Finish,Reactive,NEARWASH BLACK RCL,1.176,SF HF BLUE BG GRAN,0.647,DYEWASH DEEP RED SD,0.613,BEMACID RED FGS,0.514,2.949,Approved,30,20,60.0,15.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00341,Plum,PLM-17-341,Plum,Purple,Dark,TOMMY,No,Woven,100% Cotton,125,Tint Wash,Reactive,SOLARUS RED BWS,2.33,ZETANYL RED C-BSW,1.574,,0.0,,0.0,3.904,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00342,Teal Blue,TEA-14-342,Teal Blue,Teal,Medium,GAP,Yes,Woven,98% Cotton 2% Spandex,100,Tint Wash,Reactive,RED HI WHITE,0.11,SF S RED 3G,0.311,DYEAGE NAVY BLUE RL,0.133,EMACOL BLACK 4939E,0.13,0.684,Approved,30,20,40.0,10.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00343,Dusty Rose,PNK-03-343,Dusty Rose,Pink,Light,GAP,No,Woven,97% Cotton 3% Spandex,100,Peach Finish,Pigment,NATURAL EARTH PIGMENT SHELL,0.214,,0.0,,0.0,,0.0,0.214,Approved,30,20,0.0,0.0,1,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00344,Charcoal Grey,GRY-09-344,Charcoal Grey,Grey,Dark,CK,No,Woven,98% Cotton 2% Spandex,100,Tint Wash,Reactive,JAKAZOL BLUE HLF,1.55,ASUDEL BLUE W2G,2.847,,0.0,,0.0,4.397,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00345,Wine Red,RED-08-345,Wine Red,Red,Dark,TOMMY,No,Woven,100% Cotton,120,Bio-Polish,Reactive,ZETALIGHT OLIVE G,0.713,ZETALIGHT YELLOW S-2G,0.662,EMACOL CT GREEN 4716,0.986,,0.0,2.361,Approved,30,20,60.0,15.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00346,Plum,PLM-17-346,Plum,Purple,Dark,GAP,No,Woven,98% Cotton 2% Spandex,130,Bleach Clean,Reactive,BEST ACID TURQ BLUE 3G,0.696,NOVOCRON OCEAN SR,0.308,NEARWASH RED CS-S-MG,0.611,TELON RED FRL,0.943,2.557,Approved,30,20,60.0,15.0,2,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00347,Dusty Rose,PNK-03-347,Dusty Rose,Pink,Light,TOMMY,No,Woven,100% Cotton,165,Bleach Clean,Reactive,JAKOFIX YELLOW HE4R,0.016,TAIACRY BLACK FDL-T,0.018,ASUDEL BLUE W2G,0.032,SOLARUS BLUE FFRL,0.018,0.084,Approved,30,20,20.0,5.0,3,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00348,Olive Green,OLV-06-348,Olive Green,Olive,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,165,Bleach Clean,Reactive,ZETALIGHT NAVY SG,1.128,NOVOCRON YELLOW S 3R,1.031,ZETADIRECT BLUE T-LG,0.491,JAKAZOL YELLOW H7GL,0.371,3.021,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00349,Navy Blue,NAVY-01-349,Navy Blue,Navy,Dark,GAP,No,Woven,98% Cotton 2% Spandex,165,Bio-Polish,Reactive,MURAZOME RED NJ,1.364,TELON YELLOW M-4GL,1.061,TELON YELLOW A2R,1.197,NEARWASH GREY RHL,0.443,4.065,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00350,Burgundy,RED-07-350,Burgundy,Red,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,120,Bio-Polish,Reactive,AVITERA BRILLIANT YELLOW SE,1.675,MURAZOME BLUE NJ-R,2.626,,0.0,,0.0,4.301,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00351,Rust,RST-19-351,Rust,Brown,Medium,GAP,No,Woven,97% Cotton 3% Spandex,180,Bio-Polish,Pigment,LAVA BLUE GLF,1.439,,0.0,,0.0,,0.0,1.439,Approved,30,20,0.0,0.0,4,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00352,Plum,PLM-17-352,Plum,Purple,Dark,CK,No,Woven,97% Cotton 3% Spandex,180,Tint Wash,Reactive,SINLOHI ORANGE YELLOW  SW-116,2.057,,0.0,,0.0,,0.0,2.057,Approved,30,20,60.0,15.0,1,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00353,Teal Blue,TEA-14-353,Teal Blue,Teal,Medium,GAP,No,Woven,97% Cotton 3% Spandex,120,Tint Wash,Reactive,SF S TURQ BLUE GN,0.616,JAKAZOL BRILL BLUE RE 200,0.76,,0.0,,0.0,1.376,Approved,30,20,50.0,13.0,4,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00354,Olive Green,OLV-06-354,Olive Green,Olive,Dark,CK,No,Woven,97% Cotton 3% Spandex,165,Stone Wash,Reactive,IC BLACK,1.043,JAKAZOL BLACK CECL,1.424,,0.0,,0.0,2.467,Approved,30,20,60.0,15.0,4,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00355,Coral Pink,PNK-12-355,Coral Pink,Pink,Light,CK,No,Woven,97% Cotton 3% Spandex,100,Stone Wash,Reactive,TELON YELLOW M-4GL,0.15,,0.0,,0.0,,0.0,0.15,Approved,30,20,25.0,7.0,4,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00356,Plum,PLM-17-356,Plum,Purple,Dark,CK,No,Woven,97% Cotton 3% Spandex,100,Tint Wash,Reactive,DISPERSE  BLACK SE CR,4.337,,0.0,,0.0,,0.0,4.337,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00357,Coral Pink,PNK-12-357,Coral Pink,Pink,Light,GAP,No,Woven,97% Cotton 3% Spandex,130,Tint Wash,Reactive,EMACOL CT GREEN 4716,0.335,,0.0,,0.0,,0.0,0.335,Approved,30,20,25.0,7.0,2,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00358,Sage Green,GRN-11-358,Sage Green,Green,Light,TOMMY,No,Woven,100% Cotton,125,Peach Finish,Reactive,NEARWASH GREY RHL,0.036,ZETALAN BLACK MRL,0.025,ZETANOL GREEN GW,0.019,JAKAZOL RED MEGF,0.038,0.117,Approved,30,20,25.0,7.0,4,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00359,Plum,PLM-17-359,Plum,Purple,Dark,GAP,No,Woven,98% Cotton 2% Spandex,130,Silicon Softener Finish,Reactive,ASAHIFIX YELLOW XP-3RF,0.541,ZETANYL YELLOW C-3RL,1.335,ZETALIGHT NAVY BR,1.448,E3MACOL CT BLUE 4834 N,1.375,4.699,Approved,30,20,70.0,20.0,3,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00360,Plum,PLM-17-360,Plum,Purple,Dark,CK,Yes,Woven,97% Cotton 3% Spandex,130,Tint Wash,Reactive,NEARWASH BLUE RCL,0.632,ZETALIGHT ORANGE R,1.317,NOVOCRON BLACK NN,1.094,JAKAZOL BLACK BS,1.591,4.634,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00361,Olive Green,OLV-06-361,Olive Green,Olive,Dark,GAP,No,Woven,97% Cotton 3% Spandex,160,Bleach Clean,Reactive,NOVOCRON OCEAN SR,1.887,SF S RUBINE EXF G,0.952,DYEAGE GREY G,1.35,,0.0,4.189,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00362,Sage Green,GRN-11-362,Sage Green,Green,Light,GAP,No,Woven,97% Cotton 3% Spandex,160,Acid Wash,Reactive,ZETANOL GREEN 6GW,0.036,TAIACRY BRILL RED 6BN-T 400%,0.054,ZETANOL RED BW,0.022,,0.0,0.112,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00363,Dusty Rose,PNK-03-363,Dusty Rose,Pink,Light,GAP,No,Woven,100% Cotton,130,Acid Wash,Reactive,ZETANOL TURUOISE 3G,0.121,SINLOHI ORANGE SW-114,0.103,NEUTRILAN BLACK MR-X,0.085,,0.0,0.309,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00364,Forest Green,GRN-05-364,Forest Green,Green,Dark,CK,No,Woven,97% Cotton 3% Spandex,130,Silicon Softener Finish,Reactive,JAKAZOL BLUE HLF,3.362,,0.0,,0.0,,0.0,3.362,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00365,Rust,RST-19-365,Rust,Brown,Medium,TOMMY,No,Woven,100% Cotton,100,Peach Finish,Reactive,MURAZOME RED NJ,0.11,JAKOFIX B RED HE7B,0.258,SF S BLACK EX A,0.174,,0.0,0.542,Approved,30,20,40.0,10.0,3,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00366,Dusty Rose,PNK-03-366,Dusty Rose,Pink,Light,GAP,No,Woven,97% Cotton 3% Spandex,125,Tint Wash,Reactive,SF HF RED G,0.061,TAINASET BLUE PA-T,0.06,DYEWASH DEEP RED SD,0.06,DYEWASH RED SD,0.092,0.272,Approved,30,20,25.0,7.0,3,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00367,Turquoise,TRQ-18-367,Turquoise,Turquoise,Medium,GAP,Yes,Woven,98% Cotton 2% Spandex,165,Bleach Clean,Reactive,ASAHIFIX ROYAL XP-SR,0.91,TAIACRYL BLUE GRFT 200%,0.529,,0.0,,0.0,1.439,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00368,Khaki,KHK-16-368,Khaki,Khaki,Medium,CK,Yes,Woven,100% Cotton,165,Silicon Softener Finish,Reactive,JAKAZOL BLUE BB,0.471,JAKAZOL RED MEGF,0.388,TAIACRYL RED VIOLET 3RT 200%,0.303,,0.0,1.162,Approved,30,20,50.0,13.0,1,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00369,Plum,PLM-17-369,Plum,Purple,Dark,TOMMY,No,Woven,100% Cotton,100,Stone Wash,Reactive,DYEWASH TURQUOISE BLUE SD,0.752,IC ORANGE,1.983,JAKAZOL VIOLET 5R,1.561,,0.0,4.297,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00370,Chocolate Brown,BRN-13-370,Chocolate Brown,Brown,Dark,GAP,No,Woven,98% Cotton 2% Spandex,125,Bleach Clean,Reactive,ASUDEL BLUE WRLS,2.606,,0.0,,0.0,,0.0,2.606,Approved,30,20,60.0,15.0,2,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00371,Slate Grey,GRY-15-371,Slate Grey,Grey,Medium,CK,No,Woven,98% Cotton 2% Spandex,100,Bio-Polish,Reactive,JAKAZOL YELLOW HRNL,1.326,,0.0,,0.0,,0.0,1.326,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00372,Dusty Rose,PNK-03-372,Dusty Rose,Pink,Light,CK,No,Woven,100% Cotton,125,Silicon Softener Finish,Reactive,SOLARUS RED BWS,0.141,PERICOLOR BLUE DB,0.104,ASUDEL BLACK SL,0.108,ASATHIOSIK BLUE S2R,0.055,0.408,Approved,30,20,25.0,7.0,1,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00373,Royal Blue,BLU-02-373,Royal Blue,Blue,Medium,GAP,No,Woven,97% Cotton 3% Spandex,100,Bleach Clean,Pigment,LAVA DENIM BLACK GLF,1.58,,0.0,,0.0,,0.0,1.58,Approved,30,20,0.0,0.0,4,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00374,Charcoal Grey,GRY-09-374,Charcoal Grey,Grey,Dark,GAP,No,Woven,98% Cotton 2% Spandex,125,Acid Wash,Reactive,ASAHIFIX BLUE XP-EX,2.763,DYEWASH GREEN SD,0.99,ZETALIGHT OLIVE BG,1.006,,0.0,4.758,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00375,Turquoise,TRQ-18-375,Turquoise,Turquoise,Medium,GAP,Yes,Woven,97% Cotton 3% Spandex,130,Stone Wash,Reactive,TAICRON YELLOWE E-3GT,0.553,NEARWASH GREY CS-CFK,0.636,NEBUDYE OLIVE-G,0.221,IC GREEN,0.34,1.75,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00376,Dusty Rose,PNK-03-376,Dusty Rose,Pink,Light,CK,No,Woven,97% Cotton 3% Spandex,120,Acid Wash,Reactive,ASAHIFIX YELLOW XP-3RF,0.221,JAKOFIX YELLOW ME4GL,0.115,SF S RED 3G,0.112,,0.0,0.448,Approved,30,20,25.0,7.0,4,Sample Aventec,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00377,Dusty Rose,PNK-03-377,Dusty Rose,Pink,Light,CK,No,Woven,100% Cotton,120,Bleach Clean,Reactive,SINLOHI CERISE SW-107,0.058,JAKOFIX BRILL BLUE HEGN,0.076,,0.0,,0.0,0.134,Approved,30,20,25.0,7.0,3,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00378,Teal Blue,TEA-14-378,Teal Blue,Teal,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,160,Tint Wash,Reactive,JAKAZOL DARK BLUE SQ,0.57,,0.0,,0.0,,0.0,0.57,Approved,30,20,40.0,10.0,4,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00379,Wine Red,RED-08-379,Wine Red,Red,Dark,CK,No,Woven,100% Cotton,120,Acid Wash,Reactive,ASUDEL NAVY BLUE MSB,0.707,ZETADIRECT GREY GLL,0.33,BLUE NAVY HI WHITE,1.045,,0.0,2.083,Approved,30,20,60.0,15.0,3,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00380,Sage Green,GRN-11-380,Sage Green,Green,Light,CK,No,Woven,100% Cotton,180,Tint Wash,Reactive,TAIACRYL RED VIOLET 3RT 200%,0.079,DYEWASH BRILL BLUE SD,0.136,ASUPRINT BLUE -ECO BS,0.114,ASUDEL NAVY BLUE DL,0.124,0.453,Approved,30,20,25.0,7.0,1,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00381,Turquoise,TRQ-18-381,Turquoise,Turquoise,Medium,GAP,No,Woven,98% Cotton 2% Spandex,130,Stone Wash,Reactive,JAKAZOL ORANGE 3R,0.092,TAICRON RUBINE XF-T,0.145,ZETANYL TURQUOISE  3G,0.156,ZETADIRECT BLUE T-LG,0.123,0.516,Approved,30,20,40.0,10.0,3,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00382,Mustard Yellow,YEL-04-382,Mustard Yellow,Yellow,Medium,GAP,No,Woven,100% Cotton,160,Acid Wash,Reactive,ZETALIGHT BROWN BL,0.367,SF S YELLOW BROWN EXF,0.515,,0.0,,0.0,0.882,Approved,30,20,40.0,10.0,4,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00383,Rust,RST-19-383,Rust,Brown,Medium,TOMMY,No,Woven,97% Cotton 3% Spandex,180,Peach Finish,Reactive,EMACOL BLACK 4939E,0.471,SF HF BLUE 2R GRAN,0.489,,0.0,,0.0,0.96,Approved,30,20,40.0,10.0,1,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00384,Coral Pink,PNK-12-384,Coral Pink,Pink,Light,GAP,Yes,Woven,97% Cotton 3% Spandex,120,Stone Wash,Reactive,SF HF BLUE BG GRAN,0.083,TAICRON YELLOWE E-3GT,0.079,NEARSTONE PINK D-B,0.082,TAIACRYL RED VIOLET 3RT 200%,0.055,0.299,Approved,30,20,25.0,7.0,1,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00385,Golden Yellow,YEL-20-385,Golden Yellow,Yellow,Medium,GAP,No,Woven,97% Cotton 3% Spandex,180,Peach Finish,Reactive,JAKAZOL BLUE BB,0.23,NEO RED MGD,0.205,IC RED,0.253,ASATHIOSOC OLIVE SKD,0.352,1.041,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00386,Desert Sand,SND-10-386,Desert Sand,Beige,Light,GAP,No,Woven,98% Cotton 2% Spandex,165,Silicon Softener Finish,Reactive,IC GOLD YELLOW,0.029,JAKAZOL ADMIRAL BLUE DS,0.03,,0.0,,0.0,0.059,Approved,30,20,20.0,5.0,1,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00387,Slate Grey,GRY-15-387,Slate Grey,Grey,Medium,GAP,No,Woven,98% Cotton 2% Spandex,165,Silicon Softener Finish,Reactive,ASUDEL OLIVE GWL,0.307,DYEAGE YELLOW R,0.416,DYEWASH TURQUOISE BLUE SD,0.414,DYEWASH BRILL YELLOW SD,0.546,1.684,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00388,Royal Blue,BLU-02-388,Royal Blue,Blue,Medium,CK,No,Woven,100% Cotton,180,Tint Wash,Reactive,SF HF BLUE 2R GRAN,1.679,,0.0,,0.0,,0.0,1.679,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00389,Sage Green,GRN-11-389,Sage Green,Green,Light,CK,No,Woven,97% Cotton 3% Spandex,130,Tint Wash,Reactive,ZETALIGHT BROWN BL,0.055,TAICRON BLUE E-ACT,0.035,ZETALIGHT ORANGE R,0.026,ASAHIFIX YELLOW XP-3RF,0.025,0.141,Approved,30,20,25.0,7.0,4,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00390,Dusty Rose,PNK-03-390,Dusty Rose,Pink,Light,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Enzyme Wash,Reactive,NOVACRON RED EC-3B,0.079,NOVOCRON YELLOW S 3R,0.093,SF HF BLUE BG GRAN,0.068,,0.0,0.24,Approved,30,20,25.0,7.0,1,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00391,Dusty Rose,PNK-03-391,Dusty Rose,Pink,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,160,Stone Wash,Reactive,DECOSOL BLACK D-2R,0.033,DYEAGE YELLOW R,0.048,,0.0,,0.0,0.081,Approved,30,20,20.0,5.0,2,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00392,Golden Yellow,YEL-20-392,Golden Yellow,Yellow,Medium,GAP,Yes,Woven,97% Cotton 3% Spandex,165,Bleach Clean,Pigment,MINERPRINT BLUE 3G - HC,0.851,NATURAL EARTH PIGMENT CHARCOAL,0.804,NATURAL EARTH PIGMENT SHELL,0.254,,0.0,1.909,Approved,30,20,0.0,0.0,2,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00393,Slate Grey,GRY-15-393,Slate Grey,Grey,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,180,Acid Wash,Reactive,JAKAZOL BLUE CF-R,0.076,NOVOCRON SUPER BLACK R,0.194,NOVOCRON YELLOW S 3R,0.103,SOLARUS YELLOW PG,0.172,0.545,Approved,30,20,40.0,10.0,4,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00394,Turquoise,TRQ-18-394,Turquoise,Turquoise,Medium,TOMMY,No,Woven,100% Cotton,160,Enzyme Wash,Reactive,NEARSTONE PINK D-B,0.717,SOLOPHENYL YELLOW GLE,0.721,,0.0,,0.0,1.438,Approved,30,20,50.0,13.0,4,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00395,Khaki,KHK-16-395,Khaki,Khaki,Medium,GAP,No,Woven,98% Cotton 2% Spandex,165,Bleach Clean,Pigment,LAVA STONE GREY GLF,0.548,,0.0,,0.0,,0.0,0.548,Approved,30,20,0.0,0.0,4,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00396,Wine Red,RED-08-396,Wine Red,Red,Dark,TOMMY,No,Woven,100% Cotton,130,Enzyme Wash,Reactive,EVERSEST YELLOW M-2R,2.977,,0.0,,0.0,,0.0,2.977,Approved,30,20,60.0,15.0,4,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00397,Burgundy,RED-07-397,Burgundy,Red,Dark,GAP,Yes,Woven,98% Cotton 2% Spandex,130,Tint Wash,Reactive,TAICRON NAVY BLUE SEUNT,1.238,JAKAZOL BLACK DSR,0.836,SF S ROYAL BLUE LF-3R,2.069,,0.0,4.143,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00398,Slate Grey,GRY-15-398,Slate Grey,Grey,Medium,CK,No,Woven,100% Cotton,125,Tint Wash,Reactive,NEBUDYE NAVY BLUE -B,0.257,TELON FALVIN M-7G,0.477,IC BLUE,0.384,,0.0,1.118,Approved,30,20,50.0,13.0,4,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00399,Olive Green,OLV-06-399,Olive Green,Olive,Dark,TOMMY,Yes,Woven,97% Cotton 3% Spandex,125,Stone Wash,Reactive,SF S RED 3G,1.987,NOVOCRON BRILLIANT BLUE LS-G,2.98,,0.0,,0.0,4.967,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00400,Burgundy,RED-07-400,Burgundy,Red,Dark,CK,No,Woven,100% Cotton,100,Tint Wash,Reactive,IC YELLOW -F,0.865,NEO RED MFB CONC,0.39,ASAHIFIX TURQUOISE XP 266%,0.833,ASATHIOSOL BLACK SH,0.662,2.749,Approved,30,20,60.0,15.0,4,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00401,Olive Green,OLV-06-401,Olive Green,Olive,Dark,GAP,No,Woven,97% Cotton 3% Spandex,100,Silicon Softener Finish,Reactive,EVEREST RED MG,0.935,ASUFIX GOLD YELLOW DEL - T,1.328,ZETALIGHT NAVY SG,1.056,ASATHIOSOL BLACK SH,0.706,4.025,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00402,Royal Blue,BLU-02-402,Royal Blue,Blue,Medium,CK,No,Woven,98% Cotton 2% Spandex,180,Acid Wash,Reactive,JAKAZOL RED DSB,0.102,JAKAZOL BLACK CECL,0.098,BEST ACID TURQ BLUE 3G,0.325,,0.0,0.524,Approved,30,20,40.0,10.0,1,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00403,Sage Green,GRN-11-403,Sage Green,Green,Light,TOMMY,No,Woven,100% Cotton,160,Acid Wash,Reactive,NOVOCRON RED FN3G,0.027,DYEWASH AMBER SD,0.014,JAKAZOL ORANGE CE,0.041,JAKAZOL BLUE HQ-C,0.014,0.097,Approved,30,20,20.0,5.0,2,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00404,Dusty Rose,PNK-03-404,Dusty Rose,Pink,Light,GAP,No,Woven,97% Cotton 3% Spandex,130,Stone Wash,Reactive,JAKAZOL RUBY DSB,0.176,BLUE HI WHITE B,0.138,,0.0,,0.0,0.314,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00405,Golden Yellow,YEL-20-405,Golden Yellow,Yellow,Medium,CK,No,Woven,97% Cotton 3% Spandex,165,Acid Wash,Reactive,JAKAZOL ORANGE 3R,0.532,,0.0,,0.0,,0.0,0.532,Approved,30,20,40.0,10.0,1,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00406,Forest Green,GRN-05-406,Forest Green,Green,Dark,TOMMY,No,Woven,100% Cotton,120,Bio-Polish,Reactive,JAKAZOL RED CE,4.761,,0.0,,0.0,,0.0,4.761,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00407,Desert Sand,SND-10-407,Desert Sand,Beige,Light,GAP,No,Woven,97% Cotton 3% Spandex,125,Peach Finish,Reactive,ZETANOL GREEN GW,0.485,,0.0,,0.0,,0.0,0.485,Approved,30,20,25.0,7.0,2,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00408,Khaki,KHK-16-408,Khaki,Khaki,Medium,GAP,Yes,Woven,100% Cotton,165,Silicon Softener Finish,Reactive,BEST ACID TURQ BLUE 3G,0.663,IC BLACK,0.72,,0.0,,0.0,1.383,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00409,Wine Red,RED-08-409,Wine Red,Red,Dark,TOMMY,No,Woven,100% Cotton,125,Bleach Clean,Reactive,JAKOFIX B BLUE HERD,1.435,SF HF YELLOW 3R GRAN,0.804,,0.0,,0.0,2.239,Approved,30,20,60.0,15.0,2,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00410,Chocolate Brown,BRN-13-410,Chocolate Brown,Brown,Dark,TOMMY,Yes,Woven,98% Cotton 2% Spandex,160,Silicon Softener Finish,Reactive,JAKAZOL YELLOW CE,1.782,NEARWASH VIOLET CS-B,1.604,,0.0,,0.0,3.386,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00411,Navy Blue,NAVY-01-411,Navy Blue,Navy,Dark,GAP,Yes,Woven,97% Cotton 3% Spandex,165,Peach Finish,Reactive,NEO GOLD YELLOW MFR,0.903,NEARWASH NAVY BLUE RCL,0.277,NEARWASH YELLOW RCL,0.833,SF S BLUE EXF G,0.907,2.92,Approved,30,20,60.0,15.0,1,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00412,Plum,PLM-17-412,Plum,Purple,Dark,CK,No,Woven,97% Cotton 3% Spandex,125,Enzyme Wash,Reactive,JAKAZOL RED SQ,1.067,JAKAZOL RED HQ,1.598,SF HF RED 4B GRAN,0.555,ASAHIFIX YELLOW XP-S,1.535,4.755,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00413,Navy Blue,NAVY-01-413,Navy Blue,Navy,Dark,GAP,No,Woven,97% Cotton 3% Spandex,165,Bio-Polish,Reactive,SF SN NAVY BLUE BF GRNN,4.721,,0.0,,0.0,,0.0,4.721,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00414,Dusty Rose,PNK-03-414,Dusty Rose,Pink,Light,GAP,No,Woven,98% Cotton 2% Spandex,180,Silicon Softener Finish,Reactive,NEO RED MFB CONC,0.02,MURAZOME YELLOW NJ,0.033,,0.0,,0.0,0.053,Approved,30,20,20.0,5.0,1,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00415,Olive Green,OLV-06-415,Olive Green,Olive,Dark,TOMMY,No,Woven,100% Cotton,120,Tint Wash,Reactive,NOVOCRON YELLOW S 3R,3.696,,0.0,,0.0,,0.0,3.696,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00416,Olive Green,OLV-06-416,Olive Green,Olive,Dark,GAP,No,Woven,98% Cotton 2% Spandex,100,Bleach Clean,Pigment,MINERPRINT BLACK KGR,3.429,,0.0,,0.0,,0.0,3.429,Approved,30,20,0.0,0.0,1,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00417,Burgundy,RED-07-417,Burgundy,Red,Dark,CK,No,Woven,98% Cotton 2% Spandex,160,Bleach Clean,Reactive,NEARWASH BLACK CS-XB,1.054,TAICRON YELLOW SE 4GT 200%,1.01,NOVOCRON RED FN3G,0.893,NEARWASH RED RCL,1.082,4.039,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00418,Slate Grey,GRY-15-418,Slate Grey,Grey,Medium,CK,No,Woven,100% Cotton,100,Stone Wash,Reactive,JAKAZOL ROYAL SLR,0.554,NEARWASH RED CS-S-MG,0.451,PERICOLOR BLUE DB,0.416,,0.0,1.421,Approved,30,20,50.0,13.0,2,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00419,Wine Red,RED-08-419,Wine Red,Red,Dark,CK,No,Woven,97% Cotton 3% Spandex,160,Stone Wash,Reactive,ZETANYL TURQUOISE  3G,0.871,DECOSOL BLUE DBL,1.003,NEBUDYE GREY L/B,1.008,JAKOFIX B RED HE7B,0.932,3.815,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00420,Slate Grey,GRY-15-420,Slate Grey,Grey,Medium,GAP,No,Woven,97% Cotton 3% Spandex,120,Acid Wash,Reactive,DISPERSE  BLACK SE CR,1.148,,0.0,,0.0,,0.0,1.148,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00421,Mustard Yellow,YEL-04-421,Mustard Yellow,Yellow,Medium,CK,No,Woven,97% Cotton 3% Spandex,165,Tint Wash,Pigment,MINERPRINT BLACK BI HC,0.394,LAVA BLACK GLF 01,0.401,MINERPRINT NAVY BLUE 5RF HC,0.268,,0.0,1.062,Approved,30,20,0.0,0.0,4,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00422,Dusty Rose,PNK-03-422,Dusty Rose,Pink,Light,TOMMY,No,Woven,100% Cotton,165,Stone Wash,Reactive,NEAREAFIX NAVY BLUE AC H,0.139,NEARWASH VIOLET CS-B,0.165,,0.0,,0.0,0.304,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00423,Mustard Yellow,YEL-04-423,Mustard Yellow,Yellow,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Silicon Softener Finish,Reactive,JAKAZOL BRILL BLUE RE 200,0.457,SF S RUBY 4BF,0.234,ZETANOL RED 3BW,0.488,,0.0,1.179,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00424,Khaki,KHK-16-424,Khaki,Khaki,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,100,Peach Finish,Reactive,JAKAZOL GOLDEN YELLOW HRNL,0.905,ASUDEL BLUE WRLS,0.971,,0.0,,0.0,1.876,Approved,30,20,50.0,13.0,4,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00425,Coral Pink,PNK-12-425,Coral Pink,Pink,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,165,Bleach Clean,Reactive,SOLARUS BLACK VSF,0.034,NEO BLUE MB,0.059,,0.0,,0.0,0.093,Approved,30,20,20.0,5.0,1,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00426,Khaki,KHK-16-426,Khaki,Khaki,Medium,TOMMY,Yes,Woven,100% Cotton,120,Acid Wash,Reactive,NEARWASH OLIVE RCL,1.582,,0.0,,0.0,,0.0,1.582,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00427,Olive Green,OLV-06-427,Olive Green,Olive,Dark,GAP,No,Woven,97% Cotton 3% Spandex,165,Peach Finish,Reactive,ZETADIRECT RED BWS,1.045,NEUTRILAN BLACK MR-X,1.688,,0.0,,0.0,2.733,Approved,30,20,60.0,15.0,3,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00428,Chocolate Brown,BRN-13-428,Chocolate Brown,Brown,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Enzyme Wash,Pigment,LAVA BLUE GLF 02,3.463,,0.0,,0.0,,0.0,3.463,Approved,30,20,0.0,0.0,2,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00429,Chocolate Brown,BRN-13-429,Chocolate Brown,Brown,Dark,TOMMY,Yes,Woven,97% Cotton 3% Spandex,130,Bleach Clean,Reactive,NEARSTONE GREEN D-GB,2.19,,0.0,,0.0,,0.0,2.19,Approved,30,20,60.0,15.0,2,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00430,Mustard Yellow,YEL-04-430,Mustard Yellow,Yellow,Medium,GAP,Yes,Woven,97% Cotton 3% Spandex,120,Enzyme Wash,Reactive,DYEWASH BLACK SD,0.67,ASUDEL BLACK M-SD,0.286,DYEWASH BRILL RED SD,0.401,,0.0,1.357,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00431,Navy Blue,NAVY-01-431,Navy Blue,Navy,Dark,GAP,No,Woven,97% Cotton 3% Spandex,180,Bleach Clean,Reactive,DYEWASH RUBINE,1.375,TAIACRYL GOLDEN YELLOW BRT 200%,0.714,SF S BLUE RSP L,0.908,NEAREAFIX NAVY BLUE AC H,0.566,3.563,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00432,Burgundy,RED-07-432,Burgundy,Red,Dark,GAP,No,Woven,100% Cotton,160,Peach Finish,Reactive,ASUDEL YELLOW BROWN WGR,1.307,SOLARUS BLUE B2R,0.775,JAKAZOL VIOLET 5R,0.44,JAKAZOL YELLOW HQ-C,0.621,3.142,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00433,Coral Pink,PNK-12-433,Coral Pink,Pink,Light,CK,No,Woven,97% Cotton 3% Spandex,160,Silicon Softener Finish,Reactive,NEAREAFIX RED AC H,0.15,NOVACRON RUBY S-3B,0.067,,0.0,,0.0,0.217,Approved,30,20,25.0,7.0,3,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00434,Coral Pink,PNK-12-434,Coral Pink,Pink,Light,TOMMY,No,Woven,100% Cotton,180,Acid Wash,Reactive,NEARWASH TURQUOISE RCL,0.481,,0.0,,0.0,,0.0,0.481,Approved,30,20,25.0,7.0,1,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00435,Turquoise,TRQ-18-435,Turquoise,Turquoise,Medium,TOMMY,No,Woven,100% Cotton,120,Peach Finish,Reactive,IC LEMON YELLOW,0.463,NEARWASH BLUE RCL,0.28,ZETAREACT BLUE L-3B,0.353,SINLOHI RED ORENGE SW-111,0.226,1.322,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00436,Coral Pink,PNK-12-436,Coral Pink,Pink,Light,CK,No,Woven,97% Cotton 3% Spandex,160,Bio-Polish,Reactive,NOVOCRON SUPER BLACK R,0.232,NEARWASH GREEN CS-BT,0.169,,0.0,,0.0,0.401,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00437,Dusty Rose,PNK-03-437,Dusty Rose,Pink,Light,CK,No,Woven,97% Cotton 3% Spandex,120,Stone Wash,Reactive,ASUPRINT BLUE -ECO BS,0.377,,0.0,,0.0,,0.0,0.377,Approved,30,20,25.0,7.0,4,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00438,Navy Blue,NAVY-01-438,Navy Blue,Navy,Dark,CK,No,Woven,97% Cotton 3% Spandex,100,Bio-Polish,Reactive,JAKAZOL RED MEGF,0.916,ZETANYL YELLOW C-3RL,1.906,SINLOHI ORANGE YELLOW  SW-116,1.223,,0.0,4.045,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00439,Teal Blue,TEA-14-439,Teal Blue,Teal,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,100,Peach Finish,Reactive,SINLOHI VIOLET SW 147,0.538,DYEAGE YELLOW R,0.394,,0.0,,0.0,0.932,Approved,30,20,40.0,10.0,1,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00440,Golden Yellow,YEL-20-440,Golden Yellow,Yellow,Medium,TOMMY,No,Woven,100% Cotton,160,Tint Wash,Reactive,DISPERSE  BLACK SE CR,0.578,ASATHIOSOC BROWN SRF,0.765,NEARWASH CRIMSON RHL,0.483,,0.0,1.826,Approved,30,20,50.0,13.0,4,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00441,Forest Green,GRN-05-441,Forest Green,Green,Dark,CK,No,Woven,98% Cotton 2% Spandex,130,Peach Finish,Reactive,IC ORANGE,1.48,SINLOHI ROSE SW-127,1.155,JAKAZOL YELLOW HRNL,0.708,DYEAGE BLACK RX,1.615,4.958,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00442,Chocolate Brown,BRN-13-442,Chocolate Brown,Brown,Dark,TOMMY,No,Woven,100% Cotton,120,Acid Wash,Reactive,DYEAGE YELLOW R,1.455,NOVOCRON ORANGE F-NR,1.345,SF S BLUE EXF G,0.845,,0.0,3.645,Approved,30,20,70.0,20.0,4,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00443,Forest Green,GRN-05-443,Forest Green,Green,Dark,TOMMY,No,Woven,97% Cotton 3% Spandex,120,Enzyme Wash,Reactive,NOVOCRON RED FN3G,0.81,TAICRON RUBINE SE-UNT GRAN,1.066,ASATHIOSOC YELLOW SRR,1.423,,0.0,3.299,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00444,Wine Red,RED-08-444,Wine Red,Red,Dark,CK,No,Woven,100% Cotton,130,Stone Wash,Reactive,IC SCARLET,1.999,TAICRON ORANGE E-3RT,1.881,,0.0,,0.0,3.88,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00445,Dusty Rose,PNK-03-445,Dusty Rose,Pink,Light,GAP,No,Woven,97% Cotton 3% Spandex,125,Acid Wash,Reactive,SF HF SCARLET 2G GRAN,0.084,ASUDEL NAVY BLUE DL,0.079,SF S YELLOW  EXF G,0.081,NOVACRON RED EC-3B,0.09,0.333,Approved,30,20,25.0,7.0,4,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00446,Sage Green,GRN-11-446,Sage Green,Green,Light,GAP,No,Woven,98% Cotton 2% Spandex,160,Stone Wash,Reactive,SF S BLUE RSP L,0.048,NEARWASH ORANGE RHL,0.038,NEARSTONE YELLOW D-GC,0.098,,0.0,0.184,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00447,Rust,RST-19-447,Rust,Brown,Medium,TOMMY,No,Woven,100% Cotton,120,Stone Wash,Pigment,LAVA VIOLET GLF,0.595,ZETATERA CARBON,1.284,,0.0,,0.0,1.879,Approved,30,20,0.0,0.0,3,Sample Tonello,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00448,Teal Blue,TEA-14-448,Teal Blue,Teal,Medium,CK,No,Woven,97% Cotton 3% Spandex,125,Peach Finish,Reactive,NOVOCRON SUPER BLACK G,0.601,,0.0,,0.0,,0.0,0.601,Approved,30,20,40.0,10.0,1,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00449,Burgundy,RED-07-449,Burgundy,Red,Dark,CK,No,Woven,98% Cotton 2% Spandex,165,Stone Wash,Reactive,SOLOPHENYL BLACK FGE,0.561,NEBUDYE RED M/B,0.535,NERO C,0.598,TAINASET BLUE PA-T,1.118,2.812,Approved,30,20,60.0,15.0,4,Sample Box Machine,15,22,5,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00450,Turquoise,TRQ-18-450,Turquoise,Turquoise,Medium,GAP,No,Woven,100% Cotton,160,Acid Wash,Reactive,JAKOFIX B YELLOW HE4G,0.483,DYEWASH GREEN SD,0.42,,0.0,,0.0,0.903,Approved,30,20,40.0,10.0,2,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00451,Sage Green,GRN-11-451,Sage Green,Green,Light,GAP,Yes,Woven,97% Cotton 3% Spandex,125,Silicon Softener Finish,Reactive,NEARSTONE GREEN D-GB,0.157,ASUDEL GREEN GGLN,0.075,ZETADIRECT GREY GLL,0.177,,0.0,0.409,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,1,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00452,Slate Grey,GRY-15-452,Slate Grey,Grey,Medium,GAP,No,Woven,100% Cotton,160,Bio-Polish,Reactive,NOVACRON RUBY S-3B,0.357,NEARWASH RED CS-S-MG,0.364,,0.0,,0.0,0.721,Approved,30,20,40.0,10.0,4,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00453,Navy Blue,NAVY-01-453,Navy Blue,Navy,Dark,TOMMY,No,Woven,100% Cotton,180,Bio-Polish,Reactive,ASUDEL  RED W-B,0.704,DYEWASH TURQUOISE BLUE SD,1.511,,0.0,,0.0,2.215,Approved,30,20,60.0,15.0,4,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00454,Chocolate Brown,BRN-13-454,Chocolate Brown,Brown,Dark,GAP,No,Woven,100% Cotton,180,Enzyme Wash,Pigment,MINERPRINT BLUE ECO BS,2.426,,0.0,,0.0,,0.0,2.426,Approved,30,20,0.0,0.0,1,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00455,Rust,RST-19-455,Rust,Brown,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,125,Tint Wash,Reactive,SINLOHI L YELLOW SW-115,1.531,,0.0,,0.0,,0.0,1.531,Approved,30,20,50.0,13.0,1,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00456,Navy Blue,NAVY-01-456,Navy Blue,Navy,Dark,GAP,No,Woven,98% Cotton 2% Spandex,130,Silicon Softener Finish,Reactive,JAKAZOL GOLDEN YELLOW HRNL,1.367,ZETAREACT FLUO YELLOW FL,1.61,NEARWASH YELLOW RCL,1.076,,0.0,4.053,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,1,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00457,Coral Pink,PNK-12-457,Coral Pink,Pink,Light,GAP,Yes,Woven,97% Cotton 3% Spandex,120,Silicon Softener Finish,Reactive,TAICRON YELLOWE E-3GT,0.091,IC LEMON YELLOW,0.075,ZETAREACT BLUE L-3B,0.071,,0.0,0.237,Approved,30,20,25.0,7.0,3,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00458,Dusty Rose,PNK-03-458,Dusty Rose,Pink,Light,GAP,Yes,Woven,100% Cotton,180,Silicon Softener Finish,Reactive,NOVOCRON YELLOW FN2R,0.107,SF HF RED 4B GRAN,0.051,ASUDEL NAVY BLUE W2R,0.035,DYEAGE NAVY BLUE RL,0.11,0.304,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00459,Golden Yellow,YEL-20-459,Golden Yellow,Yellow,Medium,CK,No,Woven,97% Cotton 3% Spandex,120,Bio-Polish,Reactive,SINLOHI RUBINE SW-137,0.253,SINLOHI RED SW 113,0.187,SF S RED 3G,0.471,SINLOHI RED ORENGE SW-111,0.387,1.299,Approved,30,20,50.0,13.0,2,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00460,Coral Pink,PNK-12-460,Coral Pink,Pink,Light,CK,No,Woven,100% Cotton,100,Enzyme Wash,Reactive,DYEWASH RUBINE,0.036,JAKOFIX B RED HE7B,0.039,RIFAZOL BLACK ED,0.038,,0.0,0.113,Approved,30,20,25.0,7.0,2,Sample Aventec,15,22,2,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00461,Navy Blue,NAVY-01-461,Navy Blue,Navy,Dark,CK,Yes,Woven,98% Cotton 2% Spandex,100,Stone Wash,Reactive,SF HF RED 4B GRAN,4.504,,0.0,,0.0,,0.0,4.504,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00462,Rust,RST-19-462,Rust,Brown,Medium,TOMMY,No,Woven,100% Cotton,130,Silicon Softener Finish,Reactive,SF HF BLUE 2R GRAN,0.642,NOVOCRON BRILLIANT BLUE LS-G,0.228,NEARWASH BLACK CS-XB,0.292,,0.0,1.162,Approved,30,20,50.0,13.0,1,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00463,Slate Grey,GRY-15-463,Slate Grey,Grey,Medium,CK,No,Woven,98% Cotton 2% Spandex,160,Bleach Clean,Reactive,EMACOL CT RED 4322,0.392,JAKOFIX B BLUE HERD,0.328,BLACK HI WHITE,0.224,SINLOHI CERISE SW-107,0.119,1.063,Approved,30,20,50.0,13.0,4,Sample Aventec,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00464,Chocolate Brown,BRN-13-464,Chocolate Brown,Brown,Dark,GAP,No,Woven,98% Cotton 2% Spandex,165,Bio-Polish,Reactive,DECOSOL YELLOW SD-R,2.233,,0.0,,0.0,,0.0,2.233,Approved,30,20,60.0,15.0,3,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00465,Burgundy,RED-07-465,Burgundy,Red,Dark,CK,No,Woven,98% Cotton 2% Spandex,120,Acid Wash,Reactive,JAKAZOL RED HLF,2.805,,0.0,,0.0,,0.0,2.805,Approved,30,20,60.0,15.0,1,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00466,Navy Blue,NAVY-01-466,Navy Blue,Navy,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,160,Acid Wash,Reactive,NEARWASH GREEN CS-P-SGL,0.917,DYEWASH BRILL YELLOW SD,0.624,ZETANOL RED 2B,0.623,BLUE NAVY HI WHITE,0.827,2.991,Approved,30,20,60.0,15.0,1,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00467,Slate Grey,GRY-15-467,Slate Grey,Grey,Medium,GAP,Yes,Woven,100% Cotton,165,Acid Wash,Reactive,EMACOL CT YELLOW 4631N,0.658,SF S B RED GF,0.611,,0.0,,0.0,1.269,Approved,30,20,50.0,13.0,3,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00468,Chocolate Brown,BRN-13-468,Chocolate Brown,Brown,Dark,GAP,No,Woven,97% Cotton 3% Spandex,160,Stone Wash,Reactive,BLUE NAVY HI WHITE,1.45,ASAHIFIX BLUE XP-BRF,1.241,DYEWASH TURQUOISE BLUE SD,0.468,NATURAL DYE TEA,0.476,3.636,Approved,30,20,70.0,20.0,3,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00469,Dusty Rose,PNK-03-469,Dusty Rose,Pink,Light,GAP,No,Woven,98% Cotton 2% Spandex,125,Tint Wash,Reactive,ZETALIGHT ORANGE R,0.061,DYEWASH RUBINE,0.055,DYEWASH BRILL BLUE SD,0.065,TAIACRY BLACK FDL-T,0.084,0.265,Approved,30,20,25.0,7.0,2,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00470,Charcoal Grey,GRY-09-470,Charcoal Grey,Grey,Dark,CK,No,Woven,97% Cotton 3% Spandex,100,Acid Wash,Reactive,EMACOL CT RED 4318,4.551,,0.0,,0.0,,0.0,4.551,Approved,30,20,70.0,20.0,2,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00471,Coral Pink,PNK-12-471,Coral Pink,Pink,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,180,Tint Wash,Pigment,LAVA BLUE GLF,0.173,NATURAL EARTH PIGMENT SHELL,0.215,,0.0,,0.0,0.388,Approved,30,20,0.0,0.0,3,Sample Tonello,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00472,Charcoal Grey,GRY-09-472,Charcoal Grey,Grey,Dark,TOMMY,No,Woven,100% Cotton,130,Silicon Softener Finish,Reactive,SOLOPHENYL YELLOW GLE,0.642,ASAHIFIX YELLOW XP-D,1.852,TAICRON YELLOWE E-3GT,1.821,,0.0,4.315,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,1,7 kg Aventec Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00473,Charcoal Grey,GRY-09-473,Charcoal Grey,Grey,Dark,CK,No,Woven,100% Cotton,100,Bleach Clean,Reactive,PERICOLOR BLUE DB,1.519,NOVOCRON NAVY SG,0.641,SINLOHI GREEN SW-112,0.48,,0.0,2.64,Approved,30,20,60.0,15.0,4,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00474,Khaki,KHK-16-474,Khaki,Khaki,Medium,CK,No,Woven,100% Cotton,165,Bio-Polish,Reactive,ASATHIOSOL BLACK SH,0.157,SOLOPHENYL BLACK FGE,0.149,TAICRON RUBINE SE-UNT GRAN,0.103,JAKAZOL BLACK BS,0.207,0.616,Approved,30,20,40.0,10.0,3,Sample Aventec,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00475,Teal Blue,TEA-14-475,Teal Blue,Teal,Medium,TOMMY,No,Woven,100% Cotton,130,Silicon Softener Finish,Reactive,ASAHIFIX YELLOW XP-3RF,0.826,,0.0,,0.0,,0.0,0.826,Approved,30,20,40.0,10.0,4,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00476,Burgundy,RED-07-476,Burgundy,Red,Dark,CK,No,Woven,100% Cotton,125,Peach Finish,Pigment,ZETATERA SAND,1.402,LAVA BLUE GLF 02,1.321,ZETATERA ORANGE,1.217,,0.0,3.94,Approved,30,20,0.0,0.0,4,Sample Box Machine,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00477,Olive Green,OLV-06-477,Olive Green,Olive,Dark,CK,No,Woven,97% Cotton 3% Spandex,130,Bio-Polish,Reactive,ZETALIGHT BLUE GE,1.616,JAKOFIX ORANGE HER,0.62,YELLOW HI WHITE,1.394,DECOSOL BLACK D-2R,1.347,4.976,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00478,Teal Blue,TEA-14-478,Teal Blue,Teal,Medium,GAP,No,Woven,98% Cotton 2% Spandex,160,Bio-Polish,Pigment,LAVA BLUE GLF 02,0.442,NATURAL EARTH PIGMENT CHARCOAL,0.505,ZETATERA EARTH,0.33,NATURAL EARTH PIGMENT OLIVE,0.576,1.853,Approved,30,20,0.0,0.0,2,Sample Box Machine,15,22,3,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00479,Navy Blue,NAVY-01-479,Navy Blue,Navy,Dark,TOMMY,No,Woven,100% Cotton,120,Peach Finish,Reactive,NEARSTONE YELLOW D-GC,1.187,EVERSEST YELLOW M-2R,2.697,TAIACRYL BLUE GRFT 200%,1.085,,0.0,4.969,Approved,30,20,70.0,20.0,4,Sample Aventec,15,22,5,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00480,Chocolate Brown,BRN-13-480,Chocolate Brown,Brown,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Stone Wash,Reactive,SF S RUBINE EXF G,1.894,DYEAGE YELLOW R,1.994,,0.0,,0.0,3.888,Approved,30,20,70.0,20.0,3,Sample Box Machine,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00481,Teal Blue,TEA-14-481,Teal Blue,Teal,Medium,GAP,No,Woven,97% Cotton 3% Spandex,120,Enzyme Wash,Reactive,TAIACRYL BLUE GRFT 200%,1.07,,0.0,,0.0,,0.0,1.07,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00482,Burgundy,RED-07-482,Burgundy,Red,Dark,CK,No,Woven,97% Cotton 3% Spandex,180,Bio-Polish,Reactive,JAKOFIX BRILL BLUE HEGN,2.248,,0.0,,0.0,,0.0,2.248,Approved,30,20,60.0,15.0,1,Sample Box Machine,15,22,5,7 kg Aventec Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00483,Forest Green,GRN-05-483,Forest Green,Green,Dark,TOMMY,No,Woven,100% Cotton,100,Stone Wash,Reactive,JAKAZOL BLUE CE,0.6,NEBUDYE NAVY BLUE -B,0.687,DECOSOL BLUE DBL,2.182,,0.0,3.468,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00484,Olive Green,OLV-06-484,Olive Green,Olive,Dark,TOMMY,No,Woven,100% Cotton,165,Enzyme Wash,Pigment,NATURAL EARTH PIGMENT CHARCOAL,0.93,ZETATERA PEACH,1.089,DIRESUL EARTH - CLAY LIQ,0.455,,0.0,2.474,Approved,30,20,0.0,0.0,1,Sample Box Machine,15,22,1,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00485,Navy Blue,NAVY-01-485,Navy Blue,Navy,Dark,TOMMY,No,Woven,100% Cotton,165,Silicon Softener Finish,Reactive,JAKAZOL BLACK CECL,0.792,BLACK HI WHITE,1.13,NEARWASH BROWN CS-SGR 150%,0.761,SOLARUS BLUE FFRL,1.266,3.949,Approved,30,20,70.0,20.0,2,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00486,Olive Green,OLV-06-486,Olive Green,Olive,Dark,GAP,Yes,Woven,98% Cotton 2% Spandex,130,Tint Wash,Reactive,NEARSTONE BLACK D-B,1.228,ZETADIRECT BLACK CA 600%,1.45,DYEAGE BLACK RX,1.139,,0.0,3.816,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,2,7 kg Aventec Machine,12,25,3,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00487,Golden Yellow,YEL-20-487,Golden Yellow,Yellow,Medium,CK,Yes,Woven,97% Cotton 3% Spandex,125,Bio-Polish,Pigment,MINERPRINT GOLDEN YELLOW RF HC,1.057,NATURAL EARTH PIGMENT RUST,0.621,,0.0,,0.0,1.678,Approved,30,20,0.0,0.0,3,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00488,Sage Green,GRN-11-488,Sage Green,Green,Light,GAP,No,Woven,98% Cotton 2% Spandex,120,Stone Wash,Reactive,SINLOHI ORANGE SW-114,0.037,JAKOFIX BRILL BLUE JRF,0.058,,0.0,,0.0,0.095,Approved,30,20,20.0,5.0,1,Sample Box Machine,15,22,4,7 kg Tonello Machine,12,25,3,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00489,Royal Blue,BLU-02-489,Royal Blue,Blue,Medium,TOMMY,No,Woven,98% Cotton 2% Spandex,130,Stone Wash,Pigment,MINERPRINT GOLDEN YELLOW RF HC,0.428,NATURAL EARTH PIGMENT SAHARA,0.424,,0.0,,0.0,0.852,Approved,30,20,0.0,0.0,1,Sample Tonello,15,22,3,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00490,Navy Blue,NAVY-01-490,Navy Blue,Navy,Dark,GAP,No,Woven,98% Cotton 2% Spandex,165,Bleach Clean,Reactive,NEO RED MGD,1.941,ASUFIX RED DEL - B,0.893,SOLARUS RED BWS,1.482,,0.0,4.316,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00491,Navy Blue,NAVY-01-491,Navy Blue,Navy,Dark,GAP,No,Woven,98% Cotton 2% Spandex,180,Bio-Polish,Reactive,IC SCARLET-F,4.165,,0.0,,0.0,,0.0,4.165,Approved,30,20,70.0,20.0,1,Sample Box Machine,15,22,1,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00492,Dusty Rose,PNK-03-492,Dusty Rose,Pink,Light,TOMMY,No,Woven,97% Cotton 3% Spandex,180,Bio-Polish,Reactive,DYEWASH RED SD,0.07,TAICRON BLUE E-ACT,0.183,,0.0,,0.0,0.253,Approved,30,20,25.0,7.0,4,Sample Box Machine,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00493,Charcoal Grey,GRY-09-493,Charcoal Grey,Grey,Dark,TOMMY,No,Woven,98% Cotton 2% Spandex,120,Stone Wash,Reactive,ASUPREND WS,0.943,NEARWASH GOLD YELLOW  RHL,1.606,SOLARUS YELLOW PG,1.948,,0.0,4.498,Approved,30,20,70.0,20.0,1,Sample Aventec,15,22,4,7 kg Aventec Machine,12,25,2,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00494,Chocolate Brown,BRN-13-494,Chocolate Brown,Brown,Dark,GAP,No,Woven,98% Cotton 2% Spandex,120,Peach Finish,Reactive,PERICOLOR GREEN VF,0.925,ZETANYL BLUE C-NF,0.976,EMACOL CT GREEN 4716,2.634,,0.0,4.535,Approved,30,20,70.0,20.0,4,Sample Tonello,15,22,5,7 kg Aventec Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00495,Teal Blue,TEA-14-495,Teal Blue,Teal,Medium,GAP,No,Woven,97% Cotton 3% Spandex,165,Stone Wash,Pigment,LAVA BLUE GLF 02,0.858,,0.0,,0.0,,0.0,0.858,Approved,30,20,0.0,0.0,2,Sample Tonello,15,22,1,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
+JOB-00496,Turquoise,TRQ-18-496,Turquoise,Turquoise,Medium,GAP,No,Woven,100% Cotton,120,Bio-Polish,Reactive,ASUDEL GOLDEN YELLOW WMR,0.17,NOVOCRON B TURQUOISE EC-GN,0.319,JAKOFIX B BLUE HERD,0.562,,0.0,1.051,Approved,30,20,50.0,13.0,2,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00497,Plum,PLM-17-497,Plum,Purple,Dark,TOMMY,No,Woven,100% Cotton,165,Acid Wash,Reactive,DYEAGE RUBINE B,2.869,ASUDEL GOLDEN YELLOW WMR,1.807,,0.0,,0.0,4.676,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,4,Bataji,10,28,Aventec Machine,8,32,1
+JOB-00498,Charcoal Grey,GRY-09-498,Charcoal Grey,Grey,Dark,TOMMY,No,Woven,100% Cotton,125,Bleach Clean,Reactive,ASATHIOSOC BRODEAOX S3B,1.46,BLUE HI WHITE B,1.144,IC RED,0.902,,0.0,3.505,Approved,30,20,70.0,20.0,2,Sample Aventec,15,22,3,7 kg Aventec Machine,12,25,2,Bataji,10,28,Tonello Machine,8,32,2
+JOB-00499,Forest Green,GRN-05-499,Forest Green,Green,Dark,GAP,No,Woven,98% Cotton 2% Spandex,125,Enzyme Wash,Reactive,ASUFIX GOLD YELLOW DEL - T,0.799,EVERSEST YELLOW M-2R,1.596,ZETAREACT BLUE L-3B,1.879,,0.0,4.273,Approved,30,20,70.0,20.0,1,Sample Tonello,15,22,2,7 kg Tonello Machine,12,25,1,Bataji,10,28,Aventec Machine,8,32,2
+JOB-00500,Wine Red,RED-08-500,Wine Red,Red,Dark,CK,No,Woven,100% Cotton,180,Stone Wash,Pigment,ZETATERA CARBON,1.389,ZETATERA ORANGE,1.929,NATURAL EARTH PIGMENT CHARCOAL,1.641,,0.0,4.959,Approved,30,20,0.0,0.0,1,Sample Tonello,15,22,3,7 kg Tonello Machine,12,25,4,Bataji,10,28,Tonello Machine,8,32,1
