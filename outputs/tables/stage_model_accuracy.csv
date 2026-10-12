@@ -1,5 +1,5 @@
 stage,stage_label,r2_recipe,mape_dyes_pct,mae_dyes_owf
-s1kg,1 kg Sample,0.99546,2.84242,0.00807
-s7kg,7 kg Sample,0.99531,2.96535,0.00847
-minibulk,Mini Bulk (20-75 kg),0.99516,3.12047,0.0088
-bulk,Bulk (100-500 kg),0.9947,3.53785,0.00947
+s1kg,1 kg Sample,0.99632,3.87187,0.00721
+s7kg,7 kg Sample,0.9964,3.83616,0.00751
+minibulk,Mini Bulk (20-75 kg),0.996,3.95787,0.00772
+bulk,Bulk (100-500 kg),0.99596,4.55702,0.00841

@@ -1,4 +1,4 @@
 regime,median_rel_error_pct,mean_rel_error_pct,p90_rel_error_pct,off_tolerance_rate_pct
-naive (lab dip carried over),10.4918,12.0653,25.7665,85.5625
-rule of thumb (standing factor),7.4202,8.2949,17.8683,77.8125
-AI platform (champion model),2.217,2.6445,5.1182,32.375
+naive (lab dip carried over),10.3475,12.0317,25.3925,84.9375
+rule of thumb (standing factor),7.2657,8.2501,17.6262,78.5625
+AI platform (champion model),2.2008,2.6179,4.8721,32.6875

@@ -185,6 +185,8 @@ DEPTH_LABEL_MAP = {
     "light-dark": "Dark",
     "deep": "Extra Dark",
     "medium-deep": "Extra Dark",
+    "pastel/light": "Pastel/Light",
+    "extra dark": "Extra Dark",
 }
 
 # Salt (Glauber salt) g/L window by depth class: electrolyte demand rises with
